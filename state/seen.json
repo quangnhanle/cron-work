@@ -1,0 +1,392 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-28T18:22:21+07:00",
+  "items": {
+    "rss:simonwillison:4e32c351abd8d17d": {
+      "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
+      "title": "datasette 0.65.5",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T11:07:15+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:2e8a5e66791ed507": {
+      "url": "https://simonwillison.net/2026/Sep/22/llm/",
+      "title": "llm 0.36",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T11:07:19+07:00",
+      "digestAt": "2026-09-24T11:07:19+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:c40a1cd0e489d726": {
+      "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
+      "title": "Be alert: targeted attacks on prominent Rustaceans",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T11:07:19+07:00",
+      "digestAt": "2026-09-24T11:07:19+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:6d6d661c684a6428": {
+      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T11:07:19+07:00",
+      "digestAt": "2026-09-24T11:07:19+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:b3e5263fa8976c3c": {
+      "url": "https://simonwillison.net/2026/Sep/21/jev/",
+      "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T11:07:19+07:00",
+      "digestAt": "2026-09-24T11:07:19+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:0d7b498b4e4acf53": {
+      "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
+      "title": "llm-typesafe 0.1a0",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T11:07:19+07:00",
+      "digestAt": "2026-09-24T11:07:19+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:6d026a20051380d1": {
+      "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
+      "title": "Note on 18th September 2026",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T16:39:27+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:c81040207630f754": {
+      "url": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
+      "title": "Shadow roots, explained with live examples",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T23:50:39+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:219c439494be37ce": {
+      "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+      "title": "Gemini Live audio",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T16:39:33+07:00",
+      "digestAt": "2026-09-24T16:39:33+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:f9d4182cc1e12525": {
+      "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+      "title": "llm-keys-ui 0.1",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T16:39:33+07:00",
+      "digestAt": "2026-09-24T16:39:33+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:e47986333e4f6766": {
+      "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+      "title": "Gemini 3.8 TTS Playground",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T16:39:33+07:00",
+      "digestAt": "2026-09-24T16:39:33+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:b3a971b72e2de3b7": {
+      "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
+      "title": "Cloudflare Python Workers are now generally available",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T16:39:33+07:00",
+      "digestAt": "2026-09-24T16:39:33+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:8f820c2b26f6994a": {
+      "url": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
+      "title": "llm-anthropic 0.29",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T10:28:45+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:edb6d5a5f85d653b": {
+      "url": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
+      "title": "Quoting @therealcornpop",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T23:50:39+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:33879f77e1536c69": {
+      "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
+      "title": "datasette-explain 0.2.2",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T23:51:00+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:3fb5c069cb2ad112": {
+      "url": "https://simonwillison.net/2026/Sep/16/datasette/",
+      "title": "datasette 1.0a40",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T23:51:22+07:00",
+      "digestAt": "2026-09-24T23:51:22+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:1b7a07575c93824e": {
+      "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T23:51:22+07:00",
+      "digestAt": "2026-09-24T23:51:22+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:5159a3d492b23299": {
+      "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
+      "title": "commit-rewriter 0.2",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T16:56:46+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:0fc7c0f362de8929": {
+      "url": "https://simonwillison.net/2026/Sep/24/datasette/",
+      "title": "datasette 1.0a41",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T10:29:12+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:0c114974aa55eb9d": {
+      "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
+      "title": "How To Write With An LLM",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T10:29:16+07:00",
+      "digestAt": "2026-09-25T10:29:16+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:35cfdc3ffbab38ec": {
+      "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
+      "title": "Quoting Mustafa Suleyman",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T10:29:16+07:00",
+      "digestAt": "2026-09-25T10:29:16+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:6533bdcc0f6c39c5": {
+      "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+      "title": "Self-generated prompt injections in compaction summaries",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T10:29:16+07:00",
+      "digestAt": "2026-09-25T10:29:16+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:327f7261ab07f686": {
+      "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
+      "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T16:56:47+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:41d15f7729de397a": {
+      "url": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
+      "title": "California Sea Lion, Brandt's Cormorant",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T16:56:47+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:bc4ce9d50d9b33de": {
+      "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
+      "title": "Claude Cowork and chat are now one Claude",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T16:56:54+07:00",
+      "digestAt": "2026-09-25T16:56:54+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:fb0112d2438294ff": {
+      "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+      "title": "datasette-auth-github 1.0",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T16:56:54+07:00",
+      "digestAt": "2026-09-25T16:56:54+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:e133d02a1d698c5d": {
+      "url": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
+      "title": "MCP was always a bad idea?",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T16:56:54+07:00",
+      "digestAt": "2026-09-25T16:56:54+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:eee7ce72da23ef2f": {
+      "url": "https://simonwillison.net/2026/Sep/24/harder/",
+      "title": "Note on 24th September 2026",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T23:54:24+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:078f2955607a3f9c": {
+      "url": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
+      "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T23:54:25+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:55668e9d93e2c01a": {
+      "url": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
+      "title": "The Creative Spirit of Who Framed Roger Rabbit",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T23:54:30+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:b4eea27689aebcc6": {
+      "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
+      "title": "Quoting Thariq Shihipar",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T23:54:33+07:00",
+      "digestAt": "2026-09-25T23:54:33+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:c8aee9fb8db23a5b": {
+      "url": "https://simonwillison.net/2026/Sep/20/voxium/",
+      "title": "Quoting voxium",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T23:54:33+07:00",
+      "digestAt": "2026-09-25T23:54:33+07:00",
+      "status": "sent"
+    },
+    "rss:joelonsoftware:https://www.joelonsoftware.com/?p=3282": {
+      "url": "https://www.joelonsoftware.com/2018/04/23/strange-and-maddening-rules/",
+      "title": "Strange and maddening rules",
+      "source": "rss:joelonsoftware",
+      "seenAt": "2026-09-25T23:54:33+07:00",
+      "digestAt": "2026-09-25T23:54:33+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:b467d6accdc2d682": {
+      "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+      "title": "Quoting John Gruber",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-26T10:34:33+07:00",
+      "digestAt": "2026-09-26T10:34:33+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:60485dd1ae9f6612": {
+      "url": "https://simonwillison.net/2026/Sep/17/hn-49747390/",
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-26T10:34:33+07:00",
+      "digestAt": "2026-09-26T10:34:33+07:00",
+      "status": "sent"
+    },
+    "rss:joelonsoftware:https://www.joelonsoftware.com/?p=3535": {
+      "url": "https://www.joelonsoftware.com/2019/03/28/the-next-ceo-of-stack-overflow/",
+      "title": "The next CEO of Stack Overflow",
+      "source": "rss:joelonsoftware",
+      "seenAt": "2026-09-26T10:34:33+07:00",
+      "digestAt": "2026-09-26T10:34:33+07:00",
+      "status": "sent"
+    },
+    "rss:joelonsoftware:https://www.joelonsoftware.com/?p=3260": {
+      "url": "https://www.joelonsoftware.com/2018/04/13/gamification/",
+      "title": "A Dusting of Gamification",
+      "source": "rss:joelonsoftware",
+      "seenAt": "2026-09-26T10:34:33+07:00",
+      "digestAt": "2026-09-26T10:34:33+07:00",
+      "status": "sent"
+    },
+    "rss:joelonsoftware:https://www.joelonsoftware.com/?p=3411": {
+      "url": "https://www.joelonsoftware.com/2018/05/03/announcing-stack-overflow-for-teams/",
+      "title": "Announcing Stack Overflow for Teams",
+      "source": "rss:joelonsoftware",
+      "seenAt": "2026-09-26T10:34:33+07:00",
+      "digestAt": "2026-09-26T10:34:33+07:00",
+      "status": "sent"
+    },
+    "rss:joelonsoftware:https://www.joelonsoftware.com/?p=3701": {
+      "url": "https://www.joelonsoftware.com/2020/06/18/hash-a-free-online-platform-for-modeling-the-world/",
+      "title": "HASH: a free, online platform for modeling the world",
+      "source": "rss:joelonsoftware",
+      "seenAt": "2026-09-26T10:34:33+07:00",
+      "digestAt": "2026-09-26T10:34:33+07:00",
+      "status": "sent"
+    },
+    "rss:joelonsoftware:https://www.joelonsoftware.com/?p=3612": {
+      "url": "https://www.joelonsoftware.com/2019/09/24/announcing-stack-overflows-new-ceo/",
+      "title": "Welcome, Prashanth!",
+      "source": "rss:joelonsoftware",
+      "seenAt": "2026-09-26T16:39:19+07:00",
+      "status": "skipped"
+    },
+    "rss:joelonsoftware:https://www.joelonsoftware.com/?p=3810": {
+      "url": "https://www.joelonsoftware.com/2021/06/02/kinda-a-big-announcement/",
+      "title": "Kinda a big announcement",
+      "source": "rss:joelonsoftware",
+      "seenAt": "2026-09-26T16:39:23+07:00",
+      "digestAt": "2026-09-26T16:39:23+07:00",
+      "status": "sent"
+    },
+    "rss:joelonsoftware:https://www.joelonsoftware.com/?p=3906": {
+      "url": "https://www.joelonsoftware.com/2022/01/27/making-the-web-better-with-blocks/",
+      "title": "Making the web better. With blocks!",
+      "source": "rss:joelonsoftware",
+      "seenAt": "2026-09-26T16:39:23+07:00",
+      "digestAt": "2026-09-26T16:39:23+07:00",
+      "status": "sent"
+    },
+    "rss:joelonsoftware:https://www.joelonsoftware.com/?p=4176": {
+      "url": "https://www.joelonsoftware.com/2022/12/19/progress-on-the-block-protocol/",
+      "title": "Progress on the Block Protocol",
+      "source": "rss:joelonsoftware",
+      "seenAt": "2026-09-26T16:39:23+07:00",
+      "digestAt": "2026-09-26T16:39:23+07:00",
+      "status": "sent"
+    },
+    "rss:joelonsoftware:https://www.joelonsoftware.com/?p=3635": {
+      "url": "https://www.joelonsoftware.com/2019/12/05/so-hows-that-retirement-thing-going-anyway/",
+      "title": "So, how’s that retirement thing going, anyway?",
+      "source": "rss:joelonsoftware",
+      "seenAt": "2026-09-26T16:39:23+07:00",
+      "digestAt": "2026-09-26T16:39:23+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:669d8cd0cb0cb12c": {
+      "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
+      "title": "Kākāpō Party",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-27T10:43:06+07:00",
+      "digestAt": "2026-09-27T10:43:06+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:7db4974c11ebd58e": {
+      "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+      "title": "2026 in LLMs (so far)",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-28T10:42:14+07:00",
+      "digestAt": "2026-09-28T10:42:14+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:f5edbd3b23d95b4a": {
+      "url": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
+      "title": "Bluesky reply bot checker",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-28T10:42:14+07:00",
+      "digestAt": "2026-09-28T10:42:14+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:97397d7fa75c5084": {
+      "url": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
+      "title": "S3 Is the Future, S3 Is the Past",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-28T10:42:14+07:00",
+      "digestAt": "2026-09-28T10:42:14+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:03a38f20f9628179": {
+      "url": "https://simonwillison.net/2026/Sep/23/hn-49823961/",
+      "title": "We just shipped support for the ugliest part of HTTP: Vary",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-28T10:42:14+07:00",
+      "digestAt": "2026-09-28T10:42:14+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:1fb466641ec80a8d": {
+      "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+      "title": "Quoting Muse AI Agent",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-28T18:22:21+07:00",
+      "digestAt": "2026-09-28T18:22:21+07:00",
+      "status": "sent"
+    }
+  }
+}
