@@ -38,7 +38,7 @@ export function formatDigestHeading(date = new Date(), timeZone = 'Asia/Ho_Chi_M
   when: string;
 } {
   const slot = detectDigestSlot(date, timeZone);
-  const emoji = slot === 'morning' ? '☀️' : slot === 'midday' ? '🌤' : '🌙';
+  const emoji = slot === 'morning' ? '☀️' : slot === 'midday' ? '🌤️' : '🌙';
   const label =
     slot === 'morning' ? 'Morning Digest' : slot === 'midday' ? 'Midday Digest' : 'Evening Digest';
   const when = new Intl.DateTimeFormat('en-GB', {

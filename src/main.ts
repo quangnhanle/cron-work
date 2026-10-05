@@ -122,8 +122,8 @@ async function main(): Promise<void> {
       botToken: config.telegramBotToken,
       chatId: config.telegramChatId,
       header,
-      articles: sendable.map((summary) => ({
-        text: formatArticle(summary),
+      articles: sendable.map((summary, index) => ({
+        text: formatArticle(summary, { index: index + 1, total: sendable.length }),
         replyMarkup: buildArticleKeyboard(summary),
       })),
       dryRun: config.dryRun,

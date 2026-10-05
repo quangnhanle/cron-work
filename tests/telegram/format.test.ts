@@ -19,12 +19,14 @@ describe('telegram format', () => {
       readingMinutes: 8,
       bullets: ['One <trick>', 'Two', 'Three'],
       keyInsight: 'Trade-offs beat slogans.',
+      hook: 'A practical guide to scaling safely.',
       item: {
         id: 'hn:1',
         url: 'https://example.com/a',
         title: 'Design & Scale',
         source: 'hn',
         score: 12,
+        points: 128,
         discussionUrl: 'https://news.ycombinator.com/item?id=1',
       },
     };
@@ -35,20 +37,24 @@ describe('telegram format', () => {
       when: 'Thu 24 Sep, 07:00 ICT',
       count: 1,
     });
-    expect(header).toContain('<b>Morning Digest</b>');
-    expect(header).toContain('<code>1 picks</code>');
+    expect(header).toContain('☀️ <b>Morning Digest</b>');
+    expect(header).toContain('🗓 Thu 24 Sep, 07:00 ICT');
+    expect(header).toContain('📚 <b>1 article</b>');
 
-    const body = formatArticle(summary);
-    expect(body).toContain('<b>Design &amp; Scale</b>');
+    const body = formatArticle(summary, { index: 1, total: 6 });
+    expect(body).toContain('📌 <b>1/6 · Design &amp; Scale</b>');
+    expect(body).toContain('📰 Hacker News  ·  ⏱ 8 min read  ·  ▲ 128 HN points');
+    expect(body).toContain('🏷 #system_design  #interview');
+    expect(body).toContain('<i>A practical guide to scaling safely.</i>');
     expect(body).toContain('• One &lt;trick&gt;');
-    expect(body).toContain('Key insight');
+    expect(body).toContain('💡 <b>Why it matters</b>');
 
     const keyboard = buildArticleKeyboard(summary);
     expect(keyboard).toEqual({
       inline_keyboard: [
         [
-          { text: 'Read article', url: 'https://example.com/a' },
-          { text: 'HN discussion', url: 'https://news.ycombinator.com/item?id=1' },
+          { text: '📖 Read article', url: 'https://example.com/a' },
+          { text: '💬 HN discussion', url: 'https://news.ycombinator.com/item?id=1' },
         ],
       ],
     });

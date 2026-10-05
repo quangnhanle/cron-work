@@ -1,10 +1,30 @@
 import type { ArticleSummary } from '../fetchers/types.ts';
 
+export interface ArticleFormatOptions {
+  index?: number;
+  total?: number;
+}
+
 export function escapeHtml(input: string): string {
   return input
     .replaceAll('&', '&amp;')
     .replaceAll('<', '&lt;')
     .replaceAll('>', '&gt;');
+}
+
+function formatSource(source: string): string {
+  if (source === 'hn') return 'Hacker News';
+
+  return source
+    .replace(/^rss:/, '')
+    .split(/[-_]/)
+    .filter(Boolean)
+    .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
+    .join(' ');
+}
+
+function formatTag(tag: string): string {
+  return `#${tag.trim().replace(/[\s-]+/g, '_')}`;
 }
 
 export function formatHeader(input: {
@@ -13,39 +33,71 @@ export function formatHeader(input: {
   when: string;
   count: number;
 }): string {
+  const articleLabel = input.count === 1 ? 'article' : 'articles';
+
   return [
-    `${input.emoji} <b>${escapeHtml(input.label)}</b> · ${escapeHtml(input.when)}`,
-    `<code>${input.count} picks</code> for software engineers`,
+    `${input.emoji} <b>${escapeHtml(input.label)}</b>`,
+    `🗓 ${escapeHtml(input.when)}`,
+    '',
+    `📚 <b>${input.count} ${articleLabel}</b> curated for software engineers`,
+    '<i>Fresh ideas, practical takeaways, no noise.</i>',
   ].join('\n');
 }
 
-export function formatArticle(summary: ArticleSummary): string {
+export function formatArticle(
+  summary: ArticleSummary,
+  options: ArticleFormatOptions = {},
+): string {
+  const position =
+    options.index && options.total ? `${options.index}/${options.total} · ` : '';
   const tags = summary.topicTags
     .slice(0, 3)
-    .map((t) => `<b>${escapeHtml(t)}</b>`)
-    .join(' · ');
+    .map(formatTag)
+    .map(escapeHtml)
+    .join('  ');
   const bullets = summary.bullets
     .slice(0, 5)
-    .map((b) => `• ${escapeHtml(b)}`)
+    .map((bullet) => `• ${escapeHtml(bullet)}`)
     .join('\n');
-  return [
-    `🏷 ${tags}  ·  ⏱ ${summary.readingMinutes} min`,
-    `<b>${escapeHtml(summary.item.title)}</b>`,
+  const metadata = [
+    `📰 ${escapeHtml(formatSource(summary.item.source))}`,
+    `⏱ ${summary.readingMinutes} min read`,
+  ];
+
+  if (summary.item.points) {
+    metadata.push(`▲ ${summary.item.points} HN points`);
+  }
+
+  const lines = [
+    `📌 <b>${position}${escapeHtml(summary.item.title)}</b>`,
+    metadata.join('  ·  '),
+  ];
+
+  if (tags) lines.push(`🏷 ${tags}`);
+  if (summary.hook?.trim()) {
+    lines.push('', `<i>${escapeHtml(summary.hook.trim())}</i>`);
+  }
+
+  lines.push(
     '',
+    '<b>Key takeaways</b>',
     bullets,
     '',
-    `💡 <i>Key insight: ${escapeHtml(summary.keyInsight)}</i>`,
-  ].join('\n');
+    '💡 <b>Why it matters</b>',
+    `<i>${escapeHtml(summary.keyInsight)}</i>`,
+  );
+
+  return lines.join('\n');
 }
 
 export function buildArticleKeyboard(summary: ArticleSummary): {
   inline_keyboard: { text: string; url: string }[][];
 } {
   const row: { text: string; url: string }[] = [
-    { text: 'Read article', url: summary.item.url },
+    { text: '📖 Read article', url: summary.item.url },
   ];
   if (summary.item.discussionUrl) {
-    row.push({ text: 'HN discussion', url: summary.item.discussionUrl });
+    row.push({ text: '💬 HN discussion', url: summary.item.discussionUrl });
   }
   return { inline_keyboard: [row] };
 }
