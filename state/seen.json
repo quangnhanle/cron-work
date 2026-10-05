@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T11:26:03+07:00",
+  "updatedAt": "2026-10-05T19:04:03+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -527,6 +527,53 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-10-05T11:26:03+07:00",
       "digestAt": "2026-10-05T11:26:03+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:e48a7f736f56ad59": {
+      "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+      "title": "Quoting Matthew Green",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-05T19:03:16+07:00",
+      "status": "skipped"
+    },
+    "rss:martin-fowler:fafe571b74e06e1f": {
+      "url": "https://martinfowler.com/fragments/2026-10-04.html",
+      "title": "Fragments: October  4",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-05T19:04:03+07:00",
+      "digestAt": "2026-10-05T19:04:03+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M3XM9KVCRB6JKE07Q88EPGD2": {
+      "url": "https://blog.cloudflare.com/introducing-web-search-api/",
+      "title": "Introducing Web Search API via AI Gateway",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-05T19:04:03+07:00",
+      "digestAt": "2026-10-05T19:04:03+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M3WEQR3N79CDBSMHD5V067HA": {
+      "url": "https://blog.cloudflare.com/protected-quick-tunnels/",
+      "title": "Protected Quick Tunnels: simple accountless authentication for your next dev project",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-05T19:04:03+07:00",
+      "digestAt": "2026-10-05T19:04:03+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M3XKBJCTDTMBBCNNHA141F04": {
+      "url": "https://blog.cloudflare.com/streamline/",
+      "title": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-05T19:04:03+07:00",
+      "digestAt": "2026-10-05T19:04:03+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M3SPF7C022M529Q6GGNRYHHJ": {
+      "url": "https://blog.cloudflare.com/ai-search-ga/",
+      "title": "AI Search is now generally available",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-05T19:04:03+07:00",
+      "digestAt": "2026-10-05T19:04:03+07:00",
       "status": "sent"
     }
   }
