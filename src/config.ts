@@ -71,8 +71,8 @@ export function loadConfig(rootDir = process.cwd()): AppConfig {
   const dryRun = process.env.DRY_RUN === '1' || process.env.DRY_RUN === 'true';
 
   const telegramBotToken = dryRun
-    ? process.env.TELEGRAM_QUANTUM_BOT_TOKEN ?? 'dry-run-token'
-    : requiredEnv('TELEGRAM_QUANTUM_BOT_TOKEN');
+    ? process.env.TELEGRAM_BOT_TOKEN ?? 'dry-run-token'
+    : requiredEnv('TELEGRAM_BOT_TOKEN');
   const telegramChatId = dryRun
     ? process.env.TELEGRAM_CHAT_ID ?? 'dry-run-chat'
     : requiredEnv('TELEGRAM_CHAT_ID');
