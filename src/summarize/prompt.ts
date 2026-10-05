@@ -9,6 +9,12 @@ which missing evidence stage should be checked next. For every breakthrough clai
 verification order: press release -> arXiv preprint -> peer-reviewed paper -> independent analysis.
 Never imply that an arXiv preprint is peer reviewed.
 Style: clear, technically precise, slightly skeptical, no fluff or marketing tone.
+Language rules:
+- Keep the source title exactly as provided; never translate or rewrite it.
+- Write hook, bullets, and keyInsight in natural Vietnamese.
+- Keep established technical terms, acronyms, product names, and paper names in English when
+  translating them would reduce precision.
+- Keep topicTags as short English kebab-case tags.
 Output MUST be valid JSON matching the schema. Keep total output under 300 tokens.
 If the item is weak, off-topic, or does not materially match a priority theme, set "skip": true.`;
 
@@ -24,5 +30,6 @@ export function buildUserPrompt(item: RankedItem, text: string): string {
     text,
     '',
     'Return JSON with keys: skip, topicTags, readingMinutes, bullets, keyInsight, hook.',
+    'Reminder: hook, bullets, and keyInsight must be in Vietnamese; do not translate the title.',
   ].join('\n');
 }

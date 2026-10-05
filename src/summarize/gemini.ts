@@ -32,11 +32,12 @@ export async function summarizeArticle(input: {
         (input.item.source === 'hn' ? ['hn'] : ['rss']),
       readingMinutes: Math.max(1, Math.ceil(input.text.split(/\s+/).length / 200)),
       bullets: [
-        'Dry-run bullet one',
-        'Dry-run bullet two',
-        'Dry-run bullet three',
+        'Ý chính thứ nhất ở chế độ chạy thử.',
+        'Ý chính thứ hai ở chế độ chạy thử.',
+        'Ý chính thứ ba ở chế độ chạy thử.',
       ],
-      keyInsight: 'Dry-run mode: LLM call skipped.',
+      keyInsight: 'Đây là chế độ chạy thử nên lời gọi mô hình đã được bỏ qua.',
+      hook: 'Bản mô tả chạy thử bằng tiếng Việt.',
     };
   }
 

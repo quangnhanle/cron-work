@@ -39,22 +39,23 @@ describe('telegram format', () => {
     });
     expect(header).toContain('☀️ <b>Morning Digest</b>');
     expect(header).toContain('🗓 Thu 24 Sep, 07:00 ICT');
-    expect(header).toContain('📚 <b>1 article</b>');
+    expect(header).toContain('📚 <b>1 bài đáng đọc</b> về điện toán lượng tử');
 
     const body = formatArticle(summary, { index: 1, total: 6 });
     expect(body).toContain('📌 <b>1/6 · Design &amp; Scale</b>');
-    expect(body).toContain('📰 Hacker News  ·  ⏱ 8 min read  ·  ▲ 128 HN points');
+    expect(body).toContain('📰 Hacker News  ·  ⏱ 8 phút đọc  ·  ▲ 128 HN points');
     expect(body).toContain('🏷 #system_design  #interview');
     expect(body).toContain('<i>A practical guide to scaling safely.</i>');
     expect(body).toContain('• One &lt;trick&gt;');
-    expect(body).toContain('💡 <b>Why it matters</b>');
+    expect(body).toContain('<b>Điểm chính</b>');
+    expect(body).toContain('💡 <b>Vì sao đáng chú ý</b>');
 
     const keyboard = buildArticleKeyboard(summary);
     expect(keyboard).toEqual({
       inline_keyboard: [
         [
-          { text: '📖 Read article', url: 'https://example.com/a' },
-          { text: '💬 HN discussion', url: 'https://news.ycombinator.com/item?id=1' },
+          { text: '📖 Đọc bài', url: 'https://example.com/a' },
+          { text: '💬 Thảo luận HN', url: 'https://news.ycombinator.com/item?id=1' },
         ],
       ],
     });
