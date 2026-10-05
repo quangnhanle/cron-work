@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T09:42:13+07:00",
+  "updatedAt": "2026-10-05T10:25:37+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -431,6 +431,54 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-10-05T09:42:13+07:00",
       "digestAt": "2026-10-05T09:42:13+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:e99223cbf5a2eb4e": {
+      "url": "https://martinfowler.com/articles/llm-and-dsls.html",
+      "title": "DSLs Enable Reliable Use of LLMs",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-05T10:25:37+07:00",
+      "digestAt": "2026-10-05T10:25:37+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:b99d27ea6c29ca6d": {
+      "url": "https://martinfowler.com/articles/archaeologist-copilot.html",
+      "title": "The Archaeologist’s Copilot",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-05T10:25:37+07:00",
+      "digestAt": "2026-10-05T10:25:37+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M3T5GMDCTRDCS7CFJSMSJ2TS": {
+      "url": "https://blog.cloudflare.com/network-performance-birthday-week-2026/",
+      "title": "2026 Birthday week: network performance update",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-05T10:25:37+07:00",
+      "digestAt": "2026-10-05T10:25:37+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M3WNK9KTV3615MEM25RN3E4H": {
+      "url": "https://blog.cloudflare.com/account-abuse-protection-dashboard/",
+      "title": "Follow the thread: a new dashboard to investigate account abuse",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-05T10:25:37+07:00",
+      "digestAt": "2026-10-05T10:25:37+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M3TESBKM9T71XXXK1XMDP4PZ": {
+      "url": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
+      "title": "One year later: Sovereign AI and the fight for choice",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-05T10:25:37+07:00",
+      "digestAt": "2026-10-05T10:25:37+07:00",
+      "status": "sent"
+    },
+    "rss:github-engineering:https://github.blog/?p=97770": {
+      "url": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
+      "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+      "source": "rss:github-engineering",
+      "seenAt": "2026-10-05T10:25:37+07:00",
+      "digestAt": "2026-10-05T10:25:37+07:00",
       "status": "sent"
     }
   }
