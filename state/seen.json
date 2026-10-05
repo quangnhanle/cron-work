@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T11:09:47+07:00",
+  "updatedAt": "2026-10-05T11:20:42+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -495,6 +495,70 @@
       "source": "rss:prx-quantum",
       "seenAt": "2026-10-05T11:09:47+07:00",
       "digestAt": "2026-10-05T11:09:47+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2606.19482v2": {
+      "url": "https://arxiv.org/abs/2606.19482",
+      "title": "Nearest-neighbour gates are all you need: High-rate quantum low-density parity-check codes on a planar grid",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-05T11:20:42+07:00",
+      "digestAt": "2026-10-05T11:20:42+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.03399v1": {
+      "url": "https://arxiv.org/abs/2610.03399",
+      "title": "Optimizing quantum error correction through error attribution",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-05T11:20:42+07:00",
+      "digestAt": "2026-10-05T11:20:42+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2607.06557v2": {
+      "url": "https://arxiv.org/abs/2607.06557",
+      "title": "Quantum Channel Polynomial Processing",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-05T11:20:42+07:00",
+      "digestAt": "2026-10-05T11:20:42+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.02786v1": {
+      "url": "https://arxiv.org/abs/2610.02786",
+      "title": "Quantum Error-Corrected Memories Keep Proper Time",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-05T11:20:42+07:00",
+      "digestAt": "2026-10-05T11:20:42+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.02916v1": {
+      "url": "https://arxiv.org/abs/2610.02916",
+      "title": "Quasiparticle quantum simulation of materials with the Bethe-Salpeter equation",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-05T11:20:42+07:00",
+      "digestAt": "2026-10-05T11:20:42+07:00",
+      "status": "sent"
+    },
+    "rss:quantum-journal:https://quantum-journal.org/?post_type=paper&p=18664": {
+      "url": "https://quantum-journal.org/papers/q-2026-09-01-2198/",
+      "title": "A brief history of quantum vs classical computational advantage",
+      "source": "rss:quantum-journal",
+      "seenAt": "2026-10-05T11:20:42+07:00",
+      "digestAt": "2026-10-05T11:20:42+07:00",
+      "status": "sent"
+    },
+    "rss:prx-quantum:616e4b119cf09931": {
+      "url": "http://link.aps.org/doi/10.1103/jgv8-l3j1",
+      "title": "End-to-End Quantum Algorithms for the Jones Polynomial",
+      "source": "rss:prx-quantum",
+      "seenAt": "2026-10-05T11:20:42+07:00",
+      "digestAt": "2026-10-05T11:20:42+07:00",
+      "status": "sent"
+    },
+    "rss:quantum-journal:https://quantum-journal.org/?post_type=paper&p=18881": {
+      "url": "https://quantum-journal.org/papers/q-2026-10-01-2224/",
+      "title": "Fast Bosonic Control via Multiphoton Qubit-Oscillator Interactions",
+      "source": "rss:quantum-journal",
+      "seenAt": "2026-10-05T11:20:42+07:00",
+      "digestAt": "2026-10-05T11:20:42+07:00",
       "status": "sent"
     }
   }
