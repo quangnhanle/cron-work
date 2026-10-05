@@ -40,8 +40,8 @@ export function formatDigestHeading(date = new Date(), timeZone = 'Asia/Ho_Chi_M
   const slot = detectDigestSlot(date, timeZone);
   const emoji = slot === 'morning' ? '☀️' : slot === 'midday' ? '🌤️' : '🌙';
   const label =
-    slot === 'morning' ? 'Morning Digest' : slot === 'midday' ? 'Midday Digest' : 'Evening Digest';
-  const when = new Intl.DateTimeFormat('en-GB', {
+    slot === 'morning' ? 'Bản tin sáng' : slot === 'midday' ? 'Bản tin trưa' : 'Bản tin tối';
+  const when = new Intl.DateTimeFormat('vi-VN', {
     timeZone,
     weekday: 'short',
     day: '2-digit',

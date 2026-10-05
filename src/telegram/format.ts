@@ -33,14 +33,14 @@ export function formatHeader(input: {
   when: string;
   count: number;
 }): string {
-  const articleLabel = input.count === 1 ? 'article' : 'articles';
+  const articleLabel = 'bài đáng đọc';
 
   return [
     `${input.emoji} <b>${escapeHtml(input.label)}</b>`,
     `🗓 ${escapeHtml(input.when)}`,
     '',
-    `📚 <b>${input.count} ${articleLabel}</b> curated for software engineers`,
-    '<i>Fresh ideas, practical takeaways, no noise.</i>',
+    `📚 <b>${input.count} ${articleLabel}</b> dành cho kỹ sư phần mềm`,
+    '<i>Ý tưởng mới, bài học thực tế, không nhiễu.</i>',
   ].join('\n');
 }
 
@@ -61,7 +61,7 @@ export function formatArticle(
     .join('\n');
   const metadata = [
     `📰 ${escapeHtml(formatSource(summary.item.source))}`,
-    `⏱ ${summary.readingMinutes} min read`,
+    `⏱ ${summary.readingMinutes} phút đọc`,
   ];
 
   if (summary.item.points) {
@@ -80,10 +80,10 @@ export function formatArticle(
 
   lines.push(
     '',
-    '<b>Key takeaways</b>',
+    '<b>Điểm chính</b>',
     bullets,
     '',
-    '💡 <b>Why it matters</b>',
+    '💡 <b>Vì sao đáng chú ý</b>',
     `<i>${escapeHtml(summary.keyInsight)}</i>`,
   );
 
@@ -94,10 +94,10 @@ export function buildArticleKeyboard(summary: ArticleSummary): {
   inline_keyboard: { text: string; url: string }[][];
 } {
   const row: { text: string; url: string }[] = [
-    { text: '📖 Read article', url: summary.item.url },
+    { text: '📖 Đọc bài', url: summary.item.url },
   ];
   if (summary.item.discussionUrl) {
-    row.push({ text: '💬 HN discussion', url: summary.item.discussionUrl });
+    row.push({ text: '💬 Thảo luận HN', url: summary.item.discussionUrl });
   }
   return { inline_keyboard: [row] };
 }
