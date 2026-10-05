@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T10:25:37+07:00",
+  "updatedAt": "2026-10-05T11:26:03+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -479,6 +479,54 @@
       "source": "rss:github-engineering",
       "seenAt": "2026-10-05T10:25:37+07:00",
       "digestAt": "2026-10-05T10:25:37+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:85ae60baefcbcf5c": {
+      "url": "https://martinfowler.com/fragments/2026-08-24.html",
+      "title": "Fragments: August 24",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-05T11:26:03+07:00",
+      "digestAt": "2026-10-05T11:26:03+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:49db9a6662d2fb5e": {
+      "url": "https://martinfowler.com/fragments/2026-09-01.html",
+      "title": "Fragments: September  1",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-05T11:26:03+07:00",
+      "digestAt": "2026-10-05T11:26:03+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:d9fbb5d07fdb6b98": {
+      "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+      "title": "I don't like LLMs",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-05T11:26:03+07:00",
+      "digestAt": "2026-10-05T11:26:03+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:92852f6b830041a3": {
+      "url": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
+      "title": "Making Your Data Ready for Agentic AI",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-05T11:26:03+07:00",
+      "digestAt": "2026-10-05T11:26:03+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M3XHCB64KZ1NTN3N83GY590B": {
+      "url": "https://blog.cloudflare.com/one-observability-platform/",
+      "title": "8 major updates to Cloudflare Observability",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-05T11:26:03+07:00",
+      "digestAt": "2026-10-05T11:26:03+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M3XE7G2V6JJXPKX92B1D4080": {
+      "url": "https://blog.cloudflare.com/cloudflare-tracing/",
+      "title": "Introducing Cloudflare Traces: follow requests through our entire platform",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-05T11:26:03+07:00",
+      "digestAt": "2026-10-05T11:26:03+07:00",
       "status": "sent"
     }
   }
