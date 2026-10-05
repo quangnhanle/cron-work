@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T09:42:13+07:00",
+  "updatedAt": "2026-10-05T11:09:47+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -431,6 +431,70 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-10-05T09:42:13+07:00",
       "digestAt": "2026-10-05T09:42:13+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2609.13546v2": {
+      "url": "https://arxiv.org/abs/2609.13546",
+      "title": "WISER: Systematic Design-Space Exploration of Trapped Ions with Multiplexed Control",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-05T11:09:47+07:00",
+      "digestAt": "2026-10-05T11:09:47+07:00",
+      "status": "sent"
+    },
+    "rss:quantum-journal:https://quantum-journal.org/?post_type=paper&p=18839": {
+      "url": "https://quantum-journal.org/papers/q-2026-09-30-2219/",
+      "title": "Performance of the spin qubit shuttling architecture for a surface code implementation",
+      "source": "rss:quantum-journal",
+      "seenAt": "2026-10-05T11:09:47+07:00",
+      "digestAt": "2026-10-05T11:09:47+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2602.20452v3": {
+      "url": "https://arxiv.org/abs/2602.20452",
+      "title": "A Unified Error Correction Code for Universal Quantum Computing with Identical Particles",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-05T11:09:47+07:00",
+      "digestAt": "2026-10-05T11:09:47+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.03318v1": {
+      "url": "https://arxiv.org/abs/2610.03318",
+      "title": "Beyond Pure Dephasing: Quantum Error Correction in Single Molecules Requires Multiple Spins",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-05T11:09:47+07:00",
+      "digestAt": "2026-10-05T11:09:47+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.03605v1": {
+      "url": "https://arxiv.org/abs/2610.03605",
+      "title": "Efficient fidelity simulation of high-rate magic distillation circuits",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-05T11:09:47+07:00",
+      "digestAt": "2026-10-05T11:09:47+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.03682v1": {
+      "url": "https://arxiv.org/abs/2610.03682",
+      "title": "Low-Overhead Quantum Error Correction with Boundary-Connected Planar Modules",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-05T11:09:47+07:00",
+      "digestAt": "2026-10-05T11:09:47+07:00",
+      "status": "sent"
+    },
+    "rss:prx-quantum:a9ef979a40e769ef": {
+      "url": "http://link.aps.org/doi/10.1103/xysy-q3fp",
+      "title": "End-to-End Quantum Algorithm for Nonlinear Fluid Dynamics with Bounded Quantum Advantage",
+      "source": "rss:prx-quantum",
+      "seenAt": "2026-10-05T11:09:47+07:00",
+      "digestAt": "2026-10-05T11:09:47+07:00",
+      "status": "sent"
+    },
+    "rss:prx-quantum:c3ce23985c22eea8": {
+      "url": "http://link.aps.org/doi/10.1103/y14y-7kp3",
+      "title": "No-Go Theorem on Fault Tolerant Gadgets for Multiple Logical Qubits",
+      "source": "rss:prx-quantum",
+      "seenAt": "2026-10-05T11:09:47+07:00",
+      "digestAt": "2026-10-05T11:09:47+07:00",
       "status": "sent"
     }
   }
