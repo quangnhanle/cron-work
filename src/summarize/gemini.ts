@@ -27,7 +27,9 @@ export async function summarizeArticle(input: {
     return {
       item: input.item,
       skip: false,
-      topicTags: input.item.source === 'hn' ? ['hn'] : ['rss'],
+      topicTags:
+        input.item.sourceTags?.slice(0, 3) ??
+        (input.item.source === 'hn' ? ['hn'] : ['rss']),
       readingMinutes: Math.max(1, Math.ceil(input.text.split(/\s+/).length / 200)),
       bullets: [
         'Dry-run bullet one',

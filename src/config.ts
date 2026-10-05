@@ -8,9 +8,16 @@ export interface RssSourceConfig {
   weight: number;
   tags?: string[];
   enabled?: boolean;
+  contentMode?: 'article' | 'feed';
+  evidenceStage?: 'press-release' | 'preprint' | 'peer-reviewed' | 'independent-analysis';
+  days?: Weekday[];
+  maxSelected?: number;
 }
 
+export type Weekday = 'sun' | 'mon' | 'tue' | 'wed' | 'thu' | 'fri' | 'sat';
+
 export interface SourcesConfig {
+  timezone?: string;
   hn: {
     enabled: boolean;
     weight: number;
@@ -43,6 +50,7 @@ export interface AppConfig {
   geminiModel: string;
   seenPath: string;
   dryRun: boolean;
+  runAllSources: boolean;
 }
 
 function loadYaml<T>(path: string): T {
@@ -63,8 +71,8 @@ export function loadConfig(rootDir = process.cwd()): AppConfig {
   const dryRun = process.env.DRY_RUN === '1' || process.env.DRY_RUN === 'true';
 
   const telegramBotToken = dryRun
-    ? process.env.TELEGRAM_BOT_TOKEN ?? 'dry-run-token'
-    : requiredEnv('TELEGRAM_BOT_TOKEN');
+    ? process.env.TELEGRAM_QUANTUM_BOT_TOKEN ?? 'dry-run-token'
+    : requiredEnv('TELEGRAM_QUANTUM_BOT_TOKEN');
   const telegramChatId = dryRun
     ? process.env.TELEGRAM_CHAT_ID ?? 'dry-run-chat'
     : requiredEnv('TELEGRAM_CHAT_ID');
@@ -81,5 +89,22 @@ export function loadConfig(rootDir = process.cwd()): AppConfig {
     geminiModel: process.env.GEMINI_MODEL ?? 'gemini-3.5-flash-lite',
     seenPath: resolve(rootDir, 'state/seen.json'),
     dryRun,
+    runAllSources:
+      process.env.RUN_ALL_SOURCES === '1' || process.env.RUN_ALL_SOURCES === 'true',
   };
+}
+
+export function isRssSourceDue(
+  source: RssSourceConfig,
+  timezone: string,
+  now = new Date(),
+): boolean {
+  if (!source.days?.length) return true;
+  const weekday = new Intl.DateTimeFormat('en-US', {
+    timeZone: timezone,
+    weekday: 'short',
+  })
+    .format(now)
+    .toLowerCase() as Weekday;
+  return source.days.includes(weekday);
 }

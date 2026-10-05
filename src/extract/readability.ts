@@ -18,10 +18,24 @@ function truncate(text: string, maxChars: number): string {
   return `${text.slice(0, maxChars).trimEnd()}\n…`;
 }
 
+function feedText(item: RawItem): string {
+  const html = item.rawContent || item.snippet || '';
+  const dom = new JSDOM(`<body>${html}</body>`);
+  return normalizeText(dom.window.document.body.textContent ?? '');
+}
+
 export async function extractArticle(
   item: RawItem,
   truncateChars: number,
 ): Promise<ExtractResult> {
+  if (item.contentMode === 'feed') {
+    const text = truncate(feedText(item), truncateChars);
+    const wordCount = text.split(/\s+/).filter(Boolean).length;
+    return wordCount >= 25
+      ? { ok: true, text, wordCount }
+      : { ok: false, text: '', wordCount: 0 };
+  }
+
   try {
     const html = await fetchText(item.url, { timeoutMs: 12_000 });
     const dom = new JSDOM(html, { url: item.url });

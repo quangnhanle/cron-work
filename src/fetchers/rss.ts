@@ -7,6 +7,7 @@ const parser = new Parser({
   timeout: 12_000,
   headers: {
     'user-agent': 'news-bot/0.1 (+https://github.com/binhvc/news-bot)',
+    accept: 'application/rss+xml, application/atom+xml, application/xml, text/xml, */*',
   },
 });
 
@@ -20,7 +21,7 @@ export async function fetchRssSource(source: RssSourceConfig): Promise<RawItem[]
       const guid = entry.guid?.trim() || stableHash(url);
       const snippet = (entry.contentSnippet || entry.summary || entry.content || '')
         .toString()
-        .slice(0, 500);
+        .slice(0, 5_000);
       const rawContent = (entry['content:encoded'] || entry.content || entry.summary || '')
         .toString();
       const item: RawItem = {
@@ -31,6 +32,9 @@ export async function fetchRssSource(source: RssSourceConfig): Promise<RawItem[]
         publishedAt: entry.isoDate || entry.pubDate,
         snippet,
         rawContent,
+        contentMode: source.contentMode,
+        sourceTags: source.tags,
+        evidenceStage: source.evidenceStage,
       };
       return item;
     })

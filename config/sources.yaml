@@ -1,31 +1,56 @@
+timezone: Asia/Ho_Chi_Minh
+
 hn:
-  enabled: true
-  weight: 8
+  enabled: false
+  weight: 0
   windowHours: 24
   maxItems: 40
 
 rss:
- - id: simonwillison
-   url: https://simonwillison.net/atom/everything/
-   weight: 9
-   tags: [ai, tooling]
+  # Daily: arXiv quant-ph/new. Feed mode guarantees that the bot only reads
+  # metadata supplied by arXiv (title + abstract), never the paper body/PDF.
+  - id: arxiv-quant-ph
+    url: https://rss.arxiv.org/rss/quant-ph
+    weight: 8
+    tags: [quant-ph, preprint]
+    evidenceStage: preprint
+    contentMode: feed
+    days: [mon, tue, wed, thu, fri, sat, sun]
+    maxSelected: 5
 
- - id: github-engineering
-   url: https://github.blog/engineering/feed/
-   weight: 8
-   tags: [engineering, architecture, tooling]
+  # Announcement/industry watch: three times per week.
+  - id: quantum-computing-report
+    url: https://quantumcomputingreport.com/feed/
+    weight: 8
+    tags: [announcement, industry, analysis]
+    evidenceStage: independent-analysis
+    days: [mon, wed, fri]
+    maxSelected: 3
 
- - id: cloudflare
-   url: https://blog.cloudflare.com/rss/
-   weight: 8
-   tags: [distributed-systems, security, performance]
+  # Peer-reviewed journal sweep: once per week.
+  - id: prx-quantum
+    url: https://feeds.aps.org/rss/recent/prxquantum.xml
+    weight: 9
+    tags: [journal, peer-reviewed, prx-quantum]
+    evidenceStage: peer-reviewed
+    contentMode: feed
+    days: [sun]
+    maxSelected: 2
 
- - id: netflix-tech
-   url: https://netflixtechblog.com/feed
-   weight: 8
-   tags: [distributed-systems, data, performance]
+  - id: quantum-journal
+    url: https://quantum-journal.org/feed/
+    weight: 9
+    tags: [journal, peer-reviewed, quantum]
+    evidenceStage: peer-reviewed
+    contentMode: feed
+    days: [sun]
+    maxSelected: 2
 
- - id: martin-fowler
-   url: https://martinfowler.com/feed.atom
-   weight: 7
-   tags: [architecture, engineering]
+  - id: npj-quantum-information
+    url: https://www.nature.com/npjqi.rss
+    weight: 9
+    tags: [journal, peer-reviewed, npj-quantum-information]
+    evidenceStage: peer-reviewed
+    contentMode: feed
+    days: [sun]
+    maxSelected: 2

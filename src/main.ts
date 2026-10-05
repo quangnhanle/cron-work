@@ -1,4 +1,4 @@
-import { loadConfig } from './config.ts';
+import { isRssSourceDue, loadConfig } from './config.ts';
 import { extractArticle } from './extract/readability.ts';
 import { fetchHnTop } from './fetchers/hn.ts';
 import { fetchAllRss } from './fetchers/rss.ts';
@@ -33,7 +33,12 @@ async function main(): Promise<void> {
   pruneSeen(seen, new Date(), 30);
 
   const raw: RawItem[] = [];
-  raw.push(...(await fetchAllRss(config.sources.rss)));
+  const timezone = config.sources.timezone ?? 'Asia/Ho_Chi_Minh';
+  const dueSources = config.runAllSources
+    ? config.sources.rss
+    : config.sources.rss.filter((source) => isRssSourceDue(source, timezone));
+  console.log(`RSS sources due: ${dueSources.map((source) => source.id).join(', ') || 'none'}`);
+  raw.push(...(await fetchAllRss(dueSources)));
   if (config.sources.hn.enabled) {
     try {
       const hnItems = await fetchHnTop({
@@ -47,12 +52,16 @@ async function main(): Promise<void> {
   }
 
   const sourceWeights: Record<string, number> = { hn: config.sources.hn.weight };
+  const sourceLimits: Record<string, number> = {};
   for (const src of config.sources.rss) {
     sourceWeights[src.id] = src.weight;
     sourceWeights[`rss:${src.id}`] = src.weight;
+    if (src.maxSelected !== undefined) {
+      sourceLimits[`rss:${src.id}`] = src.maxSelected;
+    }
   }
 
-  const ranked = rankItems(raw, seen, config.topics, sourceWeights);
+  const ranked = rankItems(raw, seen, config.topics, sourceWeights, sourceLimits);
   console.log(`Fetched ${raw.length} items; selected ${ranked.length}`);
   if (ranked.length === 0) {
     saveSeen(config.seenPath, seen);

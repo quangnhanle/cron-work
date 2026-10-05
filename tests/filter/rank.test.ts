@@ -76,4 +76,21 @@ describe('rankItems', () => {
     );
     expect(ranked.map((r) => r.id)).toEqual(['3']);
   });
+
+  it('applies per-source selection limits without wasting global slots', () => {
+    const seen: SeenStore = { version: 1, updatedAt: '', items: {} };
+    const ranked = rankItems(
+      [
+        item({ id: '1', title: 'TypeScript one', source: 'rss:a' }),
+        item({ id: '2', title: 'TypeScript two', source: 'rss:a' }),
+        item({ id: '3', title: 'TypeScript three', source: 'rss:b' }),
+      ],
+      seen,
+      topics,
+      { a: 9, b: 8 },
+      { 'rss:a': 1 },
+    );
+
+    expect(ranked.map((r) => r.id)).toEqual(['1', '3']);
+  });
 });

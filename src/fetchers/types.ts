@@ -10,6 +10,9 @@ export interface RawItem {
   snippet?: string;
   discussionUrl?: string;
   rawContent?: string;
+  contentMode?: 'article' | 'feed';
+  sourceTags?: string[];
+  evidenceStage?: 'press-release' | 'preprint' | 'peer-reviewed' | 'independent-analysis';
 }
 
 export interface RankedItem extends RawItem {

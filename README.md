@@ -1,12 +1,12 @@
 # news-bot
 
-Personal curated software-engineering reading digest delivered to Telegram via GitHub Actions.
+Personal curated quantum-computing research digest delivered to Telegram via GitHub Actions.
 
 ## What it does
 
-1. Fetches RSS feeds + Hacker News
-2. Filters for SE-relevant topics (AI/tooling, interviews, system design, etc.)
-3. Cleans article text and summarizes with Gemini Flash
+1. Checks arXiv quant-ph daily, Quantum Computing Report three times/week, and three journals weekly
+2. Filters for QEC, fault tolerance, logical qubits, quantum advantage, surface codes, and algorithms
+3. Uses RSS title/abstract for arXiv and journals; extracts QCR articles before summarizing with Gemini Flash
 4. Sends a timed digest to Telegram (header + one message per article)
 5. Commits `state/seen.json` so articles are not resent
 
@@ -36,8 +36,10 @@ npm run digest
 
 Workflow: `.github/workflows/digest.yml`
 
-- 07:00 / 12:00 / 19:00 Asia/Ho_Chi_Minh
+- 07:00 Asia/Ho_Chi_Minh; per-source weekdays live in `config/sources.yaml`
 - Manual: Actions → Reading Digest → Run workflow
+
+Manual runs set `RUN_ALL_SOURCES=true`, so they check every configured source regardless of weekday.
 
 ## Docs
 

@@ -56,6 +56,7 @@ export function rankItems(
   seen: SeenStore,
   topics: TopicsConfig,
   sourceWeights: Record<string, number>,
+  sourceLimits: Record<string, number> = {},
 ): RankedItem[] {
   const ranked: RankedItem[] = [];
   for (const item of items) {
@@ -65,5 +66,15 @@ export function rankItems(
     ranked.push({ ...item, score });
   }
   ranked.sort((a, b) => b.score - a.score || a.title.localeCompare(b.title));
-  return ranked.slice(0, topics.topK);
+  const selected: RankedItem[] = [];
+  const counts: Record<string, number> = {};
+  for (const item of ranked) {
+    const limit = sourceLimits[item.source];
+    const count = counts[item.source] ?? 0;
+    if (limit !== undefined && count >= limit) continue;
+    selected.push(item);
+    counts[item.source] = count + 1;
+    if (selected.length >= topics.topK) break;
+  }
+  return selected;
 }

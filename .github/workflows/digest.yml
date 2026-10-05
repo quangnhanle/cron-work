@@ -2,10 +2,8 @@ name: Reading Digest
 
 on:
   schedule:
-    # 07:00 / 12:00 / 19:00 Asia/Ho_Chi_Minh (UTC+7)
+    # 07:00 Asia/Ho_Chi_Minh (UTC+7); per-source weekdays are configured in sources.yaml
     - cron: '0 0 * * *'
-    - cron: '0 5 * * *'
-    - cron: '0 12 * * *'
   workflow_dispatch:
 
 concurrency:
@@ -36,11 +34,12 @@ jobs:
 
       - name: Run digest pipeline
         env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_QUANTUM_BOT_TOKEN: ${{ secrets.TELEGRAM_QUANTUM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: gemini-3.5-flash-lite
           TZ: Asia/Ho_Chi_Minh
+          RUN_ALL_SOURCES: ${{ github.event_name == 'workflow_dispatch' }}
         run: npm run digest
 
       - name: Commit seen state
