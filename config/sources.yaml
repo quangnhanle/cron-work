@@ -1,20 +1,31 @@
 hn:
   enabled: true
   weight: 8
-  windowHours: 18
+  windowHours: 24
   maxItems: 40
 
 rss:
-  - id: simonwillison
-    url: https://simonwillison.net/atom/everything/
-    weight: 10
-    tags: [ai, tooling]
-  - id: joelonsoftware
-    url: https://www.joelonsoftware.com/feed/
-    weight: 7
-    tags: [engineering]
-  - id: maria-systems
-    url: https://example.com/replace-me/rss.xml
-    weight: 6
-    tags: [system-design]
-    enabled: false
+ - id: simonwillison
+   url: https://simonwillison.net/atom/everything/
+   weight: 9
+   tags: [ai, tooling]
+
+ - id: github-engineering
+   url: https://github.blog/engineering/feed/
+   weight: 8
+   tags: [engineering, architecture, tooling]
+
+ - id: cloudflare
+   url: https://blog.cloudflare.com/rss/
+   weight: 8
+   tags: [distributed-systems, security, performance]
+
+ - id: netflix-tech
+   url: https://netflixtechblog.com/feed
+   weight: 8
+   tags: [distributed-systems, data, performance]
+
+ - id: martin-fowler
+   url: https://martinfowler.com/feed.atom
+   weight: 7
+   tags: [architecture, engineering]
