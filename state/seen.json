@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T19:04:03+07:00",
+  "updatedAt": "2026-10-06T10:32:04+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -574,6 +574,53 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-10-05T19:04:03+07:00",
       "digestAt": "2026-10-05T19:04:03+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:c09be9600918381c": {
+      "url": "https://simonwillison.net/2026/Sep/28/llm-anthropic/",
+      "title": "llm-anthropic 0.30",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-06T10:32:00+07:00",
+      "status": "skipped"
+    },
+    "rss:cloudflare:01M45M6M9H2C1A45G0S8EC3KW9": {
+      "url": "https://blog.cloudflare.com/birthday-week-2026-wrap-up/",
+      "title": "Everything we launched during Birthday Week 2026",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-06T10:32:04+07:00",
+      "digestAt": "2026-10-06T10:32:04+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:d43019accfd19e1e": {
+      "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+      "title": "Quoting Felix Rieseberg",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-06T10:32:04+07:00",
+      "digestAt": "2026-10-06T10:32:04+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M40C00BDZBKANZ5QVXW0AD7X": {
+      "url": "https://blog.cloudflare.com/one-year-later-1111-interns/",
+      "title": "One year later: the power of 1.1.1.1 interns",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-06T10:32:04+07:00",
+      "digestAt": "2026-10-06T10:32:04+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:69f5bd9058f87f8c": {
+      "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
+      "title": "Qwen3.8 27B addition in words",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-06T10:32:04+07:00",
+      "digestAt": "2026-10-06T10:32:04+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:b11f8970e721dabc": {
+      "url": "https://simonwillison.net/2026/Oct/1/pwasm/",
+      "title": "pwasm 0.2a0",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-06T10:32:04+07:00",
+      "digestAt": "2026-10-06T10:32:04+07:00",
       "status": "sent"
     }
   }
