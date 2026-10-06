@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T10:32:04+07:00",
+  "updatedAt": "2026-10-06T18:46:43+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -621,6 +621,54 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-10-06T10:32:04+07:00",
       "digestAt": "2026-10-06T10:32:04+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M3T6X21KEDC6DH8GGSGV13HR": {
+      "url": "https://blog.cloudflare.com/managed-cloudflare-os/",
+      "title": "Cloudflare OS: your company’s agent workspace, managed for you",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-06T18:46:43+07:00",
+      "digestAt": "2026-10-06T18:46:43+07:00",
+      "status": "sent"
+    },
+    "rss:netflix-tech:https://medium.com/p/f20be6f643e3": {
+      "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4",
+      "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+      "source": "rss:netflix-tech",
+      "seenAt": "2026-10-06T18:46:43+07:00",
+      "digestAt": "2026-10-06T18:46:43+07:00",
+      "status": "sent"
+    },
+    "rss:netflix-tech:https://medium.com/p/0f3468349607": {
+      "url": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4",
+      "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
+      "source": "rss:netflix-tech",
+      "seenAt": "2026-10-06T18:46:43+07:00",
+      "digestAt": "2026-10-06T18:46:43+07:00",
+      "status": "sent"
+    },
+    "rss:github-engineering:https://github.blog/?p=98586": {
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+      "title": "How we make AI coding more cost efficient without sacrificing task quality",
+      "source": "rss:github-engineering",
+      "seenAt": "2026-10-06T18:46:43+07:00",
+      "digestAt": "2026-10-06T18:46:43+07:00",
+      "status": "sent"
+    },
+    "rss:github-engineering:https://github.blog/?p=99030": {
+      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+      "title": "Improving site performance by shipping more CSS",
+      "source": "rss:github-engineering",
+      "seenAt": "2026-10-06T18:46:43+07:00",
+      "digestAt": "2026-10-06T18:46:43+07:00",
+      "status": "sent"
+    },
+    "rss:netflix-tech:https://medium.com/p/a5a8e799ea2c": {
+      "url": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4",
+      "title": "In-House LLM Serving at Netflix",
+      "source": "rss:netflix-tech",
+      "seenAt": "2026-10-06T18:46:43+07:00",
+      "digestAt": "2026-10-06T18:46:43+07:00",
       "status": "sent"
     }
   }
