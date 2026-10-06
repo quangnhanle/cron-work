@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T11:20:42+07:00",
+  "updatedAt": "2026-10-06T12:10:10+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -559,6 +559,30 @@
       "source": "rss:quantum-journal",
       "seenAt": "2026-10-05T11:20:42+07:00",
       "digestAt": "2026-10-05T11:20:42+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.01902v2": {
+      "url": "https://arxiv.org/abs/2610.01902",
+      "title": "Exponential quantum advantages for decoded quantum interferometry in the streaming setting",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-06T12:10:10+07:00",
+      "digestAt": "2026-10-06T12:10:10+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2607.09639v2": {
+      "url": "https://arxiv.org/abs/2607.09639",
+      "title": "A Quantum Path to Partial Differential Equations",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-06T12:10:10+07:00",
+      "digestAt": "2026-10-06T12:10:10+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2503.19790v2": {
+      "url": "https://arxiv.org/abs/2503.19790",
+      "title": "Clifford gates with logical transversality for self-dual CSS codes",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-06T12:10:10+07:00",
+      "digestAt": "2026-10-06T12:10:10+07:00",
       "status": "sent"
     }
   }
