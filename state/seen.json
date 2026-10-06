@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T18:46:43+07:00",
+  "updatedAt": "2026-10-07T24:37:32+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -669,6 +669,46 @@
       "source": "rss:netflix-tech",
       "seenAt": "2026-10-06T18:46:43+07:00",
       "digestAt": "2026-10-06T18:46:43+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:40554e21f87e8f4b": {
+      "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
+      "title": "Scrimshaw Jukebox",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-07T24:37:32+07:00",
+      "digestAt": "2026-10-07T24:37:32+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M3TJPSZAN4TKGKX6HWSNQWEP": {
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-07T24:37:32+07:00",
+      "digestAt": "2026-10-07T24:37:32+07:00",
+      "status": "sent"
+    },
+    "rss:github-engineering:https://github.blog/?p=97894": {
+      "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
+      "title": "Turn one giant AI-generated pull request to a reviewable stack",
+      "source": "rss:github-engineering",
+      "seenAt": "2026-10-07T24:37:32+07:00",
+      "digestAt": "2026-10-07T24:37:32+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M3SQCB0ZE7ZPK6M13HGY41T3": {
+      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-07T24:37:32+07:00",
+      "digestAt": "2026-10-07T24:37:32+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:1637cad8fb067e70": {
+      "url": "https://martinfowler.com/bliki/ParacelsusMaxim.html",
+      "title": "Bliki: Paracelsus Maxim",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-07T24:37:32+07:00",
+      "digestAt": "2026-10-07T24:37:32+07:00",
       "status": "sent"
     }
   }
