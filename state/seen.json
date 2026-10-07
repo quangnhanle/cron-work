@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T24:37:32+07:00",
+  "updatedAt": "2026-10-07T09:56:56+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -709,6 +709,51 @@
       "source": "rss:martin-fowler",
       "seenAt": "2026-10-07T24:37:32+07:00",
       "digestAt": "2026-10-07T24:37:32+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:1244a96b60ce1871": {
+      "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
+      "title": "llm-mistral 0.16",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-07T09:56:49+07:00",
+      "status": "extract_failed"
+    },
+    "rss:simonwillison:d1e512dab3854dc0": {
+      "url": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
+      "title": "Quoting Victoria Kim",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-07T09:56:51+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:1f6a7ac23b124288": {
+      "url": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
+      "title": "EmbeddingGemma 2",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-07T09:56:53+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:62c509640c5df97d": {
+      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+      "title": "llm-openai-decisions 0.1a0",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-07T09:56:56+07:00",
+      "digestAt": "2026-10-07T09:56:56+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:16278565d5091551": {
+      "url": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/",
+      "title": "Using Parseable with Datasette for OpenTelemetry traces",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-07T09:56:56+07:00",
+      "digestAt": "2026-10-07T09:56:56+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:a919ba35a5e056c2": {
+      "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+      "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-07T09:56:56+07:00",
+      "digestAt": "2026-10-07T09:56:56+07:00",
       "status": "sent"
     }
   }
