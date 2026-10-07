@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T18:30:52+07:00",
+  "updatedAt": "2026-10-08T01:10:18+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -783,6 +783,46 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-10-07T18:30:52+07:00",
       "digestAt": "2026-10-07T18:30:52+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:4c30b4b05fcb88be": {
+      "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
+      "title": "Anti-Patterns in Software Blogging",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-08T01:10:18+07:00",
+      "digestAt": "2026-10-08T01:10:18+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M490D3EE2TBV2NFMN6FXMMQ8": {
+      "url": "https://blog.cloudflare.com/root-ksk-2024-rollover/",
+      "title": "The keys to the Internet change on October 11. Are you ready?",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-08T01:10:18+07:00",
+      "digestAt": "2026-10-08T01:10:18+07:00",
+      "status": "sent"
+    },
+    "rss:github-engineering:https://github.blog/?p=97604": {
+      "url": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
+      "title": "The cost of saying yes has changed",
+      "source": "rss:github-engineering",
+      "seenAt": "2026-10-08T01:10:18+07:00",
+      "digestAt": "2026-10-08T01:10:18+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:4be9081f9e05fb91": {
+      "url": "https://martinfowler.com/bliki/SensibleDefault.html",
+      "title": "Bliki: Sensible Default",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-08T01:10:18+07:00",
+      "digestAt": "2026-10-08T01:10:18+07:00",
+      "status": "sent"
+    },
+    "rss:github-engineering:https://github.blog/?p=99275": {
+      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+      "title": "Building Git infrastructure for agent-scale development",
+      "source": "rss:github-engineering",
+      "seenAt": "2026-10-08T01:10:18+07:00",
+      "digestAt": "2026-10-08T01:10:18+07:00",
       "status": "sent"
     }
   }
