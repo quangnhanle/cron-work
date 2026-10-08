@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T10:14:01+07:00",
+  "updatedAt": "2026-10-08T18:46:21+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -855,6 +855,46 @@
       "source": "rss:martin-fowler",
       "seenAt": "2026-10-08T10:14:01+07:00",
       "digestAt": "2026-10-08T10:14:01+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:f1dd89d7a2d59c24": {
+      "url": "https://martinfowler.com/fragments/2026-07-21.html",
+      "title": "Fragments: July 21",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-08T18:46:21+07:00",
+      "digestAt": "2026-10-08T18:46:21+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:73d164d48488f1d8": {
+      "url": "https://martinfowler.com/fragments/2026-09-08.html",
+      "title": "Fragments: September  8",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-08T18:46:21+07:00",
+      "digestAt": "2026-10-08T18:46:21+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:5dce93a1c80371a2": {
+      "url": "https://martinfowler.com/fragments/2026-09-24.html",
+      "title": "Fragments: September 24",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-08T18:46:21+07:00",
+      "digestAt": "2026-10-08T18:46:21+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:049f4e6c926ec9a7": {
+      "url": "https://martinfowler.com/articles/healthy-peer-feedback.html",
+      "title": "Healthy Feedback",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-08T18:46:21+07:00",
+      "digestAt": "2026-10-08T18:46:21+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:fa2cf7f3abc01193": {
+      "url": "https://martinfowler.com/rachels-ramblings/code-review.html",
+      "title": "Maybe We Shouldn't Be Reviewing All This Code",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-08T18:46:21+07:00",
+      "digestAt": "2026-10-08T18:46:21+07:00",
       "status": "sent"
     }
   }
