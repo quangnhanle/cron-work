@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T18:46:21+07:00",
+  "updatedAt": "2026-10-09T01:11:52+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -895,6 +895,22 @@
       "source": "rss:martin-fowler",
       "seenAt": "2026-10-08T18:46:21+07:00",
       "digestAt": "2026-10-08T18:46:21+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M4ATYPWQETFZA4EZJ5AJYSFT": {
+      "url": "https://blog.cloudflare.com/radar-redesign/",
+      "title": "Bridging technical depth and usability: The story behind Radar’s redesign",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-09T01:11:52+07:00",
+      "digestAt": "2026-10-09T01:11:52+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:2cc2ae252fb2084a": {
+      "url": "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
+      "title": "The Conductor Developer",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-09T01:11:52+07:00",
+      "digestAt": "2026-10-09T01:11:52+07:00",
       "status": "sent"
     }
   }
