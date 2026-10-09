@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T11:47:50+07:00",
+  "updatedAt": "2026-10-09T11:51:01+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -631,6 +631,46 @@
       "source": "rss:arxiv-quant-ph",
       "seenAt": "2026-10-08T11:47:50+07:00",
       "digestAt": "2026-10-08T11:47:50+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2508.20174v3": {
+      "url": "https://arxiv.org/abs/2508.20174",
+      "title": "Compilation-informed probabilistic logical-error cancellation",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-09T11:51:01+07:00",
+      "digestAt": "2026-10-09T11:51:01+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.10948v1": {
+      "url": "https://arxiv.org/abs/2610.10948",
+      "title": "Geometry-optimized hyperbolic codes for modular fault-tolerant quantum architectures",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-09T11:51:01+07:00",
+      "digestAt": "2026-10-09T11:51:01+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.11225v1": {
+      "url": "https://arxiv.org/abs/2610.11225",
+      "title": "High-Rate Concatenated Quantum Error-Correcting Codes for Qudits",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-09T11:51:01+07:00",
+      "digestAt": "2026-10-09T11:51:01+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.12400v1": {
+      "url": "https://arxiv.org/abs/2610.12400",
+      "title": "Measure Now, Mitigate Later: Virtual Error Cancellation for Logical Quantum Circuits",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-09T11:51:01+07:00",
+      "digestAt": "2026-10-09T11:51:01+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.11658v1": {
+      "url": "https://arxiv.org/abs/2610.11658",
+      "title": "Error-Corrected Memory and Logic on a Heavy-Hex Superconducting-Qubit Processor",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-09T11:51:01+07:00",
+      "digestAt": "2026-10-09T11:51:01+07:00",
       "status": "sent"
     }
   }
