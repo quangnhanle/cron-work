@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-09T18:38:56+07:00",
+  "updatedAt": "2026-10-10T24:44:45+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -996,6 +996,54 @@
       "source": "rss:netflix-tech",
       "seenAt": "2026-10-09T18:38:56+07:00",
       "digestAt": "2026-10-09T18:38:56+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M497Y0BQ6DVED6YT05KTNA6W": {
+      "url": "https://blog.cloudflare.com/workers-on-demand-profiling/",
+      "title": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-10T24:44:45+07:00",
+      "digestAt": "2026-10-10T24:44:45+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:7af93f3f2c1476c3": {
+      "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
+      "title": "Quoting Matthew Green",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-10T24:44:45+07:00",
+      "digestAt": "2026-10-10T24:44:45+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:305ba874f36ffe29": {
+      "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+      "title": "A new feature for my blog, built using my voice",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-10T24:44:45+07:00",
+      "digestAt": "2026-10-10T24:44:45+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M4EHZFCN5RWBFJJ8WEERWAYZ": {
+      "url": "https://blog.cloudflare.com/deno-joins-cloudflare/",
+      "title": "Deno is joining Cloudflare",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-10T24:44:45+07:00",
+      "digestAt": "2026-10-10T24:44:45+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M3WRXHGNF2ZH02N0GWY6FHVV": {
+      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+      "title": "Announcing Cloudflare OHTTP Gateway – expanding access to Cloudflare’s privacy-preserving infrastructure",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-10T24:44:45+07:00",
+      "digestAt": "2026-10-10T24:44:45+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M3W899F5N6P98MYP180WJMS4": {
+      "url": "https://blog.cloudflare.com/civil-society-automation/",
+      "title": "Building for good: How civil society organizations are automating on Cloudflare",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-10T24:44:45+07:00",
+      "digestAt": "2026-10-10T24:44:45+07:00",
       "status": "sent"
     }
   }
