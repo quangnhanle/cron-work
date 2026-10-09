@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-09T01:11:52+07:00",
+  "updatedAt": "2026-10-09T10:20:06+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -911,6 +911,45 @@
       "source": "rss:martin-fowler",
       "seenAt": "2026-10-09T01:11:52+07:00",
       "digestAt": "2026-10-09T01:11:52+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:ed14048bb9127b90": {
+      "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
+      "title": "Quoting Carson Gross",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-09T10:19:57+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:f242adb232a8919d": {
+      "url": "https://simonwillison.net/2026/Oct/8/ttok/",
+      "title": "ttok 0.4",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-09T10:20:06+07:00",
+      "digestAt": "2026-10-09T10:20:06+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:24c611e27106eeb7": {
+      "url": "https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html",
+      "title": "Nail the Narrative",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-09T10:20:06+07:00",
+      "digestAt": "2026-10-09T10:20:06+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:52f1f142c0c8cc80": {
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html",
+      "title": "TDD inside the agent loop - theater or actual value?",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-09T10:20:06+07:00",
+      "digestAt": "2026-10-09T10:20:06+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:a9fff40540e99b38": {
+      "url": "https://martinfowler.com/articles/orchestrator-tax.html",
+      "title": "The Orchestrator's Tax",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-09T10:20:06+07:00",
+      "digestAt": "2026-10-09T10:20:06+07:00",
       "status": "sent"
     }
   }
