@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T24:44:45+07:00",
+  "updatedAt": "2026-10-10T10:00:02+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -1044,6 +1044,46 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-10-10T24:44:45+07:00",
       "digestAt": "2026-10-10T24:44:45+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:1d5fd2024caedd1b": {
+      "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
+      "title": "Deno is joining Cloudflare",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-10T10:00:02+07:00",
+      "digestAt": "2026-10-10T10:00:02+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:5af1a93eb20fb54c": {
+      "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+      "title": "Quoting The New York Times",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-10T10:00:02+07:00",
+      "digestAt": "2026-10-10T10:00:02+07:00",
+      "status": "sent"
+    },
+    "rss:netflix-tech:https://medium.com/p/f4b792f3f0d8": {
+      "url": "https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4",
+      "title": "Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned",
+      "source": "rss:netflix-tech",
+      "seenAt": "2026-10-10T10:00:02+07:00",
+      "digestAt": "2026-10-10T10:00:02+07:00",
+      "status": "sent"
+    },
+    "rss:github-engineering:https://github.blog/?p=97648": {
+      "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+      "title": "Don’t stop early: Case-folding source code at memory speed",
+      "source": "rss:github-engineering",
+      "seenAt": "2026-10-10T10:00:02+07:00",
+      "digestAt": "2026-10-10T10:00:02+07:00",
+      "status": "sent"
+    },
+    "rss:netflix-tech:https://medium.com/p/77146fba8a08": {
+      "url": "https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4",
+      "title": "GenPage: Towards End-to-End Generative Homepage Construction at Netflix",
+      "source": "rss:netflix-tech",
+      "seenAt": "2026-10-10T10:00:02+07:00",
+      "digestAt": "2026-10-10T10:00:02+07:00",
       "status": "sent"
     }
   }
