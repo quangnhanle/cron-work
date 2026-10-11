@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T09:29:51+07:00",
+  "updatedAt": "2026-10-11T18:11:32+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -1210,6 +1210,38 @@
       "source": "rss:martin-fowler",
       "seenAt": "2026-10-11T09:29:51+07:00",
       "digestAt": "2026-10-11T09:29:51+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:231ac6df8b60f0a8": {
+      "url": "https://martinfowler.com/articles/never-send-slides/slide-principles.html",
+      "title": "Principles for effective slides",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-11T18:11:32+07:00",
+      "digestAt": "2026-10-11T18:11:32+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:ff2c498d2462499c": {
+      "url": "https://martinfowler.com/articles/2026-social-traffic.html",
+      "title": "Social Media Engagement: summer 2026",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-11T18:11:32+07:00",
+      "digestAt": "2026-10-11T18:11:32+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:d2c1ec9faaccd105": {
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+      "title": "The Economic Benefit of Refactoring",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-11T18:11:32+07:00",
+      "digestAt": "2026-10-11T18:11:32+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:93e2c0f1cbe26daa": {
+      "url": "https://martinfowler.com/rachels-ramblings/intro.html",
+      "title": "Why I’m Writing Rachel’s Ramblings",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-11T18:11:32+07:00",
+      "digestAt": "2026-10-11T18:11:32+07:00",
       "status": "sent"
     }
   }
