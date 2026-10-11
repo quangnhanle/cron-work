@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T23:37:31+07:00",
+  "updatedAt": "2026-10-11T09:29:51+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -1172,6 +1172,44 @@
       "source": "rss:martin-fowler",
       "seenAt": "2026-10-10T23:37:31+07:00",
       "digestAt": "2026-10-10T23:37:31+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:a2dbc26766a3bd99": {
+      "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
+      "title": "Python 3.15.0 added to actions/python-versions",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-11T09:29:41+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:ed32cd489cb393b4": {
+      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+      "title": "Dwarf Fortress uses version control now",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-11T09:29:42+07:00",
+      "status": "skipped"
+    },
+    "rss:martin-fowler:a761b2d6d6a1206f": {
+      "url": "https://martinfowler.com/articles/never-send-slides/need-presentation.html",
+      "title": "Do you even need a presentation?",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-11T09:29:51+07:00",
+      "digestAt": "2026-10-11T09:29:51+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:e9af4baca2be2021": {
+      "url": "https://martinfowler.com/fragments/2026-09-29.html",
+      "title": "Fragments: September 29",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-11T09:29:51+07:00",
+      "digestAt": "2026-10-11T09:29:51+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:290359d4a69601fa": {
+      "url": "https://martinfowler.com/articles/practitioner-voice.html",
+      "title": "Practitioner Voice: The Writing Category Nobody has Named Yet",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-11T09:29:51+07:00",
+      "digestAt": "2026-10-11T09:29:51+07:00",
       "status": "sent"
     }
   }
