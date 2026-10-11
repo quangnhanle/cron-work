@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T11:36:13+07:00",
+  "updatedAt": "2026-10-11T11:21:18+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -671,6 +671,45 @@
       "source": "rss:arxiv-quant-ph",
       "seenAt": "2026-10-09T11:51:01+07:00",
       "digestAt": "2026-10-09T11:51:01+07:00",
+      "status": "sent"
+    },
+    "rss:npj-quantum-information:6db735cf84f7cb33": {
+      "url": "https://www.nature.com/articles/s41534-026-01362-4",
+      "title": "Unitary fault-tolerant encoding of Pauli states in surface codes",
+      "source": "rss:npj-quantum-information",
+      "seenAt": "2026-10-11T11:21:13+07:00",
+      "status": "extract_failed"
+    },
+    "rss:prx-quantum:cc83e7c4613270b8": {
+      "url": "http://link.aps.org/doi/10.1103/d6qf-5chk",
+      "title": "Information-Theoretic Principle of Emergent 1-Form Symmetries",
+      "source": "rss:prx-quantum",
+      "seenAt": "2026-10-11T11:21:18+07:00",
+      "digestAt": "2026-10-11T11:21:18+07:00",
+      "status": "sent"
+    },
+    "rss:quantum-journal:https://quantum-journal.org/?post_type=paper&p=18933": {
+      "url": "https://quantum-journal.org/papers/q-2026-10-08-2233/",
+      "title": "Quantum algorithms for general nonlinear dynamics based on the Carleman embedding",
+      "source": "rss:quantum-journal",
+      "seenAt": "2026-10-11T11:21:18+07:00",
+      "digestAt": "2026-10-11T11:21:18+07:00",
+      "status": "sent"
+    },
+    "rss:quantum-journal:https://quantum-journal.org/?post_type=paper&p=18776": {
+      "url": "https://quantum-journal.org/papers/q-2026-09-21-2212/",
+      "title": "Heuristic and Optimal Synthesis of CNOT and Clifford Circuits",
+      "source": "rss:quantum-journal",
+      "seenAt": "2026-10-11T11:21:18+07:00",
+      "digestAt": "2026-10-11T11:21:18+07:00",
+      "status": "sent"
+    },
+    "rss:prx-quantum:cd880f54f82fa004": {
+      "url": "http://link.aps.org/doi/10.1103/p7c9-x1m9",
+      "title": "Planar Fault-Tolerant Circuits for Non-Clifford Gates on the 2D Color Code",
+      "source": "rss:prx-quantum",
+      "seenAt": "2026-10-11T11:21:18+07:00",
+      "digestAt": "2026-10-11T11:21:18+07:00",
       "status": "sent"
     }
   }
