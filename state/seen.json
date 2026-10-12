@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T11:21:18+07:00",
+  "updatedAt": "2026-10-12T11:37:32+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -710,6 +710,30 @@
       "source": "rss:prx-quantum",
       "seenAt": "2026-10-11T11:21:18+07:00",
       "digestAt": "2026-10-11T11:21:18+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.12685v1": {
+      "url": "https://arxiv.org/abs/2610.12685",
+      "title": "Fast computational primitives for La-cross qLDPC codes",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-12T11:37:32+07:00",
+      "digestAt": "2026-10-12T11:37:32+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2605.14637v2": {
+      "url": "https://arxiv.org/abs/2605.14637",
+      "title": "Adaptive Window Decoding based on Spatiotemporal Complementary Gap",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-12T11:37:32+07:00",
+      "digestAt": "2026-10-12T11:37:32+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.12597v1": {
+      "url": "https://arxiv.org/abs/2610.12597",
+      "title": "Error correction and quantum information spreading on sparse random graphs",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-12T11:37:32+07:00",
+      "digestAt": "2026-10-12T11:37:32+07:00",
       "status": "sent"
     }
   }
