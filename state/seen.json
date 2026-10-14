@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T16:55:18+07:00",
+  "updatedAt": "2026-10-14T23:11:49+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -1351,6 +1351,22 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-10-14T16:55:18+07:00",
       "digestAt": "2026-10-14T16:55:18+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M4VK1MXKAPMWG5QXYBFK222G": {
+      "url": "https://blog.cloudflare.com/hyperdrive-mysql/",
+      "title": "Inside Hyperdrive: How we solved a rare Hyperdrive MySQL caching bug",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-14T23:11:49+07:00",
+      "digestAt": "2026-10-14T23:11:49+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:d995256e997e50a5": {
+      "url": "https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html",
+      "title": "Build your slide template",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-14T23:11:49+07:00",
+      "digestAt": "2026-10-14T23:11:49+07:00",
       "status": "sent"
     }
   }
