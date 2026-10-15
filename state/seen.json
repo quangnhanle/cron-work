@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T09:04:11+07:00",
+  "updatedAt": "2026-10-15T16:35:55+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -1407,6 +1407,54 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-10-15T09:04:11+07:00",
       "digestAt": "2026-10-15T09:04:11+07:00",
+      "status": "sent"
+    },
+    "rss:netflix-tech:https://medium.com/p/826ebf9ad9fb": {
+      "url": "https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb?source=rss----2615bd06b42e---4",
+      "title": "Behind the Scenes: Evolving Netflix’s Ads Event Pipeline for Live — Part II",
+      "source": "rss:netflix-tech",
+      "seenAt": "2026-10-15T16:35:55+07:00",
+      "digestAt": "2026-10-15T16:35:55+07:00",
+      "status": "sent"
+    },
+    "rss:netflix-tech:https://medium.com/p/92af926b40a5": {
+      "url": "https://netflixtechblog.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss----2615bd06b42e---4",
+      "title": "DataJunction as Netflix’s answer to the missing piece of the modern data stack",
+      "source": "rss:netflix-tech",
+      "seenAt": "2026-10-15T16:35:55+07:00",
+      "digestAt": "2026-10-15T16:35:55+07:00",
+      "status": "sent"
+    },
+    "rss:github-engineering:https://github.blog/?p=99364": {
+      "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
+      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
+      "source": "rss:github-engineering",
+      "seenAt": "2026-10-15T16:35:55+07:00",
+      "digestAt": "2026-10-15T16:35:55+07:00",
+      "status": "sent"
+    },
+    "rss:netflix-tech:https://medium.com/p/cf176b5860eb": {
+      "url": "https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss----2615bd06b42e---4",
+      "title": "Integrating Netflix’s Foundation Model into Personalization applications",
+      "source": "rss:netflix-tech",
+      "seenAt": "2026-10-15T16:35:55+07:00",
+      "digestAt": "2026-10-15T16:35:55+07:00",
+      "status": "sent"
+    },
+    "rss:netflix-tech:https://medium.com/p/4c26be3a4d96": {
+      "url": "https://netflixtechblog.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96?source=rss----2615bd06b42e---4",
+      "title": "Measuring the Impact of Personalized Recommendations",
+      "source": "rss:netflix-tech",
+      "seenAt": "2026-10-15T16:35:55+07:00",
+      "digestAt": "2026-10-15T16:35:55+07:00",
+      "status": "sent"
+    },
+    "rss:netflix-tech:https://medium.com/p/41ad21067649": {
+      "url": "https://netflixtechblog.com/netflix-conductor-the-next-chapter-41ad21067649?source=rss----2615bd06b42e---4",
+      "title": "Netflix Conductor: The Next Chapter",
+      "source": "rss:netflix-tech",
+      "seenAt": "2026-10-15T16:35:55+07:00",
+      "digestAt": "2026-10-15T16:35:55+07:00",
       "status": "sent"
     }
   }
