@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T10:46:40+07:00",
+  "updatedAt": "2026-10-15T10:28:33+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -734,6 +734,38 @@
       "source": "rss:arxiv-quant-ph",
       "seenAt": "2026-10-12T11:37:32+07:00",
       "digestAt": "2026-10-12T11:37:32+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.17058v1": {
+      "url": "https://arxiv.org/abs/2610.17058",
+      "title": "Architecting Instruction Execution for Scalable Fault-Tolerant Quantum Computing",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-15T10:28:33+07:00",
+      "digestAt": "2026-10-15T10:28:33+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2602.19722v3": {
+      "url": "https://arxiv.org/abs/2602.19722",
+      "title": "Differentiable Maximum Likelihood Noise Estimation for Quantum Error Correction",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-15T10:28:33+07:00",
+      "digestAt": "2026-10-15T10:28:33+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.09749v2": {
+      "url": "https://arxiv.org/abs/2610.09749",
+      "title": "Automated reduction of fault-tolerant circuits",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-15T10:28:33+07:00",
+      "digestAt": "2026-10-15T10:28:33+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.16379v1": {
+      "url": "https://arxiv.org/abs/2610.16379",
+      "title": "Benchmarking a randomized quantum algorithm for estimating expectation values of molecular observables",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-15T10:28:33+07:00",
+      "digestAt": "2026-10-15T10:28:33+07:00",
       "status": "sent"
     }
   }
