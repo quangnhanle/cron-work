@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T23:11:49+07:00",
+  "updatedAt": "2026-10-15T09:04:11+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -1367,6 +1367,46 @@
       "source": "rss:martin-fowler",
       "seenAt": "2026-10-14T23:11:49+07:00",
       "digestAt": "2026-10-14T23:11:49+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:8b2cab1489374fa7": {
+      "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+      "title": "AI is mass decompiling games. That's both awesome and scary.",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-15T09:04:11+07:00",
+      "digestAt": "2026-10-15T09:04:11+07:00",
+      "status": "sent"
+    },
+    "rss:netflix-tech:https://medium.com/p/ddf9aa68a801": {
+      "url": "https://netflixtechblog.com/netflix-stratum-media-processing-automated-container-right-sizing-ddf9aa68a801?source=rss----2615bd06b42e---4",
+      "title": "Netflix Stratum Media Processing: Automated Container Right-Sizing",
+      "source": "rss:netflix-tech",
+      "seenAt": "2026-10-15T09:04:11+07:00",
+      "digestAt": "2026-10-15T09:04:11+07:00",
+      "status": "sent"
+    },
+    "rss:netflix-tech:https://medium.com/p/d62b03a96d7a": {
+      "url": "https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a?source=rss----2615bd06b42e---4",
+      "title": "Reliable GPU compute for large training & inference jobs",
+      "source": "rss:netflix-tech",
+      "seenAt": "2026-10-15T09:04:11+07:00",
+      "digestAt": "2026-10-15T09:04:11+07:00",
+      "status": "sent"
+    },
+    "rss:netflix-tech:https://medium.com/p/c95bd8283508": {
+      "url": "https://netflixtechblog.com/the-lifecycle-of-llm-as-a-judge-building-aligning-and-monitoring-at-scale-c95bd8283508?source=rss----2615bd06b42e---4",
+      "title": "The Lifecycle of LLM-as-a-Judge: Building, Aligning, and Monitoring at scale",
+      "source": "rss:netflix-tech",
+      "seenAt": "2026-10-15T09:04:11+07:00",
+      "digestAt": "2026-10-15T09:04:11+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:eb4b2d9063ab8e79": {
+      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+      "title": "Tree Appreciator",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-15T09:04:11+07:00",
+      "digestAt": "2026-10-15T09:04:11+07:00",
       "status": "sent"
     }
   }
