@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T23:00:16+07:00",
+  "updatedAt": "2026-10-16T08:54:34+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -1495,6 +1495,38 @@
       "source": "rss:netflix-tech",
       "seenAt": "2026-10-15T23:00:16+07:00",
       "digestAt": "2026-10-15T23:00:16+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M5072CXFWQ88M9NCXZBSPAF2": {
+      "url": "https://blog.cloudflare.com/programmable-gateway-dlp/",
+      "title": "A fully programmable secure web gateway",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-16T08:54:34+07:00",
+      "digestAt": "2026-10-16T08:54:34+07:00",
+      "status": "sent"
+    },
+    "rss:github-engineering:https://github.blog/?p=99529": {
+      "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
+      "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+      "source": "rss:github-engineering",
+      "seenAt": "2026-10-16T08:54:34+07:00",
+      "digestAt": "2026-10-16T08:54:34+07:00",
+      "status": "sent"
+    },
+    "rss:netflix-tech:https://medium.com/p/e59d597c9d60": {
+      "url": "https://netflixtechblog.com/timeseries-tiered-storage-journey-kafka-flink-streams-to-native-cassandra-cold-reads-e59d597c9d60?source=rss----2615bd06b42e---4",
+      "title": "TimeSeries Tiered Storage Journey: Kafka/Flink Streams to Native Cassandra Cold Reads",
+      "source": "rss:netflix-tech",
+      "seenAt": "2026-10-16T08:54:34+07:00",
+      "digestAt": "2026-10-16T08:54:34+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M4Y1477Z7DBJHXRZDP6MM2FN": {
+      "url": "https://blog.cloudflare.com/yandex-outage/",
+      "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-16T08:54:34+07:00",
+      "digestAt": "2026-10-16T08:54:34+07:00",
       "status": "sent"
     }
   }
