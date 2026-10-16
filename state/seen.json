@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T16:29:12+07:00",
+  "updatedAt": "2026-10-16T22:48:05+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -1543,6 +1543,14 @@
       "source": "rss:martin-fowler",
       "seenAt": "2026-10-16T16:29:12+07:00",
       "digestAt": "2026-10-16T16:29:12+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M510YDY2PS6BYR03DF8HHG2D": {
+      "url": "https://blog.cloudflare.com/verified-bots-accountability/",
+      "title": "Continuous accountability for Verified bots",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-16T22:48:05+07:00",
+      "digestAt": "2026-10-16T22:48:05+07:00",
       "status": "sent"
     }
   }
