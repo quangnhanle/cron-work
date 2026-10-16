@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T10:28:33+07:00",
+  "updatedAt": "2026-10-16T10:24:05+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -766,6 +766,46 @@
       "source": "rss:arxiv-quant-ph",
       "seenAt": "2026-10-15T10:28:33+07:00",
       "digestAt": "2026-10-15T10:28:33+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2404.17703v4": {
+      "url": "https://arxiv.org/abs/2404.17703",
+      "title": "A quantum annealing approach to the minimum distance problem of quantum codes",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-16T10:24:05+07:00",
+      "digestAt": "2026-10-16T10:24:05+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.19073v2": {
+      "url": "https://arxiv.org/abs/2610.19073",
+      "title": "A modular quantum computer based on Cornucopia codes",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-16T10:24:05+07:00",
+      "digestAt": "2026-10-16T10:24:05+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2509.13678v4": {
+      "url": "https://arxiv.org/abs/2509.13678",
+      "title": "Rare Event Simulation of Quantum Error-Correcting Circuits",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-16T10:24:05+07:00",
+      "digestAt": "2026-10-16T10:24:05+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2606.23612v2": {
+      "url": "https://arxiv.org/abs/2606.23612",
+      "title": "A quantum algorithm for one-shot signatures",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-16T10:24:05+07:00",
+      "digestAt": "2026-10-16T10:24:05+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.19299v1": {
+      "url": "https://arxiv.org/abs/2610.19299",
+      "title": "Gap-Priced $|T\\rangle$-States: Dynamic $|T\\rangle$ Post-Selection and Budget-Aware Factory Provisioning",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-16T10:24:05+07:00",
+      "digestAt": "2026-10-16T10:24:05+07:00",
       "status": "sent"
     }
   }
