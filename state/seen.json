@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T10:24:05+07:00",
+  "updatedAt": "2026-10-17T10:14:16+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -806,6 +806,38 @@
       "source": "rss:arxiv-quant-ph",
       "seenAt": "2026-10-16T10:24:05+07:00",
       "digestAt": "2026-10-16T10:24:05+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.22275v1": {
+      "url": "https://arxiv.org/abs/2610.22275",
+      "title": "SynDebug: A Framework to Debug Logic Bugs in Fault-Tolerant Quantum Computing Programs",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-17T10:14:16+07:00",
+      "digestAt": "2026-10-17T10:14:16+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2609.13065v2": {
+      "url": "https://arxiv.org/abs/2609.13065",
+      "title": "Error Correction in a Distributed Quantum Computer",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-17T10:14:16+07:00",
+      "digestAt": "2026-10-17T10:14:16+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.21357v1": {
+      "url": "https://arxiv.org/abs/2610.21357",
+      "title": "Stitched surface codes: planar concatenation through GHZ corridors",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-17T10:14:16+07:00",
+      "digestAt": "2026-10-17T10:14:16+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.22367v1": {
+      "url": "https://arxiv.org/abs/2610.22367",
+      "title": "Discovering state-of-the-art quantum circuits with large language models",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-17T10:14:16+07:00",
+      "digestAt": "2026-10-17T10:14:16+07:00",
       "status": "sent"
     }
   }
