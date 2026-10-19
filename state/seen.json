@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T17:29:41+07:00",
+  "updatedAt": "2026-10-20T24:58:37+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -1604,6 +1604,22 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-10-19T09:04:08+07:00",
       "digestAt": "2026-10-19T09:04:08+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M537RHECVHNJPV12N2E54ZR7": {
+      "url": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
+      "title": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-20T24:58:37+07:00",
+      "digestAt": "2026-10-20T24:58:37+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M5AKCKW0449M3Q6FW10XB4K3": {
+      "url": "https://blog.cloudflare.com/clairic-extraction-model/",
+      "title": "Introducing Clairic, a new System One class of extraction models",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-20T24:58:37+07:00",
+      "digestAt": "2026-10-20T24:58:37+07:00",
       "status": "sent"
     }
   }
