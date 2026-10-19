@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T22:06:41+07:00",
+  "updatedAt": "2026-10-19T09:04:08+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -1590,6 +1590,21 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-10-18T16:19:05+07:00",
       "status": "skipped"
+    },
+    "rss:simonwillison:ae7b31dc246e2760": {
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "title": "llm-tools-datasette 0.1.1",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-19T09:04:06+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:9d2417f40cde50f0": {
+      "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+      "title": "llm-echo 0.5",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-19T09:04:08+07:00",
+      "digestAt": "2026-10-19T09:04:08+07:00",
+      "status": "sent"
     }
   }
 }
