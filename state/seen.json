@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T24:58:37+07:00",
+  "updatedAt": "2026-10-20T09:20:50+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -1620,6 +1620,22 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-10-20T24:58:37+07:00",
       "digestAt": "2026-10-20T24:58:37+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:a286ccfbec858524": {
+      "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+      "title": "My obituary for programming",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-20T09:20:50+07:00",
+      "digestAt": "2026-10-20T09:20:50+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M58NMKW6A1DQJNZXH37VZ9JH": {
+      "url": "https://blog.cloudflare.com/obsessive-inference-optimization/",
+      "title": "Cutting our inference bill by 68% by being obsessive about optimization",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-20T09:20:50+07:00",
+      "digestAt": "2026-10-20T09:20:50+07:00",
       "status": "sent"
     }
   }
