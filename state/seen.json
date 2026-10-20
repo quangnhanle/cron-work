@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T16:47:54+07:00",
+  "updatedAt": "2026-10-20T23:03:23+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -1636,6 +1636,14 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-10-20T09:20:50+07:00",
       "digestAt": "2026-10-20T09:20:50+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M5C833HV3W30PBZZYVMCVRR6": {
+      "url": "https://blog.cloudflare.com/typescript-rust-port/",
+      "title": "Introducing tsrs: a Port of TypeScript to Rust",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-20T23:03:23+07:00",
+      "digestAt": "2026-10-20T23:03:23+07:00",
       "status": "sent"
     }
   }
