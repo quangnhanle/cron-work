@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T10:30:45+07:00",
+  "updatedAt": "2026-10-20T10:40:22+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -870,6 +870,30 @@
       "source": "rss:quantum-journal",
       "seenAt": "2026-10-18T10:18:31+07:00",
       "digestAt": "2026-10-18T10:18:31+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.22966v1": {
+      "url": "https://arxiv.org/abs/2610.22966",
+      "title": "Encodings and Node Architecture: Lessons from the Fault-Tolerant Distributed Transversal Fanout",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-20T10:40:22+07:00",
+      "digestAt": "2026-10-20T10:40:22+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2503.11613v3": {
+      "url": "https://arxiv.org/abs/2503.11613",
+      "title": "Floquet-ADAPT-VQE: A Quantum Algorithm to Simulate Non-Equilibrium Physics in Periodically Driven Systems",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-20T10:40:22+07:00",
+      "digestAt": "2026-10-20T10:40:22+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.22710v1": {
+      "url": "https://arxiv.org/abs/2610.22710",
+      "title": "Area Theorems for Quantum Error Correction",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-20T10:40:22+07:00",
+      "digestAt": "2026-10-20T10:40:22+07:00",
       "status": "sent"
     }
   }
