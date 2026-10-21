@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T10:40:22+07:00",
+  "updatedAt": "2026-10-21T10:32:37+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -894,6 +894,30 @@
       "source": "rss:arxiv-quant-ph",
       "seenAt": "2026-10-20T10:40:22+07:00",
       "digestAt": "2026-10-20T10:40:22+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.25968v1": {
+      "url": "https://arxiv.org/abs/2610.25968",
+      "title": "Efficient Block Encodings for Ensembles of Molecular Hamiltonians",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-21T10:32:37+07:00",
+      "digestAt": "2026-10-21T10:32:37+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.25213v1": {
+      "url": "https://arxiv.org/abs/2610.25213",
+      "title": "LiftDiff: Guided Discrete Diffusion for Quantum Code Construction",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-21T10:32:37+07:00",
+      "digestAt": "2026-10-21T10:32:37+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.24212v1": {
+      "url": "https://arxiv.org/abs/2610.24212",
+      "title": "Optimal robust single-qubit gates in superconducting quantum processors",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-21T10:32:37+07:00",
+      "digestAt": "2026-10-21T10:32:37+07:00",
       "status": "sent"
     }
   }
