@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T23:03:23+07:00",
+  "updatedAt": "2026-10-21T09:14:06+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -1644,6 +1644,29 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-10-20T23:03:23+07:00",
       "digestAt": "2026-10-20T23:03:23+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:4257f838c0d22be2": {
+      "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+      "title": "eMudhra Intermediate CA Compromise",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-21T09:14:01+07:00",
+      "status": "skipped"
+    },
+    "rss:cloudflare:01M5DK5J81T0VC8YTBR2FKD8A3": {
+      "url": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
+      "title": "8 eMudhra certificates are compromised. Here's what you need to know",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-21T09:14:06+07:00",
+      "digestAt": "2026-10-21T09:14:06+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:7fa30abfca2c7ff1": {
+      "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-21T09:14:06+07:00",
+      "digestAt": "2026-10-21T09:14:06+07:00",
       "status": "sent"
     }
   }
