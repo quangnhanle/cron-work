@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T16:48:49+07:00",
+  "updatedAt": "2026-10-21T23:19:54+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -1667,6 +1667,54 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-10-21T09:14:06+07:00",
       "digestAt": "2026-10-21T09:14:06+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:ebf3022769d5aa33": {
+      "url": "https://martinfowler.com/fragments/2026-10-21.html",
+      "title": "Fragments: October 21",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-21T23:19:54+07:00",
+      "digestAt": "2026-10-21T23:19:54+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M5FBPW0VHJGHYHGS7CWWKGSP": {
+      "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+      "title": "Cloudflare deploys protections against php2shell vulnerability",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-21T23:19:54+07:00",
+      "digestAt": "2026-10-21T23:19:54+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M5AYSGXBWG00KS9KC299XDR8": {
+      "url": "https://blog.cloudflare.com/webmcp-commerce/",
+      "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-21T23:19:54+07:00",
+      "digestAt": "2026-10-21T23:19:54+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:35b4b4388c707810": {
+      "url": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/",
+      "title": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-21T23:19:54+07:00",
+      "digestAt": "2026-10-21T23:19:54+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M5E1HXVZGTKAKEYZ0KMZQ65Q": {
+      "url": "https://blog.cloudflare.com/full-transaction-waf/",
+      "title": "Introducing full transaction detection for Cloudflare WAF",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-21T23:19:54+07:00",
+      "digestAt": "2026-10-21T23:19:54+07:00",
+      "status": "sent"
+    },
+    "rss:github-engineering:https://github.blog/?p=99628": {
+      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "title": "The bridge to agent-scale Git infrastructure",
+      "source": "rss:github-engineering",
+      "seenAt": "2026-10-21T23:19:54+07:00",
+      "digestAt": "2026-10-21T23:19:54+07:00",
       "status": "sent"
     }
   }
