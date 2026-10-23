@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T10:32:29+07:00",
+  "updatedAt": "2026-10-23T10:37:25+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -942,6 +942,38 @@
       "source": "rss:arxiv-quant-ph",
       "seenAt": "2026-10-22T10:32:29+07:00",
       "digestAt": "2026-10-22T10:32:29+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.30087v1": {
+      "url": "https://arxiv.org/abs/2610.30087",
+      "title": "Injection is all you need: parallel universal logic in high-rate concatenated self-dual codes",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-23T10:37:25+07:00",
+      "digestAt": "2026-10-23T10:37:25+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2512.18273v3": {
+      "url": "https://arxiv.org/abs/2512.18273",
+      "title": "Evolutionary BP+OSD Decoding for Low-Latency Quantum Error Correction",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-23T10:37:25+07:00",
+      "digestAt": "2026-10-23T10:37:25+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.28748v1": {
+      "url": "https://arxiv.org/abs/2610.28748",
+      "title": "CoDecoder: Make Quantum Decoders Up to 100x Faster and Even More Accurate",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-23T10:37:25+07:00",
+      "digestAt": "2026-10-23T10:37:25+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2609.03825v2": {
+      "url": "https://arxiv.org/abs/2609.03825",
+      "title": "Energetic Costs of Subspace Quantum Error Correction",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-23T10:37:25+07:00",
+      "digestAt": "2026-10-23T10:37:25+07:00",
       "status": "sent"
     }
   }
