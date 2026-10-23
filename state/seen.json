@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T23:20:05+07:00",
+  "updatedAt": "2026-10-23T09:14:03+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -1755,6 +1755,29 @@
       "source": "rss:netflix-tech",
       "seenAt": "2026-10-22T23:20:05+07:00",
       "digestAt": "2026-10-22T23:20:05+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:87e22db35085845a": {
+      "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
+      "title": "DE STAAT - FREEDOM (Official Music Video)",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-23T09:14:00+07:00",
+      "status": "skipped"
+    },
+    "rss:netflix-tech:https://medium.com/p/6d8b1909d163": {
+      "url": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4",
+      "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
+      "source": "rss:netflix-tech",
+      "seenAt": "2026-10-23T09:14:03+07:00",
+      "digestAt": "2026-10-23T09:14:03+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:2f38489938aada9c": {
+      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-23T09:14:03+07:00",
+      "digestAt": "2026-10-23T09:14:03+07:00",
       "status": "sent"
     }
   }
