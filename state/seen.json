@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T10:37:25+07:00",
+  "updatedAt": "2026-10-24T10:31:36+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -974,6 +974,30 @@
       "source": "rss:arxiv-quant-ph",
       "seenAt": "2026-10-23T10:37:25+07:00",
       "digestAt": "2026-10-23T10:37:25+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2511.08848v2": {
+      "url": "https://arxiv.org/abs/2511.08848",
+      "title": "Space-Time Optimisations for Early Fault-Tolerant Quantum Computation",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-24T10:31:36+07:00",
+      "digestAt": "2026-10-24T10:31:36+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2610.31443v1": {
+      "url": "https://arxiv.org/abs/2610.31443",
+      "title": "ConQEC: Concolic Testing for Quantum Error-Correcting Code Implementations",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-24T10:31:36+07:00",
+      "digestAt": "2026-10-24T10:31:36+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2403.04572v5": {
+      "url": "https://arxiv.org/abs/2403.04572",
+      "title": "Quantum theory of molecular orientation",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-10-24T10:31:36+07:00",
+      "digestAt": "2026-10-24T10:31:36+07:00",
       "status": "sent"
     }
   }
