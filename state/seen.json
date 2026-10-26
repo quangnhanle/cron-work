@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T17:44:54+07:00",
+  "updatedAt": "2026-10-27T24:57:00+07:00",
   "items": {
     "rss:simonwillison:669d8cd0cb0cb12c": {
       "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
@@ -1495,6 +1495,22 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-10-26T17:44:54+07:00",
       "digestAt": "2026-10-26T17:44:54+07:00",
+      "status": "sent"
+    },
+    "rss:netflix-tech:https://medium.com/p/6b0811a1c015": {
+      "url": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4",
+      "title": "Making Failure Diagnosis Reliable with Pensive AI",
+      "source": "rss:netflix-tech",
+      "seenAt": "2026-10-27T24:57:00+07:00",
+      "digestAt": "2026-10-27T24:57:00+07:00",
+      "status": "sent"
+    },
+    "rss:netflix-tech:https://medium.com/p/2e6b42810f49": {
+      "url": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4",
+      "title": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
+      "source": "rss:netflix-tech",
+      "seenAt": "2026-10-27T24:57:00+07:00",
+      "digestAt": "2026-10-27T24:57:00+07:00",
       "status": "sent"
     }
   }
