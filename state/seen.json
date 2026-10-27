@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T17:11:40+07:00",
+  "updatedAt": "2026-10-28T24:03:29+07:00",
   "items": {
     "rss:simonwillison:7db4974c11ebd58e": {
       "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
@@ -1535,6 +1535,14 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-10-27T09:37:42+07:00",
       "digestAt": "2026-10-27T09:37:42+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M5YGNW60G1XYREPZQ9W8PSTD": {
+      "url": "https://blog.cloudflare.com/php-ctf/",
+      "title": "Introducing the Cloudflare PHP Capture the Flag challenge",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-28T24:03:29+07:00",
+      "digestAt": "2026-10-28T24:03:29+07:00",
       "status": "sent"
     }
   }
