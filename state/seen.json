@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T18:17:17+07:00",
+  "updatedAt": "2026-10-30T24:48:57+07:00",
   "items": {
     "rss:simonwillison:637b19621e90d689": {
       "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
@@ -1559,6 +1559,22 @@
       "source": "rss:martin-fowler",
       "seenAt": "2026-10-29T10:07:32+07:00",
       "digestAt": "2026-10-29T10:07:32+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:a41c6b1e5e903c63": {
+      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+      "title": "Building a multiplayer game world with autonomous Fable-class models",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-30T24:48:57+07:00",
+      "digestAt": "2026-10-30T24:48:57+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:540b1c17cdd19889": {
+      "url": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
+      "title": "Why are good developers so wary of agentic development?",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-30T24:48:57+07:00",
+      "digestAt": "2026-10-30T24:48:57+07:00",
       "status": "sent"
     }
   }
