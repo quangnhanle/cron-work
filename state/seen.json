@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T24:40:18+07:00",
+  "updatedAt": "2026-10-29T10:07:32+07:00",
   "items": {
     "rss:simonwillison:637b19621e90d689": {
       "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
@@ -1543,6 +1543,22 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-10-29T24:40:18+07:00",
       "digestAt": "2026-10-29T24:40:18+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:da9c62c52f6c35e6": {
+      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+      "title": "Quoting Ted Sanders",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-29T10:07:32+07:00",
+      "digestAt": "2026-10-29T10:07:32+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:f10c14217170b02a": {
+      "url": "https://martinfowler.com/fragments/2026-10-28.html",
+      "title": "Fragments: October 28",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-10-29T10:07:32+07:00",
+      "digestAt": "2026-10-29T10:07:32+07:00",
       "status": "sent"
     }
   }
