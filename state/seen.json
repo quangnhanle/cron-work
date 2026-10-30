@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T11:38:56+07:00",
+  "updatedAt": "2026-10-30T11:39:02+07:00",
   "items": {
     "rss:simonwillison:637b19621e90d689": {
       "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
@@ -716,6 +716,14 @@
       "source": "rss:arxiv-quant-ph",
       "seenAt": "2026-10-28T11:18:35+07:00",
       "digestAt": "2026-10-28T11:18:35+07:00",
+      "status": "sent"
+    },
+    "rss:quantum-computing-report:https://quantumcomputingreport.com/?p=48239": {
+      "url": "https://quantumcomputingreport.com/nord-quantique-secures-10-million-darpa-quantum-benchmarking-initiative-stage-b-agreement-extension/",
+      "title": "Nord Quantique Secures $10 Million DARPA Quantum Benchmarking Initiative Stage B Agreement Extension",
+      "source": "rss:quantum-computing-report",
+      "seenAt": "2026-10-30T11:39:02+07:00",
+      "digestAt": "2026-10-30T11:39:02+07:00",
       "status": "sent"
     }
   }
