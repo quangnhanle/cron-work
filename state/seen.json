@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T18:10:12+07:00",
+  "updatedAt": "2026-10-31T24:28:43+07:00",
   "items": {
     "rss:simonwillison:637b19621e90d689": {
       "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
@@ -1598,6 +1598,21 @@
       "source": "rss:martin-fowler",
       "seenAt": "2026-10-30T10:11:32+07:00",
       "digestAt": "2026-10-30T10:11:32+07:00",
+      "status": "sent"
+    },
+    "hn:50294702": {
+      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "title": "Patrick Stewart has died",
+      "source": "hn",
+      "seenAt": "2026-10-31T24:28:39+07:00",
+      "status": "extract_failed"
+    },
+    "rss:cloudflare:01M64V2TDYZYSS8RE60T3MWKSM": {
+      "url": "https://blog.cloudflare.com/private-origins-public-to-private/",
+      "title": "Cloudflare services for private origins is now generally available",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-10-31T24:28:43+07:00",
+      "digestAt": "2026-10-31T24:28:43+07:00",
       "status": "sent"
     }
   }
