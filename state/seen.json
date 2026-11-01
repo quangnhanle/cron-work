@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T11:22:23+07:00",
+  "updatedAt": "2026-11-01T11:42:07+07:00",
   "items": {
     "rss:simonwillison:637b19621e90d689": {
       "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
@@ -724,6 +724,45 @@
       "source": "rss:quantum-computing-report",
       "seenAt": "2026-10-30T11:39:02+07:00",
       "digestAt": "2026-10-30T11:39:02+07:00",
+      "status": "sent"
+    },
+    "rss:npj-quantum-information:3dd5f2d5ce3e56e6": {
+      "url": "https://www.nature.com/articles/s41534-026-01403-y",
+      "title": "Scalable neural decoders for practical real-time quantum error correction",
+      "source": "rss:npj-quantum-information",
+      "seenAt": "2026-11-01T11:42:03+07:00",
+      "status": "extract_failed"
+    },
+    "rss:prx-quantum:7da5feb2109ef42a": {
+      "url": "http://link.aps.org/doi/10.1103/6k5x-ztqt",
+      "title": "Beam Search Decoder for Quantum Low-Density Parity-Check Codes",
+      "source": "rss:prx-quantum",
+      "seenAt": "2026-11-01T11:42:07+07:00",
+      "digestAt": "2026-11-01T11:42:07+07:00",
+      "status": "sent"
+    },
+    "rss:prx-quantum:4906e115b02be677": {
+      "url": "http://link.aps.org/doi/10.1103/sqcs-jk1z",
+      "title": "Chiral Color Code: Single-Shot Error Correction for Exotic Topological Order",
+      "source": "rss:prx-quantum",
+      "seenAt": "2026-11-01T11:42:07+07:00",
+      "digestAt": "2026-11-01T11:42:07+07:00",
+      "status": "sent"
+    },
+    "rss:quantum-journal:https://quantum-journal.org/?post_type=paper&p=18914": {
+      "url": "https://quantum-journal.org/papers/q-2026-10-07-2229/",
+      "title": "Enhanced measurements on quantum computers via the simultaneous probing of non-commuting Pauli operators",
+      "source": "rss:quantum-journal",
+      "seenAt": "2026-11-01T11:42:07+07:00",
+      "digestAt": "2026-11-01T11:42:07+07:00",
+      "status": "sent"
+    },
+    "rss:quantum-journal:https://quantum-journal.org/?post_type=paper&p=19024": {
+      "url": "https://quantum-journal.org/papers/q-2026-10-22-2244/",
+      "title": "Failure of the mean-field Hartree approximation for a bosonic many-body system with non-Hermitian Hamiltonian",
+      "source": "rss:quantum-journal",
+      "seenAt": "2026-11-01T11:42:07+07:00",
+      "digestAt": "2026-11-01T11:42:07+07:00",
       "status": "sent"
     }
   }
