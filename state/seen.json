@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T18:39:38+07:00",
+  "updatedAt": "2026-11-02T24:26:21+07:00",
   "items": {
     "rss:simonwillison:637b19621e90d689": {
       "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
@@ -1645,6 +1645,13 @@
       "seenAt": "2026-11-01T09:51:04+07:00",
       "digestAt": "2026-11-01T09:51:04+07:00",
       "status": "sent"
+    },
+    "rss:simonwillison:b72dc720cf78e393": {
+      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+      "title": "Quoting Kyle Kingsbury",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-02T24:25:58+07:00",
+      "status": "skipped"
     }
   }
 }
