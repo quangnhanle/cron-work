@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T11:42:07+07:00",
+  "updatedAt": "2026-11-02T11:43:11+07:00",
   "items": {
     "rss:simonwillison:637b19621e90d689": {
       "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
@@ -763,6 +763,14 @@
       "source": "rss:quantum-journal",
       "seenAt": "2026-11-01T11:42:07+07:00",
       "digestAt": "2026-11-01T11:42:07+07:00",
+      "status": "sent"
+    },
+    "rss:quantum-computing-report:https://quantumcomputingreport.com/?p=48334": {
+      "url": "https://quantumcomputingreport.com/quantinuum-chief-scientist-argues-physical-fidelity-trumps-gate-speed-in-fault-tolerant-scaling-race/",
+      "title": "Quantinuum Chief Scientist Argues Physical Fidelity Trumps Gate Speed in Fault-Tolerant Scaling Race",
+      "source": "rss:quantum-computing-report",
+      "seenAt": "2026-11-02T11:43:11+07:00",
+      "digestAt": "2026-11-02T11:43:11+07:00",
       "status": "sent"
     }
   }
