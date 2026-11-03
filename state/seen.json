@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T04:06:32+07:00",
+  "updatedAt": "2026-11-03T11:16:34+07:00",
   "items": {
     "rss:simonwillison:637b19621e90d689": {
       "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
@@ -1667,6 +1667,22 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-11-03T04:06:32+07:00",
       "digestAt": "2026-11-03T04:06:32+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:8fbbc27028afdfad": {
+      "url": "https://simonwillison.net/2026/Nov/2/llm/",
+      "title": "llm 0.37",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-03T11:16:34+07:00",
+      "digestAt": "2026-11-03T11:16:34+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:93776c9c2a6b392f": {
+      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+      "title": "The U.S. Census Bureau and “Super Intelligence”",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-03T11:16:34+07:00",
+      "digestAt": "2026-11-03T11:16:34+07:00",
       "status": "sent"
     }
   }
