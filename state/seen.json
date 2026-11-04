@@ -1,180 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T12:34:26+07:00",
+  "updatedAt": "2026-11-04T12:02:42+07:00",
   "items": {
-    "rss:simonwillison:637b19621e90d689": {
-      "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
-      "title": "September sponsors-only newsletter",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-05T09:42:06+07:00",
-      "status": "skipped"
-    },
-    "rss:simonwillison:41625591abfe53de": {
-      "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-05T09:42:06+07:00",
-      "status": "skipped"
-    },
-    "rss:simonwillison:ddc53f40aa2256ba": {
-      "url": "https://simonwillison.net/2026/Sep/28/joedaroo/",
-      "title": "Quoting @joedaroo",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-05T09:42:07+07:00",
-      "status": "skipped"
-    },
-    "rss:simonwillison:345f1755705d282a": {
-      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-      "title": "We're going to need default hard budget caps on pretty much everything",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-05T09:42:13+07:00",
-      "digestAt": "2026-10-05T09:42:13+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:d3b185d971abc0ea": {
-      "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
-      "title": "OpenAI DevDay 2026 live blog",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-05T09:42:13+07:00",
-      "digestAt": "2026-10-05T09:42:13+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:023d364db8b33fc2": {
-      "url": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
-      "title": "Photo Scrubber — local face blur & metadata removal",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-05T09:42:13+07:00",
-      "digestAt": "2026-10-05T09:42:13+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2609.13546v2": {
-      "url": "https://arxiv.org/abs/2609.13546",
-      "title": "WISER: Systematic Design-Space Exploration of Trapped Ions with Multiplexed Control",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-05T11:09:47+07:00",
-      "digestAt": "2026-10-05T11:09:47+07:00",
-      "status": "sent"
-    },
-    "rss:quantum-journal:https://quantum-journal.org/?post_type=paper&p=18839": {
-      "url": "https://quantum-journal.org/papers/q-2026-09-30-2219/",
-      "title": "Performance of the spin qubit shuttling architecture for a surface code implementation",
-      "source": "rss:quantum-journal",
-      "seenAt": "2026-10-05T11:09:47+07:00",
-      "digestAt": "2026-10-05T11:09:47+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2602.20452v3": {
-      "url": "https://arxiv.org/abs/2602.20452",
-      "title": "A Unified Error Correction Code for Universal Quantum Computing with Identical Particles",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-05T11:09:47+07:00",
-      "digestAt": "2026-10-05T11:09:47+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.03318v1": {
-      "url": "https://arxiv.org/abs/2610.03318",
-      "title": "Beyond Pure Dephasing: Quantum Error Correction in Single Molecules Requires Multiple Spins",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-05T11:09:47+07:00",
-      "digestAt": "2026-10-05T11:09:47+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.03605v1": {
-      "url": "https://arxiv.org/abs/2610.03605",
-      "title": "Efficient fidelity simulation of high-rate magic distillation circuits",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-05T11:09:47+07:00",
-      "digestAt": "2026-10-05T11:09:47+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.03682v1": {
-      "url": "https://arxiv.org/abs/2610.03682",
-      "title": "Low-Overhead Quantum Error Correction with Boundary-Connected Planar Modules",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-05T11:09:47+07:00",
-      "digestAt": "2026-10-05T11:09:47+07:00",
-      "status": "sent"
-    },
-    "rss:prx-quantum:a9ef979a40e769ef": {
-      "url": "http://link.aps.org/doi/10.1103/xysy-q3fp",
-      "title": "End-to-End Quantum Algorithm for Nonlinear Fluid Dynamics with Bounded Quantum Advantage",
-      "source": "rss:prx-quantum",
-      "seenAt": "2026-10-05T11:09:47+07:00",
-      "digestAt": "2026-10-05T11:09:47+07:00",
-      "status": "sent"
-    },
-    "rss:prx-quantum:c3ce23985c22eea8": {
-      "url": "http://link.aps.org/doi/10.1103/y14y-7kp3",
-      "title": "No-Go Theorem on Fault Tolerant Gadgets for Multiple Logical Qubits",
-      "source": "rss:prx-quantum",
-      "seenAt": "2026-10-05T11:09:47+07:00",
-      "digestAt": "2026-10-05T11:09:47+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2606.19482v2": {
-      "url": "https://arxiv.org/abs/2606.19482",
-      "title": "Nearest-neighbour gates are all you need: High-rate quantum low-density parity-check codes on a planar grid",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-05T11:20:42+07:00",
-      "digestAt": "2026-10-05T11:20:42+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.03399v1": {
-      "url": "https://arxiv.org/abs/2610.03399",
-      "title": "Optimizing quantum error correction through error attribution",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-05T11:20:42+07:00",
-      "digestAt": "2026-10-05T11:20:42+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2607.06557v2": {
-      "url": "https://arxiv.org/abs/2607.06557",
-      "title": "Quantum Channel Polynomial Processing",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-05T11:20:42+07:00",
-      "digestAt": "2026-10-05T11:20:42+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.02786v1": {
-      "url": "https://arxiv.org/abs/2610.02786",
-      "title": "Quantum Error-Corrected Memories Keep Proper Time",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-05T11:20:42+07:00",
-      "digestAt": "2026-10-05T11:20:42+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.02916v1": {
-      "url": "https://arxiv.org/abs/2610.02916",
-      "title": "Quasiparticle quantum simulation of materials with the Bethe-Salpeter equation",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-05T11:20:42+07:00",
-      "digestAt": "2026-10-05T11:20:42+07:00",
-      "status": "sent"
-    },
-    "rss:quantum-journal:https://quantum-journal.org/?post_type=paper&p=18664": {
-      "url": "https://quantum-journal.org/papers/q-2026-09-01-2198/",
-      "title": "A brief history of quantum vs classical computational advantage",
-      "source": "rss:quantum-journal",
-      "seenAt": "2026-10-05T11:20:42+07:00",
-      "digestAt": "2026-10-05T11:20:42+07:00",
-      "status": "sent"
-    },
-    "rss:prx-quantum:616e4b119cf09931": {
-      "url": "http://link.aps.org/doi/10.1103/jgv8-l3j1",
-      "title": "End-to-End Quantum Algorithms for the Jones Polynomial",
-      "source": "rss:prx-quantum",
-      "seenAt": "2026-10-05T11:20:42+07:00",
-      "digestAt": "2026-10-05T11:20:42+07:00",
-      "status": "sent"
-    },
-    "rss:quantum-journal:https://quantum-journal.org/?post_type=paper&p=18881": {
-      "url": "https://quantum-journal.org/papers/q-2026-10-01-2224/",
-      "title": "Fast Bosonic Control via Multiphoton Qubit-Oscillator Interactions",
-      "source": "rss:quantum-journal",
-      "seenAt": "2026-10-05T11:20:42+07:00",
-      "digestAt": "2026-10-05T11:20:42+07:00",
-      "status": "sent"
-    },
     "rss:arxiv-quant-ph:oai:arXiv.org:2610.01902v2": {
       "url": "https://arxiv.org/abs/2610.01902",
       "title": "Exponential quantum advantages for decoded quantum interferometry in the streaming setting",
@@ -771,6 +598,22 @@
       "source": "rss:quantum-computing-report",
       "seenAt": "2026-11-02T11:43:11+07:00",
       "digestAt": "2026-11-02T11:43:11+07:00",
+      "status": "sent"
+    },
+    "rss:quantum-computing-report:https://quantumcomputingreport.com/?p=48368": {
+      "url": "https://quantumcomputingreport.com/alice-bob-demonstrates-multi-hour-physical-bit-flip-suppression-on-single-cat-and-helium-2-processors/",
+      "title": "Alice & Bob Demonstrates Multi-Hour Physical Bit-Flip Suppression on Single-Cat and Helium 2 Processors",
+      "source": "rss:quantum-computing-report",
+      "seenAt": "2026-11-04T12:02:42+07:00",
+      "digestAt": "2026-11-04T12:02:42+07:00",
+      "status": "sent"
+    },
+    "rss:quantum-computing-report:https://quantumcomputingreport.com/?p=48375": {
+      "url": "https://quantumcomputingreport.com/quint-computing-secures-e9-1m-10-2m-usd-seed-round-to-scale-hardware-level-quantum-error-correction/",
+      "title": "Quint Computing Secures €9.1M ($10.2M USD) Seed Round to Scale Hardware-Level Quantum Error Correction",
+      "source": "rss:quantum-computing-report",
+      "seenAt": "2026-11-04T12:02:42+07:00",
+      "digestAt": "2026-11-04T12:02:42+07:00",
       "status": "sent"
     }
   }
