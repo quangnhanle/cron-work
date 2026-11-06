@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T02:15:11+07:00",
+  "updatedAt": "2026-11-06T10:53:38+07:00",
   "items": {
     "rss:simonwillison:40554e21f87e8f4b": {
       "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
@@ -48,44 +48,6 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-10-07T18:30:46+07:00",
       "status": "skipped"
-    },
-    "rss:simonwillison:d1e512dab3854dc0": {
-      "url": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
-      "title": "Quoting Victoria Kim",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-07T09:56:51+07:00",
-      "status": "skipped"
-    },
-    "rss:simonwillison:1f6a7ac23b124288": {
-      "url": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
-      "title": "EmbeddingGemma 2",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-07T09:56:53+07:00",
-      "status": "skipped"
-    },
-    "rss:simonwillison:62c509640c5df97d": {
-      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
-      "title": "llm-openai-decisions 0.1a0",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-07T09:56:56+07:00",
-      "digestAt": "2026-10-07T09:56:56+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:16278565d5091551": {
-      "url": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/",
-      "title": "Using Parseable with Datasette for OpenTelemetry traces",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-07T09:56:56+07:00",
-      "digestAt": "2026-10-07T09:56:56+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:a919ba35a5e056c2": {
-      "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
-      "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-07T09:56:56+07:00",
-      "digestAt": "2026-10-07T09:56:56+07:00",
-      "status": "sent"
     },
     "rss:simonwillison:6218e0219f6856f2": {
       "url": "https://simonwillison.net/2026/Oct/6/hn-49982139/",
@@ -1516,6 +1478,37 @@
       "source": "rss:github-engineering",
       "seenAt": "2026-11-06T02:15:11+07:00",
       "digestAt": "2026-11-06T02:15:11+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:ff14400f2913b0a2": {
+      "url": "https://simonwillison.net/2026/Nov/5/paul-ford/",
+      "title": "Quoting Paul Ford",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-06T10:53:27+07:00",
+      "status": "skipped"
+    },
+    "rss:cloudflare:01M6HXVSQY6XGPSH12AFMB81B9": {
+      "url": "https://blog.cloudflare.com/trusted-agent-delegation/",
+      "title": "Agents aren’t humans (but they kinda are)",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-11-06T10:53:38+07:00",
+      "digestAt": "2026-11-06T10:53:38+07:00",
+      "status": "sent"
+    },
+    "rss:github-engineering:https://github.blog/?p=98586": {
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+      "title": "How we make AI coding more cost efficient without sacrificing task quality",
+      "source": "rss:github-engineering",
+      "seenAt": "2026-11-06T10:53:38+07:00",
+      "digestAt": "2026-11-06T10:53:38+07:00",
+      "status": "sent"
+    },
+    "rss:github-engineering:https://github.blog/?p=100002": {
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "title": "Inside GitHub’s new Git storage architecture",
+      "source": "rss:github-engineering",
+      "seenAt": "2026-11-06T10:53:38+07:00",
+      "digestAt": "2026-11-06T10:53:38+07:00",
       "status": "sent"
     }
   }
