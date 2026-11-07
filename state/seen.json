@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T18:29:18+07:00",
+  "updatedAt": "2026-11-08T24:11:34+07:00",
   "items": {
     "rss:simonwillison:40554e21f87e8f4b": {
       "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
@@ -40,46 +40,6 @@
       "source": "rss:martin-fowler",
       "seenAt": "2026-10-07T24:37:32+07:00",
       "digestAt": "2026-10-07T24:37:32+07:00",
-      "status": "sent"
-    },
-    "rss:martin-fowler:f1dd89d7a2d59c24": {
-      "url": "https://martinfowler.com/fragments/2026-07-21.html",
-      "title": "Fragments: July 21",
-      "source": "rss:martin-fowler",
-      "seenAt": "2026-10-08T18:46:21+07:00",
-      "digestAt": "2026-10-08T18:46:21+07:00",
-      "status": "sent"
-    },
-    "rss:martin-fowler:73d164d48488f1d8": {
-      "url": "https://martinfowler.com/fragments/2026-09-08.html",
-      "title": "Fragments: September  8",
-      "source": "rss:martin-fowler",
-      "seenAt": "2026-10-08T18:46:21+07:00",
-      "digestAt": "2026-10-08T18:46:21+07:00",
-      "status": "sent"
-    },
-    "rss:martin-fowler:5dce93a1c80371a2": {
-      "url": "https://martinfowler.com/fragments/2026-09-24.html",
-      "title": "Fragments: September 24",
-      "source": "rss:martin-fowler",
-      "seenAt": "2026-10-08T18:46:21+07:00",
-      "digestAt": "2026-10-08T18:46:21+07:00",
-      "status": "sent"
-    },
-    "rss:martin-fowler:049f4e6c926ec9a7": {
-      "url": "https://martinfowler.com/articles/healthy-peer-feedback.html",
-      "title": "Healthy Feedback",
-      "source": "rss:martin-fowler",
-      "seenAt": "2026-10-08T18:46:21+07:00",
-      "digestAt": "2026-10-08T18:46:21+07:00",
-      "status": "sent"
-    },
-    "rss:martin-fowler:fa2cf7f3abc01193": {
-      "url": "https://martinfowler.com/rachels-ramblings/code-review.html",
-      "title": "Maybe We Shouldn't Be Reviewing All This Code",
-      "source": "rss:martin-fowler",
-      "seenAt": "2026-10-08T18:46:21+07:00",
-      "digestAt": "2026-10-08T18:46:21+07:00",
       "status": "sent"
     },
     "rss:cloudflare:01M4ATYPWQETFZA4EZJ5AJYSFT": {
@@ -1441,6 +1401,30 @@
       "source": "rss:github-engineering",
       "seenAt": "2026-11-07T01:41:37+07:00",
       "digestAt": "2026-11-07T01:41:37+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:5dce93a1c80371a2": {
+      "url": "https://martinfowler.com/fragments/2026-09-24.html",
+      "title": "Fragments: September 24",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-11-08T24:11:34+07:00",
+      "digestAt": "2026-11-08T24:11:34+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:049f4e6c926ec9a7": {
+      "url": "https://martinfowler.com/articles/healthy-peer-feedback.html",
+      "title": "Healthy Feedback",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-11-08T24:11:34+07:00",
+      "digestAt": "2026-11-08T24:11:34+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:fa2cf7f3abc01193": {
+      "url": "https://martinfowler.com/rachels-ramblings/code-review.html",
+      "title": "Maybe We Shouldn't Be Reviewing All This Code",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-11-08T24:11:34+07:00",
+      "digestAt": "2026-11-08T24:11:34+07:00",
       "status": "sent"
     }
   }
