@@ -1,31 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T12:24:58+07:00",
+  "updatedAt": "2026-11-07T11:54:18+07:00",
   "items": {
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.09749v1": {
-      "url": "https://arxiv.org/abs/2610.09749",
-      "title": "Automated reduction of fault-tolerant circuits",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-08T11:47:50+07:00",
-      "digestAt": "2026-10-08T11:47:50+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.03318v2": {
-      "url": "https://arxiv.org/abs/2610.03318",
-      "title": "Beyond Pure Dephasing: Quantum Error Correction in Single Molecules Requires Multiple Spins",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-08T11:47:50+07:00",
-      "digestAt": "2026-10-08T11:47:50+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2604.11857v4": {
-      "url": "https://arxiv.org/abs/2604.11857",
-      "title": "Blind Catalytic Quantum Error Correction: Target-State Estimation and Fidelity Recovery Without A Priori Knowledge",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-08T11:47:50+07:00",
-      "digestAt": "2026-10-08T11:47:50+07:00",
-      "status": "sent"
-    },
     "rss:arxiv-quant-ph:oai:arXiv.org:2508.20174v3": {
       "url": "https://arxiv.org/abs/2508.20174",
       "title": "Compilation-informed probabilistic logical-error cancellation",
@@ -614,6 +590,30 @@
       "source": "rss:arxiv-quant-ph",
       "seenAt": "2026-11-06T12:24:58+07:00",
       "digestAt": "2026-11-06T12:24:58+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2611.06975v1": {
+      "url": "https://arxiv.org/abs/2611.06975",
+      "title": "Physical regimes of quartic quantum advantage in elastic media simulation",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-07T11:54:18+07:00",
+      "digestAt": "2026-11-07T11:54:18+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2511.05492v3": {
+      "url": "https://arxiv.org/abs/2511.05492",
+      "title": "Quantum Data Representation via Circuit Partitioning and Reintegration",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-07T11:54:18+07:00",
+      "digestAt": "2026-11-07T11:54:18+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2611.06997v1": {
+      "url": "https://arxiv.org/abs/2611.06997",
+      "title": "All Bell inequalities with a quantum advantage in the minimal scenario are self-testing",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-07T11:54:18+07:00",
+      "digestAt": "2026-11-07T11:54:18+07:00",
       "status": "sent"
     }
   }
