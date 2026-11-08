@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T11:54:18+07:00",
+  "updatedAt": "2026-11-08T11:45:25+07:00",
   "items": {
     "rss:arxiv-quant-ph:oai:arXiv.org:2508.20174v3": {
       "url": "https://arxiv.org/abs/2508.20174",
@@ -485,8 +485,8 @@
       "url": "https://www.nature.com/articles/s41534-026-01403-y",
       "title": "Scalable neural decoders for practical real-time quantum error correction",
       "source": "rss:npj-quantum-information",
-      "seenAt": "2026-11-01T11:42:03+07:00",
-      "status": "extract_failed"
+      "seenAt": "2026-11-08T11:45:20+07:00",
+      "status": "skipped"
     },
     "rss:prx-quantum:7da5feb2109ef42a": {
       "url": "http://link.aps.org/doi/10.1103/6k5x-ztqt",
@@ -614,6 +614,45 @@
       "source": "rss:arxiv-quant-ph",
       "seenAt": "2026-11-07T11:54:18+07:00",
       "digestAt": "2026-11-07T11:54:18+07:00",
+      "status": "sent"
+    },
+    "rss:npj-quantum-information:337d6d4fa384dadd": {
+      "url": "https://www.nature.com/articles/s41534-026-01401-0",
+      "title": "Fault-tolerant quantum error correction for constant-excitation stabilizer codes under coherent noise",
+      "source": "rss:npj-quantum-information",
+      "seenAt": "2026-11-08T11:45:18+07:00",
+      "status": "extract_failed"
+    },
+    "rss:prx-quantum:a9ef979a40e769ef": {
+      "url": "http://link.aps.org/doi/10.1103/xysy-q3fp",
+      "title": "End-to-End Quantum Algorithm for Nonlinear Fluid Dynamics with Bounded Quantum Advantage",
+      "source": "rss:prx-quantum",
+      "seenAt": "2026-11-08T11:45:25+07:00",
+      "digestAt": "2026-11-08T11:45:25+07:00",
+      "status": "sent"
+    },
+    "rss:prx-quantum:c3ce23985c22eea8": {
+      "url": "http://link.aps.org/doi/10.1103/y14y-7kp3",
+      "title": "No-Go Theorem on Fault Tolerant Gadgets for Multiple Logical Qubits",
+      "source": "rss:prx-quantum",
+      "seenAt": "2026-11-08T11:45:25+07:00",
+      "digestAt": "2026-11-08T11:45:25+07:00",
+      "status": "sent"
+    },
+    "rss:quantum-journal:https://quantum-journal.org/?post_type=paper&p=18974": {
+      "url": "https://quantum-journal.org/papers/q-2026-10-20-2239/",
+      "title": "Interactive proofs for verifying (quantum) learning and testing",
+      "source": "rss:quantum-journal",
+      "seenAt": "2026-11-08T11:45:25+07:00",
+      "digestAt": "2026-11-08T11:45:25+07:00",
+      "status": "sent"
+    },
+    "rss:quantum-journal:https://quantum-journal.org/?post_type=paper&p=18939": {
+      "url": "https://quantum-journal.org/papers/q-2026-10-13-2234/",
+      "title": "Sampled-Based Guided Quantum Walk: Non-variational quantum algorithm for combinatorial optimization",
+      "source": "rss:quantum-journal",
+      "seenAt": "2026-11-08T11:45:25+07:00",
+      "digestAt": "2026-11-08T11:45:25+07:00",
       "status": "sent"
     }
   }
