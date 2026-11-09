@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T20:36:12+07:00",
+  "updatedAt": "2026-11-10T04:45:48+07:00",
   "items": {
     "rss:simonwillison:40554e21f87e8f4b": {
       "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
@@ -88,54 +88,6 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-10-10T24:44:45+07:00",
       "digestAt": "2026-10-10T24:44:45+07:00",
-      "status": "sent"
-    },
-    "rss:cloudflare:01M4GV0DTKYJTCM5GPYBCME1T4": {
-      "url": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/",
-      "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
-      "source": "rss:cloudflare",
-      "seenAt": "2026-10-10T23:37:31+07:00",
-      "digestAt": "2026-10-10T23:37:31+07:00",
-      "status": "sent"
-    },
-    "rss:cloudflare:01M3XD0M307DCDJ5QYA2RFTW87": {
-      "url": "https://blog.cloudflare.com/enterprise-for-all-update/",
-      "title": "Updates on our pledge to make Cloudflare features accessible to everyone",
-      "source": "rss:cloudflare",
-      "seenAt": "2026-10-10T23:37:31+07:00",
-      "digestAt": "2026-10-10T23:37:31+07:00",
-      "status": "sent"
-    },
-    "rss:github-engineering:https://github.blog/?p=97992": {
-      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
-      "title": "Using the GitHub Copilot SDK for Java",
-      "source": "rss:github-engineering",
-      "seenAt": "2026-10-10T23:37:31+07:00",
-      "digestAt": "2026-10-10T23:37:31+07:00",
-      "status": "sent"
-    },
-    "rss:github-engineering:https://github.blog/?p=98354": {
-      "url": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
-      "title": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
-      "source": "rss:github-engineering",
-      "seenAt": "2026-10-10T23:37:31+07:00",
-      "digestAt": "2026-10-10T23:37:31+07:00",
-      "status": "sent"
-    },
-    "rss:martin-fowler:fe30540858995220": {
-      "url": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
-      "title": "An Accidental Blackboard",
-      "source": "rss:martin-fowler",
-      "seenAt": "2026-10-10T23:37:31+07:00",
-      "digestAt": "2026-10-10T23:37:31+07:00",
-      "status": "sent"
-    },
-    "rss:martin-fowler:bf54a8a4e57cee03": {
-      "url": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",
-      "title": "Citizens Build, Agents Execute, Experts Govern",
-      "source": "rss:martin-fowler",
-      "seenAt": "2026-10-10T23:37:31+07:00",
-      "digestAt": "2026-10-10T23:37:31+07:00",
       "status": "sent"
     },
     "rss:simonwillison:a2dbc26766a3bd99": {
@@ -1323,6 +1275,38 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-11-09T20:36:12+07:00",
       "digestAt": "2026-11-09T20:36:12+07:00",
+      "status": "sent"
+    },
+    "rss:github-engineering:https://github.blog/?p=99002": {
+      "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
+      "title": "Rendering huge pull requests in the GitHub Copilot app",
+      "source": "rss:github-engineering",
+      "seenAt": "2026-11-10T04:45:48+07:00",
+      "digestAt": "2026-11-10T04:45:48+07:00",
+      "status": "sent"
+    },
+    "rss:github-engineering:https://github.blog/?p=97992": {
+      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
+      "title": "Using the GitHub Copilot SDK for Java",
+      "source": "rss:github-engineering",
+      "seenAt": "2026-11-10T04:45:48+07:00",
+      "digestAt": "2026-11-10T04:45:48+07:00",
+      "status": "sent"
+    },
+    "rss:github-engineering:https://github.blog/?p=98354": {
+      "url": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
+      "title": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
+      "source": "rss:github-engineering",
+      "seenAt": "2026-11-10T04:45:48+07:00",
+      "digestAt": "2026-11-10T04:45:48+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:fe30540858995220": {
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
+      "title": "An Accidental Blackboard",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-11-10T04:45:48+07:00",
+      "digestAt": "2026-11-10T04:45:48+07:00",
       "status": "sent"
     }
   }
