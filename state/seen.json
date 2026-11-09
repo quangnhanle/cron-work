@@ -1,47 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T11:45:25+07:00",
+  "updatedAt": "2026-11-09T11:54:30+07:00",
   "items": {
-    "rss:arxiv-quant-ph:oai:arXiv.org:2508.20174v3": {
-      "url": "https://arxiv.org/abs/2508.20174",
-      "title": "Compilation-informed probabilistic logical-error cancellation",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-09T11:51:01+07:00",
-      "digestAt": "2026-10-09T11:51:01+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.10948v1": {
-      "url": "https://arxiv.org/abs/2610.10948",
-      "title": "Geometry-optimized hyperbolic codes for modular fault-tolerant quantum architectures",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-09T11:51:01+07:00",
-      "digestAt": "2026-10-09T11:51:01+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.11225v1": {
-      "url": "https://arxiv.org/abs/2610.11225",
-      "title": "High-Rate Concatenated Quantum Error-Correcting Codes for Qudits",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-09T11:51:01+07:00",
-      "digestAt": "2026-10-09T11:51:01+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.12400v1": {
-      "url": "https://arxiv.org/abs/2610.12400",
-      "title": "Measure Now, Mitigate Later: Virtual Error Cancellation for Logical Quantum Circuits",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-09T11:51:01+07:00",
-      "digestAt": "2026-10-09T11:51:01+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.11658v1": {
-      "url": "https://arxiv.org/abs/2610.11658",
-      "title": "Error-Corrected Memory and Logic on a Heavy-Hex Superconducting-Qubit Processor",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-09T11:51:01+07:00",
-      "digestAt": "2026-10-09T11:51:01+07:00",
-      "status": "sent"
-    },
     "rss:npj-quantum-information:6db735cf84f7cb33": {
       "url": "https://www.nature.com/articles/s41534-026-01362-4",
       "title": "Unitary fault-tolerant encoding of Pauli states in surface codes",
@@ -653,6 +613,29 @@
       "source": "rss:quantum-journal",
       "seenAt": "2026-11-08T11:45:25+07:00",
       "digestAt": "2026-11-08T11:45:25+07:00",
+      "status": "sent"
+    },
+    "rss:quantum-computing-report:https://quantumcomputingreport.com/?p=48496": {
+      "url": "https://quantumcomputingreport.com/uk-financial-conduct-authority-launches-quantum-experimentation-group-to-evaluate-financial-crime-detection/",
+      "title": "UK Financial Conduct Authority Launches Quantum Experimentation Group to Evaluate Financial Crime Detection",
+      "source": "rss:quantum-computing-report",
+      "seenAt": "2026-11-09T11:54:27+07:00",
+      "status": "skipped"
+    },
+    "rss:quantum-computing-report:https://quantumcomputingreport.com/?p=48475": {
+      "url": "https://quantumcomputingreport.com/ibm-deploys-quantum-system-two-at-hyde-park-labs-to-anchor-illinois-quantum-ecosystem/",
+      "title": "IBM Deploys Quantum System Two at Hyde Park Labs to Anchor Illinois Quantum Ecosystem",
+      "source": "rss:quantum-computing-report",
+      "seenAt": "2026-11-09T11:54:30+07:00",
+      "digestAt": "2026-11-09T11:54:30+07:00",
+      "status": "sent"
+    },
+    "rss:quantum-computing-report:https://quantumcomputingreport.com/?p=48519": {
+      "url": "https://quantumcomputingreport.com/riverlane-demonstrates-data-driven-dem-augmentation-to-reduce-surface-code-logical-errors/",
+      "title": "Riverlane Demonstrates Data-Driven DEM Augmentation to Reduce Surface-Code Logical Errors",
+      "source": "rss:quantum-computing-report",
+      "seenAt": "2026-11-09T11:54:30+07:00",
+      "digestAt": "2026-11-09T11:54:30+07:00",
       "status": "sent"
     }
   }
