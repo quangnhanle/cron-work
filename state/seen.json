@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T10:17:41+07:00",
+  "updatedAt": "2026-11-09T20:36:12+07:00",
   "items": {
     "rss:simonwillison:40554e21f87e8f4b": {
       "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
@@ -88,46 +88,6 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-10-10T24:44:45+07:00",
       "digestAt": "2026-10-10T24:44:45+07:00",
-      "status": "sent"
-    },
-    "rss:netflix-tech:https://medium.com/p/67a85b15b6be": {
-      "url": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
-      "title": "Leave the Class Path in the Rearview Mirror",
-      "source": "rss:netflix-tech",
-      "seenAt": "2026-10-10T17:56:47+07:00",
-      "digestAt": "2026-10-10T17:56:47+07:00",
-      "status": "sent"
-    },
-    "rss:netflix-tech:https://medium.com/p/32f96320785e": {
-      "url": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
-      "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale",
-      "source": "rss:netflix-tech",
-      "seenAt": "2026-10-10T17:56:47+07:00",
-      "digestAt": "2026-10-10T17:56:47+07:00",
-      "status": "sent"
-    },
-    "rss:netflix-tech:https://medium.com/p/e7607acebde8": {
-      "url": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4",
-      "title": "Modeling Device Capabilities for Analytics",
-      "source": "rss:netflix-tech",
-      "seenAt": "2026-10-10T17:56:47+07:00",
-      "digestAt": "2026-10-10T17:56:47+07:00",
-      "status": "sent"
-    },
-    "rss:github-engineering:https://github.blog/?p=99002": {
-      "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
-      "title": "Rendering huge pull requests in the GitHub Copilot app",
-      "source": "rss:github-engineering",
-      "seenAt": "2026-10-10T17:56:47+07:00",
-      "digestAt": "2026-10-10T17:56:47+07:00",
-      "status": "sent"
-    },
-    "rss:netflix-tech:https://medium.com/p/516d5a29b252": {
-      "url": "https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4",
-      "title": "Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute",
-      "source": "rss:netflix-tech",
-      "seenAt": "2026-10-10T17:56:47+07:00",
-      "digestAt": "2026-10-10T17:56:47+07:00",
       "status": "sent"
     },
     "rss:cloudflare:01M4GV0DTKYJTCM5GPYBCME1T4": {
@@ -1324,6 +1284,45 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-11-09T10:17:41+07:00",
       "digestAt": "2026-11-09T10:17:41+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:4104450b512f4e78": {
+      "url": "https://simonwillison.net/2026/Nov/3/hn-50354278/",
+      "title": "AI is destroying my CS degree",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-09T20:36:04+07:00",
+      "status": "skipped"
+    },
+    "rss:cloudflare:01M6SMASVYY5EVPJPHFF7WNPFG": {
+      "url": "https://blog.cloudflare.com/launching-vite-ecosystem-fund/",
+      "title": "Launching the Vite Ecosystem Fund",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-11-09T20:36:12+07:00",
+      "digestAt": "2026-11-09T20:36:12+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:cfd192eda4f22e6c": {
+      "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
+      "title": "Hide your slop PR descriptions behind <details><summary>",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-09T20:36:12+07:00",
+      "digestAt": "2026-11-09T20:36:12+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:5963f0ac82713985": {
+      "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-09T20:36:12+07:00",
+      "digestAt": "2026-11-09T20:36:12+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:32cf753613ff7d62": {
+      "url": "https://simonwillison.net/2026/Nov/7/hn-50407316/",
+      "title": "Terry Pratchett's Study",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-09T20:36:12+07:00",
+      "digestAt": "2026-11-09T20:36:12+07:00",
       "status": "sent"
     }
   }
