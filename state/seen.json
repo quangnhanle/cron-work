@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T11:56:23+07:00",
+  "updatedAt": "2026-11-10T20:14:12+07:00",
   "items": {
     "rss:simonwillison:40554e21f87e8f4b": {
       "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
@@ -88,38 +88,6 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-10-10T24:44:45+07:00",
       "digestAt": "2026-10-10T24:44:45+07:00",
-      "status": "sent"
-    },
-    "rss:martin-fowler:231ac6df8b60f0a8": {
-      "url": "https://martinfowler.com/articles/never-send-slides/slide-principles.html",
-      "title": "Principles for effective slides",
-      "source": "rss:martin-fowler",
-      "seenAt": "2026-10-11T18:11:32+07:00",
-      "digestAt": "2026-10-11T18:11:32+07:00",
-      "status": "sent"
-    },
-    "rss:martin-fowler:ff2c498d2462499c": {
-      "url": "https://martinfowler.com/articles/2026-social-traffic.html",
-      "title": "Social Media Engagement: summer 2026",
-      "source": "rss:martin-fowler",
-      "seenAt": "2026-10-11T18:11:32+07:00",
-      "digestAt": "2026-10-11T18:11:32+07:00",
-      "status": "sent"
-    },
-    "rss:martin-fowler:d2c1ec9faaccd105": {
-      "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
-      "title": "The Economic Benefit of Refactoring",
-      "source": "rss:martin-fowler",
-      "seenAt": "2026-10-11T18:11:32+07:00",
-      "digestAt": "2026-10-11T18:11:32+07:00",
-      "status": "sent"
-    },
-    "rss:martin-fowler:93e2c0f1cbe26daa": {
-      "url": "https://martinfowler.com/rachels-ramblings/intro.html",
-      "title": "Why I’m Writing Rachel’s Ramblings",
-      "source": "rss:martin-fowler",
-      "seenAt": "2026-10-11T18:11:32+07:00",
-      "digestAt": "2026-10-11T18:11:32+07:00",
       "status": "sent"
     },
     "rss:cloudflare:01M4HA4SBV0ANTH6C2775H4SSY": {
@@ -1300,6 +1268,29 @@
       "source": "rss:martin-fowler",
       "seenAt": "2026-11-10T11:56:23+07:00",
       "digestAt": "2026-11-10T11:56:23+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:f932ce86887297f1": {
+      "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+      "title": "Quoting Prompting Claude Fable 5.2",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-10T20:14:05+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:c80838f46e535c12": {
+      "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-10T20:14:12+07:00",
+      "digestAt": "2026-11-10T20:14:12+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:c4312adb767125dc": {
+      "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
+      "title": "Yonkers Rises",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-10T20:14:12+07:00",
+      "digestAt": "2026-11-10T20:14:12+07:00",
       "status": "sent"
     }
   }
