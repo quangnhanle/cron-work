@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T04:45:48+07:00",
+  "updatedAt": "2026-11-10T11:56:23+07:00",
   "items": {
     "rss:simonwillison:40554e21f87e8f4b": {
       "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
@@ -88,44 +88,6 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-10-10T24:44:45+07:00",
       "digestAt": "2026-10-10T24:44:45+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:a2dbc26766a3bd99": {
-      "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
-      "title": "Python 3.15.0 added to actions/python-versions",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-11T09:29:41+07:00",
-      "status": "skipped"
-    },
-    "rss:simonwillison:ed32cd489cb393b4": {
-      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
-      "title": "Dwarf Fortress uses version control now",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-11T09:29:42+07:00",
-      "status": "skipped"
-    },
-    "rss:martin-fowler:a761b2d6d6a1206f": {
-      "url": "https://martinfowler.com/articles/never-send-slides/need-presentation.html",
-      "title": "Do you even need a presentation?",
-      "source": "rss:martin-fowler",
-      "seenAt": "2026-10-11T09:29:51+07:00",
-      "digestAt": "2026-10-11T09:29:51+07:00",
-      "status": "sent"
-    },
-    "rss:martin-fowler:e9af4baca2be2021": {
-      "url": "https://martinfowler.com/fragments/2026-09-29.html",
-      "title": "Fragments: September 29",
-      "source": "rss:martin-fowler",
-      "seenAt": "2026-10-11T09:29:51+07:00",
-      "digestAt": "2026-10-11T09:29:51+07:00",
-      "status": "sent"
-    },
-    "rss:martin-fowler:290359d4a69601fa": {
-      "url": "https://martinfowler.com/articles/practitioner-voice.html",
-      "title": "Practitioner Voice: The Writing Category Nobody has Named Yet",
-      "source": "rss:martin-fowler",
-      "seenAt": "2026-10-11T09:29:51+07:00",
-      "digestAt": "2026-10-11T09:29:51+07:00",
       "status": "sent"
     },
     "rss:martin-fowler:231ac6df8b60f0a8": {
@@ -1307,6 +1269,37 @@
       "source": "rss:martin-fowler",
       "seenAt": "2026-11-10T04:45:48+07:00",
       "digestAt": "2026-11-10T04:45:48+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:86b4ba3155e4ca0c": {
+      "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+      "title": "llm-anthropic 0.31",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-10T11:56:13+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:ffd0277ad7cd64c2": {
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "title": "Locating the source of a mysterious beep with Claude",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-10T11:56:23+07:00",
+      "digestAt": "2026-11-10T11:56:23+07:00",
+      "status": "sent"
+    },
+    "rss:netflix-tech:https://medium.com/p/d7d85859d808": {
+      "url": "https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4",
+      "title": "Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System",
+      "source": "rss:netflix-tech",
+      "seenAt": "2026-11-10T11:56:23+07:00",
+      "digestAt": "2026-11-10T11:56:23+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:a761b2d6d6a1206f": {
+      "url": "https://martinfowler.com/articles/never-send-slides/need-presentation.html",
+      "title": "Do you even need a presentation?",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-11-10T11:56:23+07:00",
+      "digestAt": "2026-11-10T11:56:23+07:00",
       "status": "sent"
     }
   }
