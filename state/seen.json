@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T19:25:20+07:00",
+  "updatedAt": "2026-11-12T02:01:38+07:00",
   "items": {
     "rss:simonwillison:40554e21f87e8f4b": {
       "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
@@ -1339,6 +1339,22 @@
       "source": "rss:martin-fowler",
       "seenAt": "2026-11-11T19:25:20+07:00",
       "digestAt": "2026-11-11T19:25:20+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:460872e68e9eeabb": {
+      "url": "https://simonwillison.net/2026/Nov/11/llm/",
+      "title": "llm 0.37.2",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-12T02:01:38+07:00",
+      "digestAt": "2026-11-12T02:01:38+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M742VWRK37TPYYPMXERSCWKN": {
+      "url": "https://blog.cloudflare.com/choosing-quepaxa/",
+      "title": "Choosing QuePaxa, an unusual consensus algorithm",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-11-12T02:01:38+07:00",
+      "digestAt": "2026-11-12T02:01:38+07:00",
       "status": "sent"
     }
   }
