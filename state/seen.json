@@ -1,31 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T13:10:16+07:00",
+  "updatedAt": "2026-11-11T11:56:24+07:00",
   "items": {
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.12685v1": {
-      "url": "https://arxiv.org/abs/2610.12685",
-      "title": "Fast computational primitives for La-cross qLDPC codes",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-12T11:37:32+07:00",
-      "digestAt": "2026-10-12T11:37:32+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2605.14637v2": {
-      "url": "https://arxiv.org/abs/2605.14637",
-      "title": "Adaptive Window Decoding based on Spatiotemporal Complementary Gap",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-12T11:37:32+07:00",
-      "digestAt": "2026-10-12T11:37:32+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.12597v1": {
-      "url": "https://arxiv.org/abs/2610.12597",
-      "title": "Error correction and quantum information spreading on sparse random graphs",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-12T11:37:32+07:00",
-      "digestAt": "2026-10-12T11:37:32+07:00",
-      "status": "sent"
-    },
     "rss:arxiv-quant-ph:oai:arXiv.org:2610.17058v1": {
       "url": "https://arxiv.org/abs/2610.17058",
       "title": "Architecting Instruction Execution for Scalable Fault-Tolerant Quantum Computing",
@@ -597,6 +573,38 @@
       "source": "rss:quantum-computing-report",
       "seenAt": "2026-11-09T11:54:30+07:00",
       "digestAt": "2026-11-09T11:54:30+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2603.22778v3": {
+      "url": "https://arxiv.org/abs/2603.22778",
+      "title": "Enabling Chemically Accurate Quantum Phase Estimation in the Early Fault-Tolerant Regime via Unitary Weight Concentration",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-11T11:56:24+07:00",
+      "digestAt": "2026-11-11T11:56:24+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2611.12833v1": {
+      "url": "https://arxiv.org/abs/2611.12833",
+      "title": "GARI++: A General-Purpose Decoder for Quantum Error Correction",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-11T11:56:24+07:00",
+      "digestAt": "2026-11-11T11:56:24+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2611.12098v1": {
+      "url": "https://arxiv.org/abs/2611.12098",
+      "title": "A Universal Fault-Tolerant Quantum Computing Architecture with Globally Driven Atom Arrays",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-11T11:56:24+07:00",
+      "digestAt": "2026-11-11T11:56:24+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2512.05322v2": {
+      "url": "https://arxiv.org/abs/2512.05322",
+      "title": "Highly resilient, error-protected quantum gates in a solid-state quantum network node",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-11T11:56:24+07:00",
+      "digestAt": "2026-11-11T11:56:24+07:00",
       "status": "sent"
     }
   }
