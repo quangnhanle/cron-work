@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T10:26:22+07:00",
+  "updatedAt": "2026-11-11T19:25:20+07:00",
   "items": {
     "rss:simonwillison:40554e21f87e8f4b": {
       "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
@@ -1331,6 +1331,14 @@
       "source": "rss:martin-fowler",
       "seenAt": "2026-11-11T10:26:22+07:00",
       "digestAt": "2026-11-11T10:26:22+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:231ac6df8b60f0a8": {
+      "url": "https://martinfowler.com/articles/never-send-slides/slide-principles.html",
+      "title": "Principles for effective slides",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-11-11T19:25:20+07:00",
+      "digestAt": "2026-11-11T19:25:20+07:00",
       "status": "sent"
     }
   }
