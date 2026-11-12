@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T02:01:38+07:00",
+  "updatedAt": "2026-11-12T11:35:50+07:00",
   "items": {
     "rss:simonwillison:40554e21f87e8f4b": {
       "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
@@ -88,37 +88,6 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-10-10T24:44:45+07:00",
       "digestAt": "2026-10-10T24:44:45+07:00",
-      "status": "sent"
-    },
-    "rss:cloudflare:01M4HA4SBV0ANTH6C2775H4SSY": {
-      "url": "https://blog.cloudflare.com/transformers-on-logpush/",
-      "title": "Filter, reshape, and redact logs before export with Transformers",
-      "source": "rss:cloudflare",
-      "seenAt": "2026-10-13T03:36:44+07:00",
-      "digestAt": "2026-10-13T03:36:44+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:2f5855ec66718315": {
-      "url": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
-      "title": "datasette-ports 0.4",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-13T03:36:44+07:00",
-      "digestAt": "2026-10-13T03:36:44+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:818cf62a3bb0a7f8": {
-      "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
-      "title": "web-edit 0.1a0",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-13T11:09:43+07:00",
-      "status": "skipped"
-    },
-    "rss:simonwillison:901eddfa61b84a5e": {
-      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
-      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-13T11:09:47+07:00",
-      "digestAt": "2026-10-13T11:09:47+07:00",
       "status": "sent"
     },
     "rss:simonwillison:ace58ee31866ab85": {
@@ -1355,6 +1324,38 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-11-12T02:01:38+07:00",
       "digestAt": "2026-11-12T02:01:38+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:967141e571a3a88a": {
+      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+      "title": "aws-emulator",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-12T11:35:50+07:00",
+      "digestAt": "2026-11-12T11:35:50+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:6e96a802abbc1d38": {
+      "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+      "title": "Anthropic's IPO roadshow video",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-12T11:35:50+07:00",
+      "digestAt": "2026-11-12T11:35:50+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:c84536febb2f56f5": {
+      "url": "https://martinfowler.com/articles/tests-as-data.html",
+      "title": "Tests as data: ensuring AI-generated code does what we want",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-11-12T11:35:50+07:00",
+      "digestAt": "2026-11-12T11:35:50+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:8ba32157965a133a": {
+      "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+      "title": "Browse tools.simonwillison.net by tag",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-12T11:35:50+07:00",
+      "digestAt": "2026-11-12T11:35:50+07:00",
       "status": "sent"
     }
   }
