@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T10:49:27+07:00",
+  "updatedAt": "2026-11-13T19:51:36+07:00",
   "items": {
     "rss:simonwillison:40554e21f87e8f4b": {
       "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
@@ -88,44 +88,6 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-10-10T24:44:45+07:00",
       "digestAt": "2026-10-10T24:44:45+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:ace58ee31866ab85": {
-      "url": "https://simonwillison.net/2026/Oct/13/web-edit/",
-      "title": "web-edit 0.1a1",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-14T16:55:08+07:00",
-      "status": "skipped"
-    },
-    "rss:martin-fowler:b5259ab25a826e95": {
-      "url": "https://martinfowler.com/articles/practitioner-voice.html#TheCraftOfPractitionerVoice",
-      "title": "The Craft of Practitioner Voice",
-      "source": "rss:martin-fowler",
-      "seenAt": "2026-10-14T16:55:10+07:00",
-      "status": "skipped"
-    },
-    "rss:simonwillison:fdc555784f183633": {
-      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
-      "title": "Redesigning source control at Anthropic",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-14T16:55:18+07:00",
-      "digestAt": "2026-10-14T16:55:18+07:00",
-      "status": "sent"
-    },
-    "rss:cloudflare:01M4RYTJWRQG5ZF619XNRPYAZB": {
-      "url": "https://blog.cloudflare.com/rewinding-the-exponential/",
-      "title": "Rewinding the exponential: How we keep hardware usage down",
-      "source": "rss:cloudflare",
-      "seenAt": "2026-10-14T16:55:18+07:00",
-      "digestAt": "2026-10-14T16:55:18+07:00",
-      "status": "sent"
-    },
-    "rss:cloudflare:01M4TZM0P3VSCZHV70ZGX58319": {
-      "url": "https://blog.cloudflare.com/d1-control-plane/",
-      "title": "Under the hood, off the hot path: How D1 scales to millions of databases",
-      "source": "rss:cloudflare",
-      "seenAt": "2026-10-14T16:55:18+07:00",
-      "digestAt": "2026-10-14T16:55:18+07:00",
       "status": "sent"
     },
     "rss:cloudflare:01M4VK1MXKAPMWG5QXYBFK222G": {
@@ -1348,6 +1310,21 @@
       "source": "rss:martin-fowler",
       "seenAt": "2026-11-13T10:49:27+07:00",
       "digestAt": "2026-11-13T10:49:27+07:00",
+      "status": "sent"
+    },
+    "hn:50467087": {
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "title": "Jensen Huang resigns",
+      "source": "hn",
+      "seenAt": "2026-11-13T19:51:30+07:00",
+      "status": "extract_failed"
+    },
+    "rss:martin-fowler:b5259ab25a826e95": {
+      "url": "https://martinfowler.com/articles/practitioner-voice.html#TheCraftOfPractitionerVoice",
+      "title": "The Craft of Practitioner Voice",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-11-13T19:51:36+07:00",
+      "digestAt": "2026-11-13T19:51:36+07:00",
       "status": "sent"
     }
   }
