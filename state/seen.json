@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T19:51:36+07:00",
+  "updatedAt": "2026-11-14T01:57:37+07:00",
   "items": {
     "rss:simonwillison:40554e21f87e8f4b": {
       "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
@@ -88,22 +88,6 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-10-10T24:44:45+07:00",
       "digestAt": "2026-10-10T24:44:45+07:00",
-      "status": "sent"
-    },
-    "rss:cloudflare:01M4VK1MXKAPMWG5QXYBFK222G": {
-      "url": "https://blog.cloudflare.com/hyperdrive-mysql/",
-      "title": "Inside Hyperdrive: How we solved a rare Hyperdrive MySQL caching bug",
-      "source": "rss:cloudflare",
-      "seenAt": "2026-10-14T23:11:49+07:00",
-      "digestAt": "2026-10-14T23:11:49+07:00",
-      "status": "sent"
-    },
-    "rss:martin-fowler:d995256e997e50a5": {
-      "url": "https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html",
-      "title": "Build your slide template",
-      "source": "rss:martin-fowler",
-      "seenAt": "2026-10-14T23:11:49+07:00",
-      "digestAt": "2026-10-14T23:11:49+07:00",
       "status": "sent"
     },
     "rss:simonwillison:8b2cab1489374fa7": {
@@ -1325,6 +1309,22 @@
       "source": "rss:martin-fowler",
       "seenAt": "2026-11-13T19:51:36+07:00",
       "digestAt": "2026-11-13T19:51:36+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M7950HA1NFDM7V5HW3AMZ0SB": {
+      "url": "https://blog.cloudflare.com/spend-management/",
+      "title": "Introducing Spend Management: Spending limits and alerts for Cloudflare",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-11-14T01:57:37+07:00",
+      "digestAt": "2026-11-14T01:57:37+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:d995256e997e50a5": {
+      "url": "https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html",
+      "title": "Build your slide template",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-11-14T01:57:37+07:00",
+      "digestAt": "2026-11-14T01:57:37+07:00",
       "status": "sent"
     }
   }
