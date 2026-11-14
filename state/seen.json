@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T01:57:37+07:00",
+  "updatedAt": "2026-11-14T10:47:35+07:00",
   "items": {
     "rss:simonwillison:40554e21f87e8f4b": {
       "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
@@ -88,46 +88,6 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-10-10T24:44:45+07:00",
       "digestAt": "2026-10-10T24:44:45+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:8b2cab1489374fa7": {
-      "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
-      "title": "AI is mass decompiling games. That's both awesome and scary.",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-15T09:04:11+07:00",
-      "digestAt": "2026-10-15T09:04:11+07:00",
-      "status": "sent"
-    },
-    "rss:netflix-tech:https://medium.com/p/ddf9aa68a801": {
-      "url": "https://netflixtechblog.com/netflix-stratum-media-processing-automated-container-right-sizing-ddf9aa68a801?source=rss----2615bd06b42e---4",
-      "title": "Netflix Stratum Media Processing: Automated Container Right-Sizing",
-      "source": "rss:netflix-tech",
-      "seenAt": "2026-10-15T09:04:11+07:00",
-      "digestAt": "2026-10-15T09:04:11+07:00",
-      "status": "sent"
-    },
-    "rss:netflix-tech:https://medium.com/p/d62b03a96d7a": {
-      "url": "https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a?source=rss----2615bd06b42e---4",
-      "title": "Reliable GPU compute for large training & inference jobs",
-      "source": "rss:netflix-tech",
-      "seenAt": "2026-10-15T09:04:11+07:00",
-      "digestAt": "2026-10-15T09:04:11+07:00",
-      "status": "sent"
-    },
-    "rss:netflix-tech:https://medium.com/p/c95bd8283508": {
-      "url": "https://netflixtechblog.com/the-lifecycle-of-llm-as-a-judge-building-aligning-and-monitoring-at-scale-c95bd8283508?source=rss----2615bd06b42e---4",
-      "title": "The Lifecycle of LLM-as-a-Judge: Building, Aligning, and Monitoring at scale",
-      "source": "rss:netflix-tech",
-      "seenAt": "2026-10-15T09:04:11+07:00",
-      "digestAt": "2026-10-15T09:04:11+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:eb4b2d9063ab8e79": {
-      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
-      "title": "Tree Appreciator",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-15T09:04:11+07:00",
-      "digestAt": "2026-10-15T09:04:11+07:00",
       "status": "sent"
     },
     "rss:netflix-tech:https://medium.com/p/826ebf9ad9fb": {
@@ -1325,6 +1285,29 @@
       "source": "rss:martin-fowler",
       "seenAt": "2026-11-14T01:57:37+07:00",
       "digestAt": "2026-11-14T01:57:37+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:e1058067669e2b5f": {
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+      "title": "datasette-leaflet 0.3",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-14T10:47:32+07:00",
+      "status": "skipped"
+    },
+    "rss:cloudflare:01M7B3YSRJB0B2GD4ZN00Q227F": {
+      "url": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
+      "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-11-14T10:47:35+07:00",
+      "digestAt": "2026-11-14T10:47:35+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M7B8MAKWAA44XACM7ZT7P4NN": {
+      "url": "https://blog.cloudflare.com/kitesurf-open-source/",
+      "title": "Kitesurf is now open source",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-11-14T10:47:35+07:00",
+      "digestAt": "2026-11-14T10:47:35+07:00",
       "status": "sent"
     }
   }
