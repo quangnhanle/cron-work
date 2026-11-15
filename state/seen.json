@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T24:28:42+07:00",
+  "updatedAt": "2026-11-15T10:27:12+07:00",
   "items": {
     "rss:simonwillison:40554e21f87e8f4b": {
       "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
@@ -88,38 +88,6 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-10-10T24:44:45+07:00",
       "digestAt": "2026-10-10T24:44:45+07:00",
-      "status": "sent"
-    },
-    "rss:cloudflare:01M5072CXFWQ88M9NCXZBSPAF2": {
-      "url": "https://blog.cloudflare.com/programmable-gateway-dlp/",
-      "title": "A fully programmable secure web gateway",
-      "source": "rss:cloudflare",
-      "seenAt": "2026-10-16T08:54:34+07:00",
-      "digestAt": "2026-10-16T08:54:34+07:00",
-      "status": "sent"
-    },
-    "rss:github-engineering:https://github.blog/?p=99529": {
-      "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
-      "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
-      "source": "rss:github-engineering",
-      "seenAt": "2026-10-16T08:54:34+07:00",
-      "digestAt": "2026-10-16T08:54:34+07:00",
-      "status": "sent"
-    },
-    "rss:netflix-tech:https://medium.com/p/e59d597c9d60": {
-      "url": "https://netflixtechblog.com/timeseries-tiered-storage-journey-kafka-flink-streams-to-native-cassandra-cold-reads-e59d597c9d60?source=rss----2615bd06b42e---4",
-      "title": "TimeSeries Tiered Storage Journey: Kafka/Flink Streams to Native Cassandra Cold Reads",
-      "source": "rss:netflix-tech",
-      "seenAt": "2026-10-16T08:54:34+07:00",
-      "digestAt": "2026-10-16T08:54:34+07:00",
-      "status": "sent"
-    },
-    "rss:cloudflare:01M4Y1477Z7DBJHXRZDP6MM2FN": {
-      "url": "https://blog.cloudflare.com/yandex-outage/",
-      "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
-      "source": "rss:cloudflare",
-      "seenAt": "2026-10-16T08:54:34+07:00",
-      "digestAt": "2026-10-16T08:54:34+07:00",
       "status": "sent"
     },
     "rss:simonwillison:23178e6a594364e0": {
@@ -1268,6 +1236,37 @@
       "source": "rss:martin-fowler",
       "seenAt": "2026-11-15T24:28:42+07:00",
       "digestAt": "2026-11-15T24:28:42+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:e9477865501b0215": {
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+      "title": "datasette-llm 0.1a11",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-15T10:27:04+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:4f7f1f7fcbbee0ff": {
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+      "title": "datasette-vega 0.7",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-15T10:27:12+07:00",
+      "digestAt": "2026-11-15T10:27:12+07:00",
+      "status": "sent"
+    },
+    "rss:github-engineering:https://github.blog/?p=99529": {
+      "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
+      "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+      "source": "rss:github-engineering",
+      "seenAt": "2026-11-15T10:27:12+07:00",
+      "digestAt": "2026-11-15T10:27:12+07:00",
+      "status": "sent"
+    },
+    "rss:netflix-tech:https://medium.com/p/e59d597c9d60": {
+      "url": "https://netflixtechblog.com/timeseries-tiered-storage-journey-kafka-flink-streams-to-native-cassandra-cold-reads-e59d597c9d60?source=rss----2615bd06b42e---4",
+      "title": "TimeSeries Tiered Storage Journey: Kafka/Flink Streams to Native Cassandra Cold Reads",
+      "source": "rss:netflix-tech",
+      "seenAt": "2026-11-15T10:27:12+07:00",
+      "digestAt": "2026-11-15T10:27:12+07:00",
       "status": "sent"
     }
   }
