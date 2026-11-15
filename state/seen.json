@@ -1,47 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T12:11:36+07:00",
+  "updatedAt": "2026-11-15T12:04:21+07:00",
   "items": {
-    "rss:arxiv-quant-ph:oai:arXiv.org:2404.17703v4": {
-      "url": "https://arxiv.org/abs/2404.17703",
-      "title": "A quantum annealing approach to the minimum distance problem of quantum codes",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-16T10:24:05+07:00",
-      "digestAt": "2026-10-16T10:24:05+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.19073v2": {
-      "url": "https://arxiv.org/abs/2610.19073",
-      "title": "A modular quantum computer based on Cornucopia codes",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-16T10:24:05+07:00",
-      "digestAt": "2026-10-16T10:24:05+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2509.13678v4": {
-      "url": "https://arxiv.org/abs/2509.13678",
-      "title": "Rare Event Simulation of Quantum Error-Correcting Circuits",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-16T10:24:05+07:00",
-      "digestAt": "2026-10-16T10:24:05+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2606.23612v2": {
-      "url": "https://arxiv.org/abs/2606.23612",
-      "title": "A quantum algorithm for one-shot signatures",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-16T10:24:05+07:00",
-      "digestAt": "2026-10-16T10:24:05+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.19299v1": {
-      "url": "https://arxiv.org/abs/2610.19299",
-      "title": "Gap-Priced $|T\\rangle$-States: Dynamic $|T\\rangle$ Post-Selection and Budget-Aware Factory Provisioning",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-16T10:24:05+07:00",
-      "digestAt": "2026-10-16T10:24:05+07:00",
-      "status": "sent"
-    },
     "rss:arxiv-quant-ph:oai:arXiv.org:2610.22275v1": {
       "url": "https://arxiv.org/abs/2610.22275",
       "title": "SynDebug: A Framework to Debug Logic Bugs in Fault-Tolerant Quantum Computing Programs",
@@ -485,8 +445,8 @@
       "url": "https://www.nature.com/articles/s41534-026-01401-0",
       "title": "Fault-tolerant quantum error correction for constant-excitation stabilizer codes under coherent noise",
       "source": "rss:npj-quantum-information",
-      "seenAt": "2026-11-08T11:45:18+07:00",
-      "status": "extract_failed"
+      "seenAt": "2026-11-15T12:04:13+07:00",
+      "status": "skipped"
     },
     "rss:prx-quantum:a9ef979a40e769ef": {
       "url": "http://link.aps.org/doi/10.1103/xysy-q3fp",
@@ -581,6 +541,38 @@
       "source": "rss:quantum-computing-report",
       "seenAt": "2026-11-13T12:22:33+07:00",
       "digestAt": "2026-11-13T12:22:33+07:00",
+      "status": "sent"
+    },
+    "rss:quantum-journal:https://quantum-journal.org/?post_type=paper&p=19184": {
+      "url": "https://quantum-journal.org/papers/q-2026-11-10-2265/",
+      "title": "Fast simulations of X-ray absorption spectroscopy for battery materials on a quantum computer",
+      "source": "rss:quantum-journal",
+      "seenAt": "2026-11-15T12:04:21+07:00",
+      "digestAt": "2026-11-15T12:04:21+07:00",
+      "status": "sent"
+    },
+    "rss:prx-quantum:cc83e7c4613270b8": {
+      "url": "http://link.aps.org/doi/10.1103/d6qf-5chk",
+      "title": "Information-Theoretic Principle of Emergent 1-Form Symmetries",
+      "source": "rss:prx-quantum",
+      "seenAt": "2026-11-15T12:04:21+07:00",
+      "digestAt": "2026-11-15T12:04:21+07:00",
+      "status": "sent"
+    },
+    "rss:prx-quantum:932010684f62af6c": {
+      "url": "http://link.aps.org/doi/10.1103/kfxl-rv7c",
+      "title": "Constant-Depth Clifford-Hierarchy Gates via Non-Abelian Surface Codes",
+      "source": "rss:prx-quantum",
+      "seenAt": "2026-11-15T12:04:21+07:00",
+      "digestAt": "2026-11-15T12:04:21+07:00",
+      "status": "sent"
+    },
+    "rss:quantum-journal:https://quantum-journal.org/?post_type=paper&p=19192": {
+      "url": "https://quantum-journal.org/papers/q-2026-11-10-2267/",
+      "title": "Lower-depth local encoding circuits for the surface code",
+      "source": "rss:quantum-journal",
+      "seenAt": "2026-11-15T12:04:21+07:00",
+      "digestAt": "2026-11-15T12:04:21+07:00",
       "status": "sent"
     }
   }
