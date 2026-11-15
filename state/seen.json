@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T19:29:00+07:00",
+  "updatedAt": "2026-11-16T01:14:00+07:00",
   "items": {
     "rss:simonwillison:40554e21f87e8f4b": {
       "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
@@ -88,14 +88,6 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-10-10T24:44:45+07:00",
       "digestAt": "2026-10-10T24:44:45+07:00",
-      "status": "sent"
-    },
-    "rss:cloudflare:01M510YDY2PS6BYR03DF8HHG2D": {
-      "url": "https://blog.cloudflare.com/verified-bots-accountability/",
-      "title": "Continuous accountability for Verified bots",
-      "source": "rss:cloudflare",
-      "seenAt": "2026-10-16T22:48:05+07:00",
-      "digestAt": "2026-10-16T22:48:05+07:00",
       "status": "sent"
     },
     "rss:simonwillison:e8a95e9b22df9875": {
