@@ -1,39 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T12:04:21+07:00",
+  "updatedAt": "2026-11-16T12:02:06+07:00",
   "items": {
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.22275v1": {
-      "url": "https://arxiv.org/abs/2610.22275",
-      "title": "SynDebug: A Framework to Debug Logic Bugs in Fault-Tolerant Quantum Computing Programs",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-17T10:14:16+07:00",
-      "digestAt": "2026-10-17T10:14:16+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2609.13065v2": {
-      "url": "https://arxiv.org/abs/2609.13065",
-      "title": "Error Correction in a Distributed Quantum Computer",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-17T10:14:16+07:00",
-      "digestAt": "2026-10-17T10:14:16+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.21357v1": {
-      "url": "https://arxiv.org/abs/2610.21357",
-      "title": "Stitched surface codes: planar concatenation through GHZ corridors",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-17T10:14:16+07:00",
-      "digestAt": "2026-10-17T10:14:16+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.22367v1": {
-      "url": "https://arxiv.org/abs/2610.22367",
-      "title": "Discovering state-of-the-art quantum circuits with large language models",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-17T10:14:16+07:00",
-      "digestAt": "2026-10-17T10:14:16+07:00",
-      "status": "sent"
-    },
     "rss:quantum-journal:https://quantum-journal.org/?post_type=paper&p=18964": {
       "url": "https://quantum-journal.org/papers/q-2026-10-15-2237/",
       "title": "Rare Event Simulation of Quantum Error-Correcting Circuits",
@@ -573,6 +541,62 @@
       "source": "rss:quantum-journal",
       "seenAt": "2026-11-15T12:04:21+07:00",
       "digestAt": "2026-11-15T12:04:21+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2611.12985v2": {
+      "url": "https://arxiv.org/abs/2611.12985",
+      "title": "Parametric Proof-Carrying Compilation for Quantum Error-Correction",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-16T12:02:06+07:00",
+      "digestAt": "2026-11-16T12:02:06+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2611.18504v1": {
+      "url": "https://arxiv.org/abs/2611.18504",
+      "title": "Agentic AI for Discovering Fault-Tolerant Quantum Circuits",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-16T12:02:06+07:00",
+      "digestAt": "2026-11-16T12:02:06+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2611.18192v1": {
+      "url": "https://arxiv.org/abs/2611.18192",
+      "title": "Entropic quantum error correction for independent and correlated amplitude damping errors",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-16T12:02:06+07:00",
+      "digestAt": "2026-11-16T12:02:06+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2611.18071v1": {
+      "url": "https://arxiv.org/abs/2611.18071",
+      "title": "Spin-adapted sample-based quantum diagonalization with randomized time evolution",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-16T12:02:06+07:00",
+      "digestAt": "2026-11-16T12:02:06+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2601.13313v2": {
+      "url": "https://arxiv.org/abs/2601.13313",
+      "title": "Synthesis of Fault-tolerant State Preparation Circuits using Steane-type Error Detection",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-16T12:02:06+07:00",
+      "digestAt": "2026-11-16T12:02:06+07:00",
+      "status": "sent"
+    },
+    "rss:quantum-computing-report:https://quantumcomputingreport.com/?p=48728": {
+      "url": "https://quantumcomputingreport.com/atom-computing-finalizes-100-million-u-s-department-of-commerce-rd-agreement-for-fault-tolerant-quantum-systems/",
+      "title": "Atom Computing Finalizes $100 Million U.S. Department of Commerce R&D Agreement for Fault-Tolerant Quantum Systems",
+      "source": "rss:quantum-computing-report",
+      "seenAt": "2026-11-16T12:02:06+07:00",
+      "digestAt": "2026-11-16T12:02:06+07:00",
+      "status": "sent"
+    },
+    "rss:quantum-computing-report:https://quantumcomputingreport.com/?p=48755": {
+      "url": "https://quantumcomputingreport.com/quantum-xchange-phio-tx-becomes-first-post-quantum-cryptographic-management-platform-to-earn-eucc-certification/",
+      "title": "Quantum XChange Phio TX Becomes First Post-Quantum Cryptographic Management Platform to Earn EUCC Certification",
+      "source": "rss:quantum-computing-report",
+      "seenAt": "2026-11-16T12:02:06+07:00",
+      "digestAt": "2026-11-16T12:02:06+07:00",
       "status": "sent"
     }
   }
