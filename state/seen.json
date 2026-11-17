@@ -1,39 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T12:02:06+07:00",
+  "updatedAt": "2026-11-17T13:49:58+07:00",
   "items": {
-    "rss:quantum-journal:https://quantum-journal.org/?post_type=paper&p=18964": {
-      "url": "https://quantum-journal.org/papers/q-2026-10-15-2237/",
-      "title": "Rare Event Simulation of Quantum Error-Correcting Circuits",
-      "source": "rss:quantum-journal",
-      "seenAt": "2026-10-18T10:18:31+07:00",
-      "digestAt": "2026-10-18T10:18:31+07:00",
-      "status": "sent"
-    },
-    "rss:prx-quantum:a37df55a54de5274": {
-      "url": "http://link.aps.org/doi/10.1103/ghn4-8y96",
-      "title": "<i>In Situ</i> Benchmarking of Fault-Tolerant Quantum Circuits: Clifford Circuits",
-      "source": "rss:prx-quantum",
-      "seenAt": "2026-10-18T10:18:31+07:00",
-      "digestAt": "2026-10-18T10:18:31+07:00",
-      "status": "sent"
-    },
-    "rss:prx-quantum:396473786c5dae9c": {
-      "url": "http://link.aps.org/doi/10.1103/3fj5-gn1h",
-      "title": "Accelerating Fault-Tolerant Quantum Computation with Good Quantum Low-Density Parity-Check Codes",
-      "source": "rss:prx-quantum",
-      "seenAt": "2026-10-18T10:18:31+07:00",
-      "digestAt": "2026-10-18T10:18:31+07:00",
-      "status": "sent"
-    },
-    "rss:quantum-journal:https://quantum-journal.org/?post_type=paper&p=18919": {
-      "url": "https://quantum-journal.org/papers/q-2026-10-08-2230/",
-      "title": "Composable logical gate error in approximate quantum error correction: reexamining gate implementations in Gottesman-Kitaev-Preskill codes",
-      "source": "rss:quantum-journal",
-      "seenAt": "2026-10-18T10:18:31+07:00",
-      "digestAt": "2026-10-18T10:18:31+07:00",
-      "status": "sent"
-    },
     "rss:arxiv-quant-ph:oai:arXiv.org:2610.22966v1": {
       "url": "https://arxiv.org/abs/2610.22966",
       "title": "Encodings and Node Architecture: Lessons from the Fault-Tolerant Distributed Transversal Fanout",
