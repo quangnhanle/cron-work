@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T03:14:40+07:00",
+  "updatedAt": "2026-11-18T11:53:32+07:00",
   "items": {
     "rss:simonwillison:40554e21f87e8f4b": {
       "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
@@ -88,21 +88,6 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-10-10T24:44:45+07:00",
       "digestAt": "2026-10-10T24:44:45+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:ae7b31dc246e2760": {
-      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
-      "title": "llm-tools-datasette 0.1.1",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-19T09:04:06+07:00",
-      "status": "skipped"
-    },
-    "rss:simonwillison:9d2417f40cde50f0": {
-      "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
-      "title": "llm-echo 0.5",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-19T09:04:08+07:00",
-      "digestAt": "2026-10-19T09:04:08+07:00",
       "status": "sent"
     },
     "rss:cloudflare:01M537RHECVHNJPV12N2E54ZR7": {
@@ -1298,6 +1283,22 @@
       "source": "rss:github-engineering",
       "seenAt": "2026-11-18T03:14:40+07:00",
       "digestAt": "2026-11-18T03:14:40+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:b4439a7527ca175b": {
+      "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+      "title": "External sandboxes for coding agents",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-18T11:53:32+07:00",
+      "digestAt": "2026-11-18T11:53:32+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M7NJA4ESQ31MDVBT2RBP1ZHX": {
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "title": "Quad9’s withdrawal from France: A canary in the coal mine",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-11-18T11:53:32+07:00",
+      "digestAt": "2026-11-18T11:53:32+07:00",
       "status": "sent"
     }
   }
