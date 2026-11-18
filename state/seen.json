@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T13:49:58+07:00",
+  "updatedAt": "2026-11-18T13:09:20+07:00",
   "items": {
     "rss:arxiv-quant-ph:oai:arXiv.org:2610.22966v1": {
       "url": "https://arxiv.org/abs/2610.22966",
@@ -565,6 +565,54 @@
       "source": "rss:quantum-computing-report",
       "seenAt": "2026-11-16T12:02:06+07:00",
       "digestAt": "2026-11-16T12:02:06+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2611.23165v1": {
+      "url": "https://arxiv.org/abs/2611.23165",
+      "title": "Teleportation of Logical Qubits using Lattice Surgery with Superconducting Circuits",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-18T13:09:20+07:00",
+      "digestAt": "2026-11-18T13:09:20+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2611.22232v1": {
+      "url": "https://arxiv.org/abs/2611.22232",
+      "title": "MASQ: Measurement-Adaptive Sampling for Near-Clifford Quantum Error Correction Circuits",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-18T13:09:20+07:00",
+      "digestAt": "2026-11-18T13:09:20+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2611.22247v1": {
+      "url": "https://arxiv.org/abs/2611.22247",
+      "title": "CHEQ: A Concurrent Hardware Evaluation Platform for QEC Decoders via Batch-Invariant Circuit-Level Noise Sampling",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-18T13:09:20+07:00",
+      "digestAt": "2026-11-18T13:09:20+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2611.08151v2": {
+      "url": "https://arxiv.org/abs/2611.08151",
+      "title": "Machine learning quantum data to accelerate quantum Monte Carlo",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-18T13:09:20+07:00",
+      "digestAt": "2026-11-18T13:09:20+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2611.22035v1": {
+      "url": "https://arxiv.org/abs/2611.22035",
+      "title": "Magic state cultivation with lattice-surgery escape on superconducting hardware",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-18T13:09:20+07:00",
+      "digestAt": "2026-11-18T13:09:20+07:00",
+      "status": "sent"
+    },
+    "rss:quantum-computing-report:https://quantumcomputingreport.com/?p=48911": {
+      "url": "https://quantumcomputingreport.com/classiq-collaborations-with-shionogi-kddi-research-and-softbank-earn-awards-in-japans-nedo-quantum-challenge/",
+      "title": "Classiq Collaborations with Shionogi, KDDI Research, and SoftBank Earn Awards in Japan’s NEDO Quantum Challenge",
+      "source": "rss:quantum-computing-report",
+      "seenAt": "2026-11-18T13:09:20+07:00",
+      "digestAt": "2026-11-18T13:09:20+07:00",
       "status": "sent"
     }
   }
