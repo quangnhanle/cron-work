@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T20:39:30+07:00",
+  "updatedAt": "2026-11-19T02:45:44+07:00",
   "items": {
     "rss:simonwillison:40554e21f87e8f4b": {
       "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
@@ -1307,6 +1307,29 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-11-18T20:39:30+07:00",
       "digestAt": "2026-11-18T20:39:30+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:d6b88907cbdaa308": {
+      "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+      "title": "The PSF end-of-year fundraiser",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-19T02:45:31+07:00",
+      "status": "skipped"
+    },
+    "rss:cloudflare:01M7QERD06VJ8ESJENBCYJESX5": {
+      "url": "https://blog.cloudflare.com/java4shell-waf-protection/",
+      "title": "How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938)",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-11-19T02:45:44+07:00",
+      "digestAt": "2026-11-19T02:45:44+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:fb2525e22d3f7800": {
+      "url": "https://martinfowler.com/articles/data-contracts.html",
+      "title": "Data Contracts",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-11-19T02:45:44+07:00",
+      "digestAt": "2026-11-19T02:45:44+07:00",
       "status": "sent"
     }
   }
