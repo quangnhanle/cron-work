@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T21:06:35+07:00",
+  "updatedAt": "2026-11-20T02:46:06+07:00",
   "items": {
     "rss:simonwillison:40554e21f87e8f4b": {
       "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
@@ -104,14 +104,6 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-10-20T24:58:37+07:00",
       "digestAt": "2026-10-20T24:58:37+07:00",
-      "status": "sent"
-    },
-    "rss:cloudflare:01M5C833HV3W30PBZZYVMCVRR6": {
-      "url": "https://blog.cloudflare.com/typescript-rust-port/",
-      "title": "Introducing tsrs: a Port of TypeScript to Rust",
-      "source": "rss:cloudflare",
-      "seenAt": "2026-10-20T23:03:23+07:00",
-      "digestAt": "2026-10-20T23:03:23+07:00",
       "status": "sent"
     },
     "rss:simonwillison:4257f838c0d22be2": {
