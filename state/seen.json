@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T20:48:30+07:00",
+  "updatedAt": "2026-11-21T02:26:57+07:00",
   "items": {
     "rss:simonwillison:40554e21f87e8f4b": {
       "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
@@ -104,54 +104,6 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-10-20T24:58:37+07:00",
       "digestAt": "2026-10-20T24:58:37+07:00",
-      "status": "sent"
-    },
-    "rss:martin-fowler:ebf3022769d5aa33": {
-      "url": "https://martinfowler.com/fragments/2026-10-21.html",
-      "title": "Fragments: October 21",
-      "source": "rss:martin-fowler",
-      "seenAt": "2026-10-21T23:19:54+07:00",
-      "digestAt": "2026-10-21T23:19:54+07:00",
-      "status": "sent"
-    },
-    "rss:cloudflare:01M5FBPW0VHJGHYHGS7CWWKGSP": {
-      "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
-      "title": "Cloudflare deploys protections against php2shell vulnerability",
-      "source": "rss:cloudflare",
-      "seenAt": "2026-10-21T23:19:54+07:00",
-      "digestAt": "2026-10-21T23:19:54+07:00",
-      "status": "sent"
-    },
-    "rss:cloudflare:01M5AYSGXBWG00KS9KC299XDR8": {
-      "url": "https://blog.cloudflare.com/webmcp-commerce/",
-      "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
-      "source": "rss:cloudflare",
-      "seenAt": "2026-10-21T23:19:54+07:00",
-      "digestAt": "2026-10-21T23:19:54+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:35b4b4388c707810": {
-      "url": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/",
-      "title": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-21T23:19:54+07:00",
-      "digestAt": "2026-10-21T23:19:54+07:00",
-      "status": "sent"
-    },
-    "rss:cloudflare:01M5E1HXVZGTKAKEYZ0KMZQ65Q": {
-      "url": "https://blog.cloudflare.com/full-transaction-waf/",
-      "title": "Introducing full transaction detection for Cloudflare WAF",
-      "source": "rss:cloudflare",
-      "seenAt": "2026-10-21T23:19:54+07:00",
-      "digestAt": "2026-10-21T23:19:54+07:00",
-      "status": "sent"
-    },
-    "rss:github-engineering:https://github.blog/?p=99628": {
-      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-      "title": "The bridge to agent-scale Git infrastructure",
-      "source": "rss:github-engineering",
-      "seenAt": "2026-10-21T23:19:54+07:00",
-      "digestAt": "2026-10-21T23:19:54+07:00",
       "status": "sent"
     },
     "rss:simonwillison:60cdd6b596008249": {
@@ -1331,6 +1283,38 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-11-20T11:36:36+07:00",
       "digestAt": "2026-11-20T11:36:36+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:a2a8be579621ccf2": {
+      "url": "https://martinfowler.com/fragments/2026-11-20.html",
+      "title": "Fragments: November 20",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-11-21T02:26:57+07:00",
+      "digestAt": "2026-11-21T02:26:57+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:cf3b0c6c1cbc2369": {
+      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+      "title": "Quoting Ravi Vakil",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-21T02:26:57+07:00",
+      "digestAt": "2026-11-21T02:26:57+07:00",
+      "status": "sent"
+    },
+    "rss:martin-fowler:ebf3022769d5aa33": {
+      "url": "https://martinfowler.com/fragments/2026-10-21.html",
+      "title": "Fragments: October 21",
+      "source": "rss:martin-fowler",
+      "seenAt": "2026-11-21T02:26:57+07:00",
+      "digestAt": "2026-11-21T02:26:57+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:f27b1f34ce20932c": {
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+      "title": "Quoting Levent Alpöge",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-21T02:26:57+07:00",
+      "digestAt": "2026-11-21T02:26:57+07:00",
       "status": "sent"
     }
   }
