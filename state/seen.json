@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T11:29:58+07:00",
+  "updatedAt": "2026-11-21T20:13:37+07:00",
   "items": {
     "rss:simonwillison:40554e21f87e8f4b": {
       "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
@@ -1307,6 +1307,14 @@
       "source": "rss:github-engineering",
       "seenAt": "2026-11-21T11:29:58+07:00",
       "digestAt": "2026-11-21T11:29:58+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M7X76K1JK00SF9K4YN83WANQ": {
+      "url": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
+      "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-11-21T20:13:37+07:00",
+      "digestAt": "2026-11-21T20:13:37+07:00",
       "status": "sent"
     }
   }
