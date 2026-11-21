@@ -1,31 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T12:57:00+07:00",
+  "updatedAt": "2026-11-21T12:51:13+07:00",
   "items": {
-    "rss:arxiv-quant-ph:oai:arXiv.org:2606.20184v2": {
-      "url": "https://arxiv.org/abs/2606.20184",
-      "title": "Operator learning for efficient quantum computation",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-22T10:32:29+07:00",
-      "digestAt": "2026-10-22T10:32:29+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2510.02430v4": {
-      "url": "https://arxiv.org/abs/2510.02430",
-      "title": "Mitigating the barren plateau problem in linear optics",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-22T10:32:29+07:00",
-      "digestAt": "2026-10-22T10:32:29+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.18225v2": {
-      "url": "https://arxiv.org/abs/2610.18225",
-      "title": "PPVM: A Circuit Simulation Framework for Digital Twins of Quantum Processors",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-22T10:32:29+07:00",
-      "digestAt": "2026-10-22T10:32:29+07:00",
-      "status": "sent"
-    },
     "rss:arxiv-quant-ph:oai:arXiv.org:2610.30087v1": {
       "url": "https://arxiv.org/abs/2610.30087",
       "title": "Injection is all you need: parallel universal logic in high-rate concatenated self-dual codes",
