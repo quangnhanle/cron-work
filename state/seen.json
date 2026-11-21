@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T02:26:57+07:00",
+  "updatedAt": "2026-11-21T11:29:58+07:00",
   "items": {
     "rss:simonwillison:40554e21f87e8f4b": {
       "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
@@ -104,22 +104,6 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-10-20T24:58:37+07:00",
       "digestAt": "2026-10-20T24:58:37+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:60cdd6b596008249": {
-      "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
-      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-22T09:08:28+07:00",
-      "digestAt": "2026-10-22T09:08:28+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:e0e7f9f0f4ba064a": {
-      "url": "https://simonwillison.net/2026/Oct/21/panache/",
-      "title": "Panache — RTS Belle Époque pour mobile",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-22T09:08:28+07:00",
-      "digestAt": "2026-10-22T09:08:28+07:00",
       "status": "sent"
     },
     "rss:simonwillison:2eded73c1a58a8ad": {
@@ -1315,6 +1299,14 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-11-21T02:26:57+07:00",
       "digestAt": "2026-11-21T02:26:57+07:00",
+      "status": "sent"
+    },
+    "rss:github-engineering:https://github.blog/?p=99628": {
+      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "title": "The bridge to agent-scale Git infrastructure",
+      "source": "rss:github-engineering",
+      "seenAt": "2026-11-21T11:29:58+07:00",
+      "digestAt": "2026-11-21T11:29:58+07:00",
       "status": "sent"
     }
   }
