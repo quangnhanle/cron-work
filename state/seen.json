@@ -1,39 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T12:51:13+07:00",
+  "updatedAt": "2026-11-22T12:25:01+07:00",
   "items": {
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.30087v1": {
-      "url": "https://arxiv.org/abs/2610.30087",
-      "title": "Injection is all you need: parallel universal logic in high-rate concatenated self-dual codes",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-23T10:37:25+07:00",
-      "digestAt": "2026-10-23T10:37:25+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2512.18273v3": {
-      "url": "https://arxiv.org/abs/2512.18273",
-      "title": "Evolutionary BP+OSD Decoding for Low-Latency Quantum Error Correction",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-23T10:37:25+07:00",
-      "digestAt": "2026-10-23T10:37:25+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.28748v1": {
-      "url": "https://arxiv.org/abs/2610.28748",
-      "title": "CoDecoder: Make Quantum Decoders Up to 100x Faster and Even More Accurate",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-23T10:37:25+07:00",
-      "digestAt": "2026-10-23T10:37:25+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2609.03825v2": {
-      "url": "https://arxiv.org/abs/2609.03825",
-      "title": "Energetic Costs of Subspace Quantum Error Correction",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-23T10:37:25+07:00",
-      "digestAt": "2026-10-23T10:37:25+07:00",
-      "status": "sent"
-    },
     "rss:arxiv-quant-ph:oai:arXiv.org:2511.08848v2": {
       "url": "https://arxiv.org/abs/2511.08848",
       "title": "Space-Time Optimisations for Early Fault-Tolerant Quantum Computation",
@@ -621,6 +589,22 @@
       "source": "rss:quantum-computing-report",
       "seenAt": "2026-11-20T12:57:00+07:00",
       "digestAt": "2026-11-20T12:57:00+07:00",
+      "status": "sent"
+    },
+    "rss:quantum-journal:https://quantum-journal.org/?post_type=paper&p=19275": {
+      "url": "https://quantum-journal.org/papers/q-2026-11-19-2278/",
+      "title": "Improved parameter initialization for the (local) unitary cluster Jastrow ansatz",
+      "source": "rss:quantum-journal",
+      "seenAt": "2026-11-22T12:25:01+07:00",
+      "digestAt": "2026-11-22T12:25:01+07:00",
+      "status": "sent"
+    },
+    "rss:prx-quantum:396473786c5dae9c": {
+      "url": "http://link.aps.org/doi/10.1103/3fj5-gn1h",
+      "title": "Accelerating Fault-Tolerant Quantum Computation with Good Quantum Low-Density Parity-Check Codes",
+      "source": "rss:prx-quantum",
+      "seenAt": "2026-11-22T12:25:01+07:00",
+      "digestAt": "2026-11-22T12:25:01+07:00",
       "status": "sent"
     }
   }
