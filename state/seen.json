@@ -1,31 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T12:25:01+07:00",
+  "updatedAt": "2026-11-23T13:00:28+07:00",
   "items": {
-    "rss:arxiv-quant-ph:oai:arXiv.org:2511.08848v2": {
-      "url": "https://arxiv.org/abs/2511.08848",
-      "title": "Space-Time Optimisations for Early Fault-Tolerant Quantum Computation",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-24T10:31:36+07:00",
-      "digestAt": "2026-10-24T10:31:36+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.31443v1": {
-      "url": "https://arxiv.org/abs/2610.31443",
-      "title": "ConQEC: Concolic Testing for Quantum Error-Correcting Code Implementations",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-24T10:31:36+07:00",
-      "digestAt": "2026-10-24T10:31:36+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2403.04572v5": {
-      "url": "https://arxiv.org/abs/2403.04572",
-      "title": "Quantum theory of molecular orientation",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-24T10:31:36+07:00",
-      "digestAt": "2026-10-24T10:31:36+07:00",
-      "status": "sent"
-    },
     "rss:quantum-journal:https://quantum-journal.org/?post_type=paper&p=19046": {
       "url": "https://quantum-journal.org/papers/q-2026-10-23-2247/",
       "title": "Floquet-ADAPT-VQE: A Quantum Algorithm to Simulate Non-Equilibrium Physics in Periodically Driven Systems",
@@ -605,6 +581,70 @@
       "source": "rss:prx-quantum",
       "seenAt": "2026-11-22T12:25:01+07:00",
       "digestAt": "2026-11-22T12:25:01+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2504.11670v3": {
+      "url": "https://arxiv.org/abs/2504.11670",
+      "title": "Adaptive Entanglement Distillation",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-23T13:00:28+07:00",
+      "digestAt": "2026-11-23T13:00:28+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2608.26600v2": {
+      "url": "https://arxiv.org/abs/2608.26600",
+      "title": "Auditing Encoder Reseeding for Quantum Error Correction under a Bounded Cloud Fault Model",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-23T13:00:28+07:00",
+      "digestAt": "2026-11-23T13:00:28+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2405.08138v2": {
+      "url": "https://arxiv.org/abs/2405.08138",
+      "title": "Logical qubits with geometrically enhanced energetic and parametric protection",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-23T13:00:28+07:00",
+      "digestAt": "2026-11-23T13:00:28+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2607.20943v2": {
+      "url": "https://arxiv.org/abs/2607.20943",
+      "title": "An Analytically Trained Variational Quantum Circuit using the Output Probability Distribution of Quantum Phase Estimation on NISQ Hardware",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-23T13:00:28+07:00",
+      "digestAt": "2026-11-23T13:00:28+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2608.02119v3": {
+      "url": "https://arxiv.org/abs/2608.02119",
+      "title": "Better accuracy with fewer qubits: Single-particle basis set optimization for quantum chemistry on quantum computers",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-23T13:00:28+07:00",
+      "digestAt": "2026-11-23T13:00:28+07:00",
+      "status": "sent"
+    },
+    "rss:quantum-computing-report:https://quantumcomputingreport.com/?p=49104": {
+      "url": "https://quantumcomputingreport.com/harvard-quera-and-caltech-design-single-shot-magic-state-factories-for-quantum-ldpc-codes-with-10-40x-lower-overhead/",
+      "title": "Harvard, QuEra, and Caltech Design Single-Shot Magic State Factories for Quantum LDPC Codes with 10–40x Lower Overhead",
+      "source": "rss:quantum-computing-report",
+      "seenAt": "2026-11-23T13:00:28+07:00",
+      "digestAt": "2026-11-23T13:00:28+07:00",
+      "status": "sent"
+    },
+    "rss:quantum-computing-report:https://quantumcomputingreport.com/?p=49098": {
+      "url": "https://quantumcomputingreport.com/quera-computing-and-nvidia-introduce-ppvm-open-source-digital-twin-simulation-framework-for-quantum-processors/",
+      "title": "QuEra Computing and NVIDIA Introduce PPVM Open-Source Digital-Twin Simulation Framework for Quantum Processors",
+      "source": "rss:quantum-computing-report",
+      "seenAt": "2026-11-23T13:00:28+07:00",
+      "digestAt": "2026-11-23T13:00:28+07:00",
+      "status": "sent"
+    },
+    "rss:quantum-computing-report:https://quantumcomputingreport.com/?p=49108": {
+      "url": "https://quantumcomputingreport.com/quera-harvard-and-umd-researchers-develop-polynomial-time-classical-benchmarking-for-non-clifford-fault-tolerant-circuits/",
+      "title": "QuEra, Harvard, and UMD Researchers Develop Polynomial-Time Classical Benchmarking for Non-Clifford Fault-Tolerant Circuits",
+      "source": "rss:quantum-computing-report",
+      "seenAt": "2026-11-23T13:00:28+07:00",
+      "digestAt": "2026-11-23T13:00:28+07:00",
       "status": "sent"
     }
   }
