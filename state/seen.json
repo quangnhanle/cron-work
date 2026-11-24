@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T06:05:37+07:00",
+  "updatedAt": "2026-11-24T14:17:50+07:00",
   "items": {
     "rss:simonwillison:40554e21f87e8f4b": {
       "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
@@ -1277,6 +1277,46 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-11-23T11:21:19+07:00",
       "digestAt": "2026-11-23T11:21:19+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:bfe39e5b176c7b57": {
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+      "title": "datasette-charts 0.2a0",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-24T14:17:50+07:00",
+      "digestAt": "2026-11-24T14:17:50+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:2f3ef0ead000ffc6": {
+      "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-24T14:17:50+07:00",
+      "digestAt": "2026-11-24T14:17:50+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:cde2e4331c947b3b": {
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+      "title": "datasette-agent 0.7a1",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-24T14:17:50+07:00",
+      "digestAt": "2026-11-24T14:17:50+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:d26bd4b314a87a65": {
+      "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
+      "title": "datasette-charts 0.1a0",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-24T14:17:50+07:00",
+      "digestAt": "2026-11-24T14:17:50+07:00",
+      "status": "sent"
+    },
+    "rss:cloudflare:01M7XNSFEMYQNMHGRYWVF2TQ82": {
+      "url": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+      "title": "Probing DNS at Cloudflare",
+      "source": "rss:cloudflare",
+      "seenAt": "2026-11-24T14:17:50+07:00",
+      "digestAt": "2026-11-24T14:17:50+07:00",
       "status": "sent"
     }
   }
