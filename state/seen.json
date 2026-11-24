@@ -1,39 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T13:00:28+07:00",
+  "updatedAt": "2026-11-24T15:40:51+07:00",
   "items": {
-    "rss:quantum-journal:https://quantum-journal.org/?post_type=paper&p=19046": {
-      "url": "https://quantum-journal.org/papers/q-2026-10-23-2247/",
-      "title": "Floquet-ADAPT-VQE: A Quantum Algorithm to Simulate Non-Equilibrium Physics in Periodically Driven Systems",
-      "source": "rss:quantum-journal",
-      "seenAt": "2026-10-25T10:27:55+07:00",
-      "digestAt": "2026-10-25T10:27:55+07:00",
-      "status": "sent"
-    },
-    "rss:quantum-journal:https://quantum-journal.org/?post_type=paper&p=19028": {
-      "url": "https://quantum-journal.org/papers/q-2026-10-22-2245/",
-      "title": "A Symmetry-Enabled Direct Quantum Protocol for Many-Body Green’s Functions",
-      "source": "rss:quantum-journal",
-      "seenAt": "2026-10-25T10:27:55+07:00",
-      "digestAt": "2026-10-25T10:27:55+07:00",
-      "status": "sent"
-    },
-    "rss:prx-quantum:ef5c0d09740beaa7": {
-      "url": "http://link.aps.org/doi/10.1103/989h-xjqv",
-      "title": "Algorithmic Construction of Gapped Boundaries for Topological Stabilizer Codes: A Route to Low-Overhead Planar qLDPC Codes",
-      "source": "rss:prx-quantum",
-      "seenAt": "2026-10-25T10:27:55+07:00",
-      "digestAt": "2026-10-25T10:27:55+07:00",
-      "status": "sent"
-    },
-    "rss:prx-quantum:8b32319be91b0ae5": {
-      "url": "http://link.aps.org/doi/10.1103/z1hc-nqw5",
-      "title": "Adaptive Estimation of Drifting Noise in Quantum Error Correction",
-      "source": "rss:prx-quantum",
-      "seenAt": "2026-10-25T10:27:55+07:00",
-      "digestAt": "2026-10-25T10:27:55+07:00",
-      "status": "sent"
-    },
     "rss:arxiv-quant-ph:oai:arXiv.org:2610.32152v1": {
       "url": "https://arxiv.org/abs/2610.32152",
       "title": "Trident: Efficient Load Verification for Yoked Surface Codes using a Three-Level Memory Hierarchy",
@@ -645,6 +613,38 @@
       "source": "rss:quantum-computing-report",
       "seenAt": "2026-11-23T13:00:28+07:00",
       "digestAt": "2026-11-23T13:00:28+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2511.06124v2": {
+      "url": "https://arxiv.org/abs/2511.06124",
+      "title": "Addressable gate-based logical computation with quantum LDPC codes",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-24T15:40:51+07:00",
+      "digestAt": "2026-11-24T15:40:51+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2605.14042v3": {
+      "url": "https://arxiv.org/abs/2605.14042",
+      "title": "C-Phase-Aware Compilation for Efficient Fault-Tolerant Quantum Execution",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-24T15:40:51+07:00",
+      "digestAt": "2026-11-24T15:40:51+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2611.30676v1": {
+      "url": "https://arxiv.org/abs/2611.30676",
+      "title": "THeatA: Transport- and Heating-aware QEC simulation with Cooling Strategies for QCCD Trapped-Ion Systems",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-24T15:40:51+07:00",
+      "digestAt": "2026-11-24T15:40:51+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2605.21746v2": {
+      "url": "https://arxiv.org/abs/2605.21746",
+      "title": "GeneCS: Synthesizing Resource-Efficient Code Surgery for Arbitrary Quantum Stabilizer Codes",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-24T15:40:51+07:00",
+      "digestAt": "2026-11-24T15:40:51+07:00",
       "status": "sent"
     }
   }
