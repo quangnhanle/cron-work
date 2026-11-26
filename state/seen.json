@@ -1,39 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T14:14:57+07:00",
+  "updatedAt": "2026-11-26T14:04:07+07:00",
   "items": {
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.32152v1": {
-      "url": "https://arxiv.org/abs/2610.32152",
-      "title": "Trident: Efficient Load Verification for Yoked Surface Codes using a Three-Level Memory Hierarchy",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-27T10:56:15+07:00",
-      "digestAt": "2026-10-27T10:56:15+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.06775v2": {
-      "url": "https://arxiv.org/abs/2610.06775",
-      "title": "Engineering logical gates with irrep surface codes",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-27T10:56:15+07:00",
-      "digestAt": "2026-10-27T10:56:15+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.32946v1": {
-      "url": "https://arxiv.org/abs/2610.32946",
-      "title": "Low-frustration block encodings by patch routing",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-27T10:56:15+07:00",
-      "digestAt": "2026-10-27T10:56:15+07:00",
-      "status": "sent"
-    },
-    "rss:arxiv-quant-ph:oai:arXiv.org:2610.32595v1": {
-      "url": "https://arxiv.org/abs/2610.32595",
-      "title": "The Compendium of Super-Quadratic Computational Quantum Advantages",
-      "source": "rss:arxiv-quant-ph",
-      "seenAt": "2026-10-27T10:56:15+07:00",
-      "digestAt": "2026-10-27T10:56:15+07:00",
-      "status": "sent"
-    },
     "rss:arxiv-quant-ph:oai:arXiv.org:2610.35227v2": {
       "url": "https://arxiv.org/abs/2610.35227",
       "title": "A Control Line Multiplexing Framework for Scalable Quantum Computing",
@@ -677,6 +645,30 @@
       "source": "rss:quantum-computing-report",
       "seenAt": "2026-11-25T14:14:57+07:00",
       "digestAt": "2026-11-25T14:14:57+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2611.34266v1": {
+      "url": "https://arxiv.org/abs/2611.34266",
+      "title": "Quantum Algorithm for Direct Estimation of Energy-Level Differences via Quantum Dynamics Simulation",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-26T14:04:07+07:00",
+      "digestAt": "2026-11-26T14:04:07+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2611.33389v1": {
+      "url": "https://arxiv.org/abs/2611.33389",
+      "title": "Constructively Embedding Quantum Error-Correcting Codes",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-26T14:04:07+07:00",
+      "digestAt": "2026-11-26T14:04:07+07:00",
+      "status": "sent"
+    },
+    "rss:arxiv-quant-ph:oai:arXiv.org:2611.33337v1": {
+      "url": "https://arxiv.org/abs/2611.33337",
+      "title": "Using a static spacetime subsystem code to calculate Floquet code distance",
+      "source": "rss:arxiv-quant-ph",
+      "seenAt": "2026-11-26T14:04:07+07:00",
+      "digestAt": "2026-11-26T14:04:07+07:00",
       "status": "sent"
     }
   }
