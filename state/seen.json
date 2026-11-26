@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T03:51:29+07:00",
+  "updatedAt": "2026-11-26T12:42:01+07:00",
   "items": {
     "rss:simonwillison:40554e21f87e8f4b": {
       "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
@@ -120,38 +120,6 @@
       "source": "rss:netflix-tech",
       "seenAt": "2026-10-27T24:57:00+07:00",
       "digestAt": "2026-10-27T24:57:00+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:c15b1e3c66d84564": {
-      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
-      "title": "GPT-6.1 Terra",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-27T09:37:42+07:00",
-      "digestAt": "2026-10-27T09:37:42+07:00",
-      "status": "sent"
-    },
-    "rss:cloudflare:01M5X2P6CQYMNAESRJ922DG5J3": {
-      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
-      "source": "rss:cloudflare",
-      "seenAt": "2026-10-27T09:37:42+07:00",
-      "digestAt": "2026-10-27T09:37:42+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:de56fb996b09bd29": {
-      "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
-      "title": "Quoting Jason Koebler",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-27T09:37:42+07:00",
-      "digestAt": "2026-10-27T09:37:42+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:db71bb0ca35a8120": {
-      "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
-      "title": "webframe: evaluated as a scraper and a sandbox",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-27T09:37:42+07:00",
-      "digestAt": "2026-10-27T09:37:42+07:00",
       "status": "sent"
     },
     "rss:cloudflare:01M5YGNW60G1XYREPZQ9W8PSTD": {
@@ -1333,6 +1301,21 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-11-26T03:51:29+07:00",
       "digestAt": "2026-11-26T03:51:29+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:e0577f40419a647d": {
+      "url": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
+      "title": "datasette-charts 0.3a0",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-26T12:41:56+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:4915fa3466d2d3bd": {
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-charts-2/",
+      "title": "datasette-charts 0.2a1",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-26T12:42:01+07:00",
+      "digestAt": "2026-11-26T12:42:01+07:00",
       "status": "sent"
     }
   }
