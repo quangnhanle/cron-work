@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T03:43:26+07:00",
+  "updatedAt": "2026-11-27T12:35:40+07:00",
   "items": {
     "rss:simonwillison:40554e21f87e8f4b": {
       "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
@@ -128,22 +128,6 @@
       "source": "rss:cloudflare",
       "seenAt": "2026-10-28T24:03:29+07:00",
       "digestAt": "2026-10-28T24:03:29+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:8333c89d9d7c203a": {
-      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
-      "title": "Game Boy Color on My Conference Badge",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-28T09:46:09+07:00",
-      "digestAt": "2026-10-28T09:46:09+07:00",
-      "status": "sent"
-    },
-    "rss:cloudflare:01M5G72REK3978980FNZCPDBRR": {
-      "url": "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
-      "title": "What took the Internet offline in Q3 2026",
-      "source": "rss:cloudflare",
-      "seenAt": "2026-10-28T09:46:09+07:00",
-      "digestAt": "2026-10-28T09:46:09+07:00",
       "status": "sent"
     },
     "rss:simonwillison:2cf23206607f40da": {
@@ -1348,6 +1332,14 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-11-27T03:43:26+07:00",
       "digestAt": "2026-11-27T03:43:26+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:fcbb41954277a0a1": {
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+      "title": "Quoting Jack Despain Zhou",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-11-27T12:35:40+07:00",
+      "digestAt": "2026-11-27T12:35:40+07:00",
       "status": "sent"
     }
   }
